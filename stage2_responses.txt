@@ -1,0 +1,15 @@
+hello
+2024-10-16 04:25:49.938580Row 1:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: According to the transcript, Airbnb went public in March 2020. The company priced its initial public offering (IPO) at $68 per share on December 9, 2020.
+Cosine Similarity: 0.46933725476264954
+2024-10-16 04:52:53.054615Row 2:
+Question: Why did Wimdu unlike Airbnb not take off?
+Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
+Generated Answer: Wimdu, a platform for short-term rentals, failed to gain traction and eventually shut down in 2012 due to several reasons:
+
+1. **Competition from Airbnb**: Airbnb was launched in 2008 and quickly gained popularity as a platform for short-term rentals. Wimdu's founders believed that they could compete with Airbnb by offering similar services at lower prices.
+2. **Lack of marketing efforts**: Wimdu did not invest heavily in marketing, which limited their ability to attract users and generate revenue.
+3. **Poor user experience**: Wimdu's website and mobile app were criticized for being cluttered and difficult
+Cosine Similarity: 0.6543885469436646

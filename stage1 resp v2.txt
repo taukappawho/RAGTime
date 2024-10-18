@@ -1,0 +1,536 @@
+rag_venv) C:\Users\14107\Desktop\Courses\COSC760BigData\Project\program> c: && cd c:\Users\14107\Desktop\Courses\COSC760BigData\Project\program && cmd /C "c:\Users\14107\Desktop\Courses\COSC760BigData\Project\program\rag_venv\Scripts\python.exe c:\Users\14107\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher 56756 -- C:\Users\14107\Desktop\Courses\COSC760BigData\Project\program\stage1.py "
+2024-10-15 17:46:52.150027
+Row 1:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: According to the transcript, Airbnb went public in March 2020. The company priced its initial public offering (IPO) at $68 per share on December 9, 2020.
+Cosine Similarity: 0.46933725476264954
+
+2024-10-15 18:14:03.239549
+Row 2:
+Question: Why did Wimdu unlike Airbnb not take off?
+Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
+Generated Answer: Wimdu, a platform for short-term rentals, failed to gain traction and eventually shut down in 2012 due to several reasons:
+
+1. **Competition from Airbnb**: Airbnb was launched in 2008 and quickly gained popularity as a platform for short-term rentals. Wimdu's founders believed that they could compete with Airbnb by offering similar services at lower prices.
+2. **Lack of marketing efforts**: Wimdu did not invest heavily in marketing, which limited their ability to attract users and generate revenue.
+3. **Poor user experience**: Wimdu's website and mobile app were criticized for being cluttered and difficult
+Cosine Similarity: 0.6543885469436646
+
+2024-10-15 18:14:28.292832
+Row 3:
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb
+Human Answer: Even though both the airline industry and airbnb have a global geographical presence the airline operators working on a global scale have different requirements so do local and regional operators leading to different required infrastructure hence market fragmentation becomes important
+Generated Answer: The story of Airbnb's success can be attributed to several factors that contributed to its ability to fragment the market and create a unique value proposition:
+
+1. **Network effect**: Airbnb's platform allows users to connect with each other, creating a network effect where more people join in when others do. This leads to an exponential growth in the number of listings, which in turn attracts more hosts.   
+2. **Global reach**: Airbnb operates globally, allowing it to tap into different markets and customer segments. Its international presence enables it to cater to diverse needs and preferences, creating a unique value proposition that sets it apart from local travel companies.
+3. **
+Cosine Similarity: 0.6692665815353394
+
+2024-10-15 18:14:53.759740
+Row 4:
+Question: How many hot dogs does Costco currently sell per year?
+Human Answer: 130 million
+Generated Answer: The text doesn't mention the exact number of hot dogs sold by Costco per year. However, it does mention that Costco sells 2.2 million pumpkin pies in three days leading up to Thanksgiving last year and sells 1/3 of the jumbo cashews in the entire world. It also mentions that Costco sells eyeglasses at their optical grinding labs.
+Cosine Similarity: 0.19461271166801453
+
+2024-10-15 18:51:22.740550
+Row 5:
+Question: What store was created as "the price club of hardware stores"?
+Human Answer: Home Depot
+Generated Answer: FedMart
+Cosine Similarity: 0.4937763214111328
+
+2024-10-15 18:51:26.954470
+Row 6:
+Question: How long did it take for Costco to generate 1 billion dollars in revenue?
+Human Answer: Within 3 years
+Generated Answer: There is no mention of how long it took for Costco to generate $1 billion in revenue. The episode discusses various aspects of the company's business model, including its low SKU count, vertical integration, and focus on customer retention. However, it does not provide a specific timeline or figure for generating $1 billion in revenue.
+Cosine Similarity: 0.14070680737495422
+
+2024-10-15 18:51:44.652461
+Row 7:
+Question: What is the New Look?
+Human Answer: Look that celebrates life again after the WW2 created by Christian Dior house.
+Generated Answer: The "New Look" refers to a fashion trend introduced by Christian Dior in 1947, which revolutionized women's fashion and became one of the most iconic styles of the 20th century. The term "New Look" was coined because it marked a significant departure from the more austere and minimalist designs that were popular at the time.
+
+The New Look was characterized by its emphasis on luxury fabrics, elaborate details, and feminine silhouettes. It featured:  
+
+* Elaborate embroidery and beading
+* Luxurious fabrics such as silk, velvet, and satin
+* Full skirts with layers of netting or tulle underneath
+Cosine Similarity: 0.34079042077064514
+
+2024-10-15 19:39:03.793122
+Row 8:
+Question: How much money did the Arnaut family offer to buy out the Boussac group?
+Human Answer: 15 million dollars bid
+Generated Answer: The Arnault family offered $60 million to buy out the Boussac group from the government.
+Cosine Similarity: 0.2663818597793579
+
+2024-10-15 19:39:13.620131
+Row 9:
+Question: What is American Crown Jewel?
+Human Answer: Tiffany and Co. brand
+Generated Answer: American Crown Jewels refers to a collection of 22 crown jewels owned by the British monarch, currently on display at the Tower of London in London, England. The collection includes over 140 objects, including crowns, scepters, and other regalia, that were acquired from various European countries during the 17th century.
+
+The American Crown Jewels are considered one of the most valuable collections of jewels in the world, with an estimated value of around $1 billion. They have been on display at the Tower of London since 1838 and are seen by millions of visitors each year.
+
+In the context of the episode, David mentions
+Cosine Similarity: 0.1746188998222351
+
+2024-10-15 19:39:48.899527
+Row 10:
+Question: According to Information Theory, what is the importance of knowing what message your sender is trying to convey?   
+Human Answer: The more closely the actual communication is to the expected message the 'noisier' the transmission medium can be and the less important gain is.
+Generated Answer: According to Information Theory, the importance of knowing what message your sender is trying to convey lies in the concept of entropy and signal processing. In simple terms, entropy measures the amount of uncertainty or randomness in a system.
+
+When you send a message, it's like encoding information into a digital signal. The receiver needs to decode this signal to understand the original message. If you don't know what message your sender is trying to convey, it's like sending a random signal that doesn't correspond to any specific message.
+
+In Information Theory, the concept of entropy is crucial in understanding how signals are processed and decoded. The more information (or entropy)
+Cosine Similarity: 0.4638652205467224
+
+2024-10-15 20:04:00.514677
+Row 11:
+Question: Compare the impact on Qualcomm between the two Jacobs.
+Human Answer: Erwin Jacobs was a genius and visionary who participated in the founding and skyrocketing growth of two company's.  Paul Jacobs while running a large and complex company, made some notable incorrect bets and overplayed the company's patent assets taking on an adversary situation with customers and countries.
+Generated Answer: The two Jacobs, Irwin and Paul, had a significant impact on Qualcomm's history. Here's a comparison of their contributions:
+
+Irwin Jacobs (1933-2019) was a pioneer in wireless communications and played a crucial role in the development of CDMA technology. He founded Linkabit, which later became Qualcomm, and worked closely with Claude Shannon to develop the first patent for digital communication.
+
+Paul Jacobs (born 1957) joined Qualcomm in 1985 as an engineer and quickly rose through the ranks. He was instrumental in developing the company's early products, including the CDMA-based OmniTrak system, which was used
+Cosine Similarity: 0.5747705101966858
+
+2024-10-15 20:04:24.022242
+Row 12:
+Question: What is the Scandinavian connection to Qualcomm's early rise?
+Human Answer: Nokia was one of the key early customers for ChatGPT and is a Finnish company.
+Generated Answer: The Scandinavian connection to Qualcomm's early rise is through the company's founder Irwin Jacobs' family ties to Norway and Sweden. In 1933, Irwin Jacobs' father, Friedrich Mandl, was a Nazi arms dealer in Austria, which led to Irwin Jacobs being told by his high school guidance counselor that there were no future for math and science in New Bedford, Massachusetts.
+
+In 1940, Irwin Jacobs moved to Norway with his family. He attended the Norwegian School of Hotel Management and later studied electrical engineering at the University of Oslo. After completing his studies, he worked as an engineer for a Norwegian company called Linkabit
+Cosine Similarity: 0.18179190158843994
+
+2024-10-15 20:04:48.116146
+Row 13:
+Question: When did AWS formed and who first head of AWS techincally?
+Human Answer: In 2002, total of 8 people attended the conference and announced to the world that launch of new division with in Amazon that is called Amazon Web service. Collin is tchnically becomes first head of AWS.
+Generated Answer: AWS (Amazon Web Services) was formed in 2002 by Jeff Bezos, the founder of Amazon.com. The first technical leader of AWS was Andy Jassy, who took over as CEO of AWS in September 2013 after the departure of Jeff Bezos. However, it's worth noting that Collin Brier, a former AWS executive, became the first head of AWS technology in August 2002, before Andy Jassy took over.
+Cosine Similarity: 0.6612578630447388
+
+2024-10-15 20:35:20.050059
+Row 14:
+Question: What was the final words by Amazon CTO Werner Vogels in Quora Post in 2011?
+Human Answer: Wernwe Volgels wrote "The excess intrastructure capacity story is a myth. It was never a matter of selling excess capacity. Acutally, within two months after launch, AWS would have alreadyburned the excess amazon.com capacity.AWS was considered a business by itself with the expectation that it could even grow as big as amazon.com retail operation."
+Generated Answer: The final words by Amazon CTO Werner Vogels in his Quora post in 2011 were:
+
+"The excess capacity story is a myth. It was never a matter of selling excess capacity. Actually, within two months after launch, AWS would have already burned through the excess amazon.com capacity."
+Cosine Similarity: 0.8914613723754883
+
+2024-10-15 20:35:35.235245
+Row 15:
+Question: What boots and jacket we often see Jeff Bezos in ?
+Human Answer: cowboy boots and a jacket
+Generated Answer: The question asks what type of boots and jacket Jeff Bezos is often seen wearing. The answer is "tanks and onesies".
+Cosine Similarity: 0.5931199789047241
+
+2024-10-15 21:47:24.000787
+Row 16:
+Question: Where is Blue Origins operations are based in?
+Human Answer: Van Horn, Texas
+Generated Answer: The text does not explicitly state where Blue Origin's operations are based. However, according to various sources, including the company's website and news articles from 2020, Blue Origin's headquarters is located at Blue Origin Development Facility, located near Van Horn, Texas, United States.
+Cosine Similarity: 0.28330767154693604
+
+2024-10-15 21:47:46.127627
+Row 17:
+Question: Which was one of the first free email services?
+Human Answer: Juno was one of the first free email services.
+Generated Answer: The answer is Cotton Bureau. It was a free email service that Jeff Bezos started while he was at D.E. Shaw in 1994.
+Cosine Similarity: 0.41884109377861023
+
+2024-10-15 21:48:00.243116
+
+
+
+
+
+ns 20% of Volkswagen is Lower Saxony (also known as "Niedersachsen" in German). This is according to the Volkswagen Group's own information, which states that the state of Lower Saxony holds a significant stake in the company. The exact percentage is not specified, but it is mentioned that the state owns 20% of Volkswagen's shares.       
+Cosine Similarity: 0.4652113914489746
+
+2024-10-15 07:16:52.159820        
+Row 39:
+Question: What's Startup Garage at Stanford's GSB?
+Human Answer: A class at GSB to build and launch a startup company  
+Generated Answer: Startup Garage is a two-quarter class at Stanford Graduate School of Business (GSB) that focuses on the design and development of products or services. It was co-taught by GSB and the design school, d.school. The class applies to students as fully-formed teams, with no prior experience in product development or design thinking.
+Cosine Similarity: 0.7185795307159424
+
+2024-10-15 07:48:31.281030        
+Row 40:
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?
+Human Answer: Chloe
+Generated Answer: The owner of the shop that ispired the idea behind the Doordash app is Tony Xu. He was a co-founder of Palo Alto Delivery, which later became DoorDash. 
+Cosine Similarity: 0.08719103038311005
+
+2024-10-15 07:48:42.151534        
+Row 41:
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?
+Human Answer: Leafly, the marijuana company;
+A Visiting Author
+Generated Answer: The first customer of Palo Alto Delivery (now known as DoorDash) worked at Stanford, specifically in Champaign Urbana and San Jose. The man's name is Evan Moore, and he was a business school student at GSB (Stanford Graduate School of Business). He had previously worked on a project with Stanley Tang, another Stanford student, but they were not the founders of Palo Alto Delivery.        
+
+Evan Moore was working as an intern at Square in the fall of 2012 when he met Tony Xu and his co-founders Andy Fang and Stanley Tang. They were all students at GSB or other Stanford programs.
+Cosine Similarity: 0.21688465774059296
+
+2024-10-15 07:49:09.857101        
+Row 42:
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York
+Human Answer: IBM Computer Training Seminar
+Generated Answer: Ben Walton enrolled himself as Chairman/CEO of Walmart in a seminar at IBM on how to use computing technology in business.
+Cosine Similarity: 0.34190160036087036
+
+2024-10-15 08:25:25.025667        
+Row 43:
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost
+Human Answer: 5%
+Generated Answer: According to the transcript, when Sam Walton bought the Ben Franklin store in Ruskin Heights, he paid $32,000 in revenue and $90,000 in sales for that year.
+
+To calculate the percentage of rent to sales, we can use the following formula:
+
+(Rent / Sales) x 100 = (32,000 / 90,000) x 100 ≈ 35.56%
+
+So, Sam Walton's first Ben Franklin cost approximately 35.56% of its revenue.
+Cosine Similarity: 0.19173628091812134
+
+2024-10-15 08:25:49.073041        
+Row 44:
+Question: How much top line revenue % did walmart see a year after their IPO 1972
+Human Answer: 77%
+Generated Answer: According to the transcript, Walmart's top-line revenue was $10 million in 1972.    
+Cosine Similarity: 0.12004067748785019
+
+2024-10-15 08:25:57.058737        
+Row 45:
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point
+Human Answer: They were bankrupt and did not have any other option  
+Generated Answer: Nvidia used a startup foundry emulation software called Direct3D (DirectX) to produce their chips at one point in time. The reason for this was that Microsoft had a secret project to create a dedicated graphics processing unit (GPU) for the Xbox, and they wanted to integrate it into the motherboard of the console.       
+
+The founders of NVIDIA, Jensen Huang and his co-founders, were approached by Microsoft with an offer to use their emulation software Direct3D to produce chips for the Xbox. The idea was that Nvidia could use this software to create a custom GPU that would be integrated directly into the Xbox console.     
+
+However, Nvidia ultimately        
+Cosine Similarity: 0.16194361448287964
+
+2024-10-15 08:42:35.323614        
+Row 46:
+Question: What did Nvidia call its first graphics card
+Human Answer: G-force 256
+Generated Answer: Nvidia called its first graphics card "dot-NV", which was later shortened to NV.    
+Cosine Similarity: 0.14731329679489136
+
+2024-10-15 08:42:40.754261        
+Row 47:
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC
+Human Answer: Jensen could not get a hold of all the sales people because they had been ignoring him (Nvidia was not doing well at this point in time.
+Generated Answer: Jensen decided to write and send a letter to Morris Chang at TSMC because he wanted to make sure that the company knew about his vision for a programmable GPU. At the time, NVIDIA was working on a chip called Larrabee, which was intended to be a full-fledged GPU maker. Jensen wanted to let TSMC know that they were also exploring this idea and wanted to get their feedback.
+
+Jensen's letter was not just about expressing his interest in working with TSMC, but also about trying to establish a relationship with the company. He wanted to show that he was serious about pursuing a partnership with them
+Cosine Similarity: 0.5484516620635986
+
+2024-10-15 08:43:00.857957        
+Row 48:
+Question: What was Peloton original price
+Human Answer: $1,200.00
+Generated Answer: The original price of a Peloton bike was $2245.   
+Cosine Similarity: 0.3883325457572937
+
+2024-10-15 09:03:14.576708        
+Row 49:
+Question: How much stock did John Foley had in Peloton in 2022      
+Human Answer:  39.6%, so right around 40%,
+Generated Answer: There is no mention of how much stock John Foley had in Peloton in 2022 in the provided transcript. However, it is mentioned that he sold $96 million of Peloton stock in 2021 when the price was really high and he was talking about what a strong future the company still had in front of it.
+Cosine Similarity: 0.20161926746368408
+
+2024-10-15 09:03:27.455667        
+Row 50:
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?   
+Human Answer: 50%
+Generated Answer: According to the transcript, in 1983, the average team in the NBA was making $6.8 million in revenue. The collective bargaining agreement (CBA) negotiated by Bill Simmons or someone else since then has increased this amount to around $150 million per year.
+
+As of 2023, the average team in the NBA is reportedly making around $8.8 billion per year. Therefore, the percentage of NBA league revenue that has been contractually going to players since 1983 would be:
+
+($150 million / $8.8 billion) x 100% ≈ 1.7%
+
+This means that approximately 1   
+Cosine Similarity: 0.09754003584384918
+
+2024-10-15 09:32:05.553486        
+Row 51:
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?     
+Human Answer: It's like someone handed you a Macintosh without Mac OS for it. What you said was, well, I'm going to start building Slack or I'm going to start building Chrome or Photoshop. Then somebody proposes to you, whoa, instead of just building Photoshop, build Mac OS.
+Generated Answer: The analogy in the podcast is between Bitcoin being a calculator (or a calculator-like system) and Ethereum being a computer. The idea is that just as a calculator can perform mathematical operations on numbers, Ethereum can process transactions and execute smart contracts on its blockchain.
+
+In this analogy:
+
+* Bitcoin is like a calculator because it's a decentralized, open-source platform that allows users to create and use custom-made tools (coins) without needing permission from anyone.
+* Ethereum is like a computer because it's a programmable, decentralized network that can execute complex instructions (smart contracts) on its blockchain.
+
+The analogy is used to explain the concept of Ethereum as
+Cosine Similarity: 0.25639596581459045
+
+2024-10-15 10:06:15.035244        
+Row 52:
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?
+Human Answer: Vitalik was born in 1994. His parents were young and very unprepared. Russia at the time was in total shambles. The Soviet Union had collapsed a couple years before, there's hyperinflation like double digits per month inflation. People are losing everything. There's a depression, people are starving.
+Generated Answer: The question asks about the connection between Vitalik Buterin (the founder of Ethereum) and the year 1994, as well as his parents' condition in Russia.
+
+According to the text, Vitalik Buterin was born in January 1994. At that time, Russia was experiencing a period of economic crisis and social unrest, known as the "Russian financial crisis" or "Russian hyperinflation." The country's economy was heavily dependent on oil exports, and the government was struggling to maintain control over its finances.
+
+Vitalik's parents were both computer science students at Kolomna, which is located outside of Moscow. They
+Cosine Similarity: 0.7213312387466431
+
+2024-10-15 10:06:44.245362        
+Row 53:
+Question: What was argument before Vtalik's presentation in Miami?  
+Human Answer: Argument between Gavin and Anthony, to include Gavin as co-founder
+Generated Answer: Before Vitalik's presentation in Miami, there were concerns about a potential "Red Wedding" moment in The Infinite Machine, where the Ethereum Foundation would approve a proposal that would kill off Ethereum entirely. This concern arose because of the way the proposal was structured and the potential for it to be used as a bargaining chip by other parties.
+Cosine Similarity: 0.131066232919693
+
+2024-10-15 10:07:00.559016        
+Row 54:
+Question: what was the worst stock price percentage down in a day for NVIDIA ?
+Human Answer: 80% in a day for Nvidia
+Generated Answer: The worst stock price percentage down in a day for NVIDIA was 80%. This occurred in 2011, when the company's stock dropped by 50% on May 4th.
+Cosine Similarity: 0.6449567079544067
+
+2024-10-15 10:28:12.525521        
+Row 55:
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?
+Human Answer: Algorithm Competition, 15% error rate compared to others,  university of Toronto won the competition
+Generated Answer: According to the transcript, in 2000, a Princeton computer science professor named Fei-Fei Li started working on an image classification project called ImageNet. The goal was to create a database of millions of labeled images that could be used for artificial intelligence (AI) research. 
+
+The competition against ImageNet Database was between NVIDIA and AMD. NVIDIA's first PC card, the GeForce 256, was released in 2000, which was later followed by the GeForce 2, GeForce 2 Ultra, and GeForce 3. These cards were designed to accelerate specific use cases in computing, such as graphics rendering.
+
+The error rate for
+Cosine Similarity: 0.2959321439266205
+
+2024-10-15 10:28:35.716907        
+Row 56:
+Question: What is NVIDIA free cash flow in billions  every year?    
+Human Answer: NVIDIA generate $8 billion of free cash flow every year
+Generated Answer: According to the transcript, NVIDIA's gross margin is around 66%, which translates to $8 billion of free cash flow per year.
+Cosine Similarity: 0.8086094260215759
+
+2024-10-15 10:28:43.033636        
+Row 57:
+Question: What is the difference between recurrent neural networks and convolutional neural networks? 
+Human Answer: The state of the art had evolved and RNN is sequential and has very short context window.
+Generated Answer: Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) are two types of neural networks used in machine learning and deep learning.  
+
+**Recurrent Neural Networks (RNNs)**:
+
+RNNs are a type of neural network that processes sequential data, such as text, speech, or time series data. They have the ability to remember information over time, allowing them to learn patterns and relationships between different elements of the data.
+
+In RNNs, the input data is fed into the network one element at a time, and the output is also fed back into the network in the same order. This
+Cosine Similarity: 0.563985288143158
+
+2024-10-15 11:01:28.920286        
+Row 58:
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?   
+Human Answer: Jensen said that 2022 was a disappointing year, when Chat GPT was released.
+Generated Answer: Jensen Huang said that last year was "unquestionably a disappointing year" for Nvidia. He also mentioned that Meta, through tens of billions of dollars making the metaverse, is putting $15 billion into their headset and Amazon put tens of billions of dollars into devices, which by all means was a terrible investment.    
+Cosine Similarity: 0.34622740745544434
+
+2024-10-15 11:01:45.500057        
+Row 59:
+Question: What is CUDA's most unique feature?
+Human Answer: CUDA has a unified interface which is incredibly flexible and well-supported by a huge community.
+Generated Answer: CUDA (Compute Unified Device Architecture) is a platform for parallel computing that allows developers to write code that can run on multiple devices simultaneously. Its most unique feature is its ability to scale up computations in parallel, making it possible to perform tasks that would be too time-consuming or expensive with traditional sequential processing.
+
+In particular, CUDA's key features include:
+
+1. **Parallelism**: CUDA allows developers to write code that can execute multiple threads concurrently, which enables the computation of complex tasks in parallel.      
+2. **Multi-Device Support**: CUDA supports a wide range of devices, including GPUs, CPUs, and even FPGAs (Field-Program
+Cosine Similarity: 0.6899809837341309
+
+2024-10-15 11:02:12.622620        
+Row 60:
+Question: Where did the issuance of the first banknotes originate?  
+Human Answer: England
+Generated Answer: The disclaimer provided states that the transcription may contain unintentionally confusing, inaccurate, and/or amusing transcription errors. However, I can attempt to provide an answer based on the context.
+
+According to historical records, the issuance of the first banknotes originated in Italy during the 14th century. Specifically, it is believed that double-entry bookkeeping was created in the Italian Renaissance, which led to the development of financial systems and paper currency.
+
+In this case, the Bitcoin whitepaper mentions banks starting to issue paper banknotes in England in the late 1600s, but it does not specify where exactly these first banknotes originated.
+Cosine Similarity: 0.21847034990787506
+
+2024-10-15 11:39:07.732424        
+Row 61:
+Question: what happen on 2013 in relation to bitcoin
+Human Answer: Ross Ulbricht was Arrested
+Generated Answer: According to the transcript, in 2013, Bitcoin experienced a significant price surge. On October 31, 2013, an account with the name of Satoshi Nakamoto published a paper on the cryptography mailing list, metzdowd.org, describing a new digital cryptocurrency titled Bitcoin: A Peer-to-Peer Electronic Cash System.
+
+On this day, Laszlo Hanyecz offered up an idea to see if these transactions could actually have value in the real world. He proposed that he would transfer 10,000 Bitcoins to anyone who could successfully send 10 pizzas to him using a credit card. The person who succeeded in doing
+Cosine Similarity: 0.1229526624083519
+
+2024-10-15 11:39:36.983665        
+Row 62:
+Question: does bitcoin have a higher appreciation per year as compared to gold?
+Human Answer: yes
+Generated Answer: According to the transcript, Bitcoin's market cap is $650 billion, while gold's market cap is approximately $20 billion. This means that Bitcoin has 32 times more market capitalization than gold.
+
+To calculate the annual appreciation of each asset, we can divide their respective market caps by the number of years they've been in existence:
+
+Bitcoin: $650 billion / 10 years = $65 million per year
+Gold: $20 billion / 10 years = $2 million per year
+
+As you can see, Bitcoin has a significantly higher appreciation rate than gold. In fact, if we assume that Bitcoin's market cap will continue to
+Cosine Similarity: 0.020074233412742615
+
+2024-10-15 11:40:06.541294        
+Row 63:
+Question: how did Winklevoss brother changed the bitcoin market     
+Human Answer: They Investemented hiked up the bitcoin value and attracted traditional financial markets, increasing its legitimacy and accessibility
+Generated Answer: The transcript doesn't explicitly state how the Winklevoss brothers changed the Bitcoin market. However, based on their involvement in the early days of Facebook and their interest in Bitcoin, it can be inferred that they played a significant role in shaping the market.
+
+In 2004, Mark Zuckerberg, then a college student at Harvard, asked the Winklevoss twins, Cameron and Tyler, to help him develop a social networking site. The Winklevoss twins created a platform called "Harvard Connect," which was later renamed Facebook.
+
+As Facebook grew in popularity, the Winklevoss twins became interested in Bitcoin, which they had     
+Cosine Similarity: 0.3088691830635071
+
+2024-10-15 11:40:36.067847        
+Row 64:
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?     
+Human Answer: 15 minutes
+Generated Answer: According to the transcript, in February 1967, Warren Buffet caught Jet Jack (the founder of National Indemnity) in a dour mood and they worked out a deal in 15 minutes or less.
+Cosine Similarity: 0.16267341375350952
+
+2024-10-15 12:15:26.252060        
+Row 65:
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?
+Human Answer: $175,000
+Generated Answer: Warren Buffett's net worth after working at Graham-Newman for two years was $175,000.
+Cosine Similarity: 0.38160473108291626
+
+2024-10-15 12:15:34.542221        
+Row 66:
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?
+Human Answer: On Saturday for 4 hours
+Generated Answer: According to the transcript, Warren Buffett talked with Lorimer Davidson (not Lorimer Davidson) on a Saturday morning in 1969. The exact date is not specified, but it is mentioned that it was during the month of February.
+Cosine Similarity: 0.23366357386112213
+
+2024-10-15 12:15:48.135187        
+Row 67:
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?
+Human Answer: Tencent
+Generated Answer: The answer is Tencent. They were interested in acquiring WhatsApp but ultimately decided not to do so.
+Cosine Similarity: 0.43319353461265564
+
+2024-10-15 12:29:24.868282        
+Row 68:
+Question: During high school year, which online security community Jan Koum was part of?
+Human Answer: w00w00
+Generated Answer: The question is not explicitly stated in the transcript, but based on the context, it appears that Jan Koum was part of the "w00w00" online security community during his high school years. The term "w00w00" refers to a type of leetspeak used by hackers and computer enthusiasts.
+Cosine Similarity: 0.3748254179954529
+
+2024-10-15 12:29:35.802014        
+Row 69:
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?   
+Human Answer: Changing the app's name was a growth hack to attract new users on a weekly basis, thereby ensuring the app would display as a new app.
+Generated Answer: According to the transcript, Jan Koum used several business strategies to increase the popularity of WhatsApp:        
+
+1. **Defensive move**: Jan and Brian made a defensive move by not giving up on their vision for WhatsApp even when Facebook was trying to acquire it.
+2. **No advertising**: They decided not to implement advertising on WhatsApp, which allowed them to focus on building a strong user base without the pressure of generating revenue from ads.
+3. **Data collection**: They collected data from users and used it to improve the product and provide a better experience for users.    
+4. **User engagement**: Jan and Brian engaged with their users through various means
+Cosine Similarity: 0.28495538234710693
+
+2024-10-15 12:29:54.061826        
+Row 70:
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?     
+Human Answer: BAMTech
+Generated Answer: Disney invested in BAMTech, a technology provider that delivered streaming content both for live sports and powering HBO Now, among other services.     
+Cosine Similarity: 0.5939503312110901
+
+2024-10-15 12:48:28.416861        
+Row 71:
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?  
+Human Answer: 43% No Confidence   
+Generated Answer: The result of the shareholder no-confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast was that he stepped down as CEO at the end of his contract in 2006. He was replaced by Michael Ovitz, who became COO and later President of ABC. The board also stripped Eisner of his chairman title, which he had held since 1995.
+Cosine Similarity: 0.17636904120445251
+
+2024-10-15 12:48:42.665744        
+Row 72:
+Question: What position did Bob Eisner have and in what company when Disney acquired it?
+Human Answer: COO at Capital Cities
+Generated Answer: When Disney acquired Capital Cities, ABC, and ESPN in 1995, Bob Iger was the CEO of Capital Cities.
+Cosine Similarity: 0.36815330386161804
+
+2024-10-15 12:48:49.445645        
+Row 73:
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?
+Human Answer: "I'm fucking smart."
+Generated Answer: Jeffrey Skilling said he was smart and would be smart if he wasn't having fun in this job. He also mentioned that he thought Enron was doing God's work, which is not accurate according to Bethany McLean's book "The Smartest Guys in the Room".
+Cosine Similarity: 0.3837857246398926
+
+2024-10-15 13:38:48.769978        
+Row 74:
+Question: What was the singular condition that Jeffrey Skilling requested before joining Enron?       
+Human Answer: Market-to-market accounting
+Generated Answer: Jeffrey Skilling requested a "golden parachute" or a $20 million payment if he was not made CEO of Enron by the end of 2000.
+Cosine Similarity: 0.0639331042766571
+
+2024-10-15 13:39:01.831125        
+Row 75:
+Question: What historic event took investigative pressure off of Enron before its stock collapsed?    
+Human Answer: September 11th      
+Generated Answer: The historic event that took investigative pressure off of Enron before its stock collapsed was the 9/11 terrorist attacks in 2001. The sudden and unexpected global economic downturn following the attacks, combined with the subsequent collapse of the dot-com bubble, created a perfect storm that allowed Enron to hide billions of dollars in debt and inflate its stock price, ultimately leading to its bankruptcy.
+Cosine Similarity: 0.3085956871509552
+
+2024-10-15 13:39:25.508769        
+Row 76:
+Question: How did Enron remove investments from its accounting books?
+Human Answer: Special purpose entities
+Generated Answer: Enron removed investments from its accounting books through a process called mark-to-market accounting. This allowed the company to recognize revenue and expenses as if they were occurring in real-time, rather than over several years. By using this method, Enron could hide billions of dollars in losses and inflate its profits.
+
+To do this, Enron would:
+
+1. Identify investments that had not yet generated any cash flow.   
+2. Recognize the value of these investments on their balance sheet as revenue.
+3. Use mark-to-market accounting to estimate the future value of these investments.
+4. Recognize the estimated future value as revenue and record it on the
+Cosine Similarity: 0.12860645353794098
+
+2024-10-15 13:40:01.977340        
+Row 77:
+Question: The fall of Enron is similar to what other bankruptcy from 2022?
+Human Answer: FTX
+Generated Answer: The question seems to be asking for a comparison between the fall of Enron and another recent bankruptcy case in 2022. However, it's not clear which specific bankruptcy case is being referred to.
+
+After conducting research, I found that there have been several high-profile bankruptcies in 2022, including:
+
+1. **Biden Solar Energy Co., LLC**: A solar energy company that filed for Chapter 11 bankruptcy protection in January 2022.
+2. **Vestas Wind Systems**: A wind turbine manufacturer that filed for Chapter 11 bankruptcy protection in February 2022.
+3. **Enbridge Inc.**: An energy   
+Cosine Similarity: 0.06428255140781403
+
+2024-10-15 13:40:38.945891        
+Row 78:
+Question: What metrics did FTX judge itself by?
+Human Answer: Become the biggest crypto exchange, did we succeed in getting retail users, did we expand beyond crypto.
+Generated Answer: According to Sam Bankman-Fried in an interview with Ben Gilbert on Acquired, the following metrics were used to grade his company's performance:        
+
+1. Did they become the biggest crypto exchange?
+2. Did they succeed at getting retail users to penetrate that market?
+
+Additionally, FTX also considered expanding beyond crypto into other areas such as equities and NFTs, but ultimately decided not to pursue those opportunities due to regulatory challenges.
+
+It's worth noting that Sam Bankman-Fried has mentioned in interviews that he is cautious about using metrics like "biggest" or "best" outcomes, as they can be misleadin
+
+2024-10-15 14:11:07.548765
+Row 80:
+Question: What was Trip Hawkins favtorite game growing up?
+Human Answer: Strat-O-Matic
+Generated Answer: Trip Hawkins' favorite game growing up was All-Star Baseball, which he remembered as a cardboard dice game where players would roll dice to determine the outcome of each play. He also mentioned that he had played Strat-O-Matic, another game invented in the 1960s, and realized that it was similar to baseball but with more complex rules.
+Cosine Similarity: 0.17381907999515533
+
+
+(rag_venv) C:\Users\14107\Desktop\Courses\COSC760BigData\Project\program>

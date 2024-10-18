@@ -1,8 +1,9 @@
 
-Modelfile and ollama https://github.com/ollama/ollama/blob/main/docs/modelfile.md#parameter llama3.1
-To use this: 
+## Ollama Modelfile
+https://github.com/ollama/ollama/blob/main/docs/modelfile.md
 
-Save it as a file (e.g. Modelfile)
-ollama create choose-a-model-name -f <location of the file e.g. ./Modelfile>'
-ollama run choose-a-model-name
-Start using the model!
+To use this: 
+1. Save it as a file (e.g. Modelfile)
+2. ollama create choose-a-model-name -f <location of the file e.g. ./Modelfile>'
+3. ollama run choose-a-model-name
+4. Start using the model!

@@ -1,15 +1,694 @@
-hello
-2024-10-16 04:25:49.938580Row 1:
+
+2024-10-19 12:13:33.276207
+Row 1:
 Question: When did Airbnb go public, what was the price per share
 Human Answer: December 9,2020 at $68 per share
-Generated Answer: According to the transcript, Airbnb went public in March 2020. The company priced its initial public offering (IPO) at $68 per share on December 9, 2020.
-Cosine Similarity: 0.46933725476264954
-2024-10-16 04:52:53.054615Row 2:
+Generated Answer: Airbnb went public on December 9, 2020. The IPO price per share was $68, with an initial valuation of $47 billion and a raised amount of $3.5 billion.
+Cosine Similarity: 0.3951666057109833
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:14:20.981365
+Row 2:
 Question: Why did Wimdu unlike Airbnb not take off?
 Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
-Generated Answer: Wimdu, a platform for short-term rentals, failed to gain traction and eventually shut down in 2012 due to several reasons:
+Generated Answer: Based on the provided chunks of information, it appears that Wimdu, like DoorDash, was able to aggregate consumer attention and scale their business. However, there is no explicit mention of why Wimdu did not take off like Airbnb.
 
-1. **Competition from Airbnb**: Airbnb was launched in 2008 and quickly gained popularity as a platform for short-term rentals. Wimdu's founders believed that they could compete with Airbnb by offering similar services at lower prices.
-2. **Lack of marketing efforts**: Wimdu did not invest heavily in marketing, which limited their ability to attract users and generate revenue.
-3. **Poor user experience**: Wimdu's website and mobile app were criticized for being cluttered and difficult
-Cosine Similarity: 0.6543885469436646
+However, considering the context of the conversation about DoorDash's growth and its impact on the market, it can be inferred that Wimdu may have faced similar challenges in scaling and competing with established players in the market.
+Cosine Similarity: 0.7194815874099731
+Has the question has been answered correctly: No. The answer provided does not directly address why Wimdu did not take off like Airbnb, but rather makes an inference based on a related topic (DoorDash).
+
+2024-10-19 12:14:54.324641
+Row 3:
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb
+Human Answer: Even though both the airline industry and airbnb have a global geographical presence the airline operators working on a global scale have different requirements so do local and regional operators leading to different required infrastructure hence market fragmentation becomes important
+Generated Answer: Market fragmentation works for the airline industry because it's primarily focused on local markets, where each player can compete individually. In contrast, Airbnb is a global network with a single platform serving travelers worldwide, making it difficult to fragment the market in the same way as airlines. The global nature of travel and the need for a unified platform make fragmentation less viable for Airbnb.
+Cosine Similarity: 0.8376926183700562
+Has the question has been answered correctly: No.
+
+2024-10-19 12:15:21.961256
+Row 4:
+Question: How many hot dogs does Costco currently sell per year?
+Human Answer: 130 million
+Generated Answer: According to Chunk 3, Costco sells 130 million hotdogs per year.
+Cosine Similarity: 0.4097632169723511
+Has the question has been answered correctly: No. The information provided is not accurate and I couldn't verify it as correct.
+
+2024-10-19 12:16:08.603709
+Row 5:
+Question: What store was created as "the price club of hardware stores"?
+Human Answer: Home Depot
+Generated Answer: The store that was created as "the price club of hardware stores" is not explicitly mentioned in the provided chunks. However, it can be inferred that the correct answer might be Northwest Hardware, which is mentioned in Chunk 5 as a potential location for a new venture and is referred to as a great market for such an idea.
+Cosine Similarity: 0.43221861124038696
+Has the question has been answered correctly: No. The question was not fully answered.
+
+2024-10-19 12:16:39.234424
+Row 6:
+Question: How long did it take for Costco to generate 1 billion dollars in revenue?
+Human Answer: Within 3 years
+Generated Answer: Unfortunately, there is no direct information provided about how long it took Costco to generate $1 billion in revenue. However, we can estimate that it likely happened before 1994, when Costco went public with an initial public offering (IPO) of stock.
+Cosine Similarity: 0.22617316246032715
+Has the question has been answered correctly: No. The answer should be more specific and provide a timeframe for when Costco generated $1 billion in revenue.
+
+2024-10-19 12:17:05.255109
+Row 7:
+Question: What is the New Look?
+Human Answer: Look that celebrates life again after the WW2 created by Christian Dior house.
+Generated Answer: The New Look is a fashion style introduced by Christian Dior in 1947, characterized by feminine, soft silhouettes with exaggerated features, luxury fabrics, and a radical departure from previous styles. It revolutionized fashion and was considered a major innovation at the time.
+Cosine Similarity: 0.35888344049453735
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:17:58.045923
+Row 8:
+Question: How much money did the Arnaut family offer to buy out the Boussac group?
+Human Answer: 15 million dollars bid
+Generated Answer: The Arnault family offered $15 million of their own equity to buy out the Boussac group.
+Cosine Similarity: 0.4642135202884674
+Has the question has been answered correctly: No.
+
+2024-10-19 12:18:23.077377
+Row 9:
+Question: What is American Crown Jewel?
+Human Answer: Tiffany and Co. brand
+Generated Answer: The "American Crown Jewel" refers to Tiffany & Co., an American luxury jewelry company. It has been considered a symbol of American luxury, with its iconic branding and high-end products. The mention of it being bought by a French conglomerate (LVMH) suggests that it is now part of the global luxury market dominated by European companies.
+Cosine Similarity: 0.6182155609130859
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:18:49.873296
+Row 10:
+Question: According to Information Theory, what is the importance of knowing what message your sender is trying to convey?
+Human Answer: The more closely the actual communication is to the expected message the 'noisier' the transmission medium can be and the less important gain is.
+Generated Answer: According to information theory, the importance of knowing what message the sender is trying to convey lies in its relationship with entropy or randomness. The more random or noisy the message (entropy), the noisier the medium must be for effective communication. This means that if the message has a high level of entropy, it requires a stronger signal to overcome the noise and ensure accurate transmission.
+Cosine Similarity: 0.6074970960617065
+Has the question has been answered correctly: No. The answer does not directly address why knowing what message the sender is trying to convey is important according to information theory. It only explains how entropy affects communication, but not the significance of understanding the message itself.
+
+2024-10-19 12:19:53.721064
+Row 11:
+Question: Compare the impact on Qualcomm between the two Jacobs.
+Human Answer: Erwin Jacobs was a genius and visionary who participated in the founding and skyrocketing growth of two company's.  Paul Jacobs while running a large and complex company, made some notable incorrect bets and overplayed the company's patent assets taking on an adversary situation with customers and countries.
+Generated Answer: Based on the provided information, it appears that Paul Jacobs' strategic initiatives had both positive and negative impacts on Qualcomm. On one hand, his efforts to get Qualcomm into IoT (Internet of Things) led to significant investments in research and community development, as mentioned in Chunk 2.
+
+On the other hand, his attempt to take the company private through a buyout in 2018 was met with resistance from the board, leading to him being removed from the board. Additionally, his efforts to acquire NXP Semiconductors may have been seen as a negative move by some stakeholders.
+
+It is unclear how these events directly compare in terms of
+Cosine Similarity: 0.5316392183303833
+Has the question has been answered correctly: No. The answer does not provide a direct comparison between the two Jacobs' impacts on Qualcomm, but rather mentions their individual initiatives and outcomes separately.
+
+2024-10-19 12:20:29.990446
+Row 12:
+Question: What is the Scandinavian connection to Qualcomm's early rise?
+Human Answer: Nokia was one of the key early customers for ChatGPT and is a Finnish company.  
+Generated Answer: There is no mention of a Scandinavian connection in the provided chunks. The conversation focuses on Qualcomm's history, particularly during the Paul Jacobs era (2005-2013), their strategic initiatives, and notable events such as selling their infrastructure business to Ericsson in 1999.
+Cosine Similarity: 0.5312618613243103
+Has the question has been answered correctly: No. The provided answer does not address the Scandinavian connection to Qualcomm's early rise.
+
+2024-10-19 12:20:55.851063
+Row 13:
+Question: When did AWS formed and who first head of AWS techincally?
+Human Answer: In 2002, total of 8 people attended the conference and announced to the world that launch of new division with in Amazon that is called Amazon Web service. Collin is tchnically becomes first head of AWS.
+Generated Answer: AWS was formed in 2003. Technically, Collin Brier became the first head of AWS in 2002 within the Amazon Associates Program.
+Cosine Similarity: 0.7847444415092468
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:21:44.636093
+Row 14:
+Question: What was the final words by Amazon CTO Werner Vogels in Quora Post in 2011?
+Human Answer: Wernwe Volgels wrote "The excess intrastructure capacity story is a myth. It was never a matter of selling excess capacity. Acutally, within two months after launch, AWS would have alreadyburned the excess amazon.com capacity.AWS was considered a business by itself with the expectation that it could even grow as big as amazon.com retail operation." 
+Generated Answer: There is no mention of Werner Vogels' final words in a Quora post in 2011. The provided chunks discuss Amazon culture, Chris Pinkham's exclusion from official documents, Andy Jassy's review of "The Everything Store", and Amazon's interface design, but do not mention Werner Vogels or a specific Quora post.
+Cosine Similarity: 0.47787201404571533
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:22:10.229753
+Row 15:
+Question: What boots and jacket we often see Jeff Bezos in ?
+Human Answer: cowboy boots and a jacket
+Generated Answer: Based on Chunk 3, Jeff Bezos is often seen wearing cowboy boots with his Blue Origin rocket.
+Cosine Similarity: 0.4685550332069397
+Has the question has been answered correctly: No. The question asked about boots and jackets, but the answer mentioned boots only.
+
+2024-10-19 12:23:12.959963
+Row 16:
+Question: Where is Blue Origins operations are based in?
+Human Answer: Van Horn, Texas
+Generated Answer: Blue Origin's operations are based at a ranch in Van Horn, Texas.
+Cosine Similarity: 0.6245747804641724
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:23:34.192749
+Row 17:
+Question: Which was one of the first free email services?
+Human Answer: Juno was one of the first free email services.
+Generated Answer: Juno was one of the first free email services.
+Cosine Similarity: 0.9999999403953552
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:23:53.464447
+Row 18:
+Question: When was the summit that eventually lead to the creation of Visa?
+Human Answer: Summit was held in October 1968 between Bank of America and its licensees.
+Generated Answer: There is no mention of a "summit" in the provided chunks. However, I can infer that you are referring to the creation of Visa as an organization.
+
+Based on Chunk 1, it appears that the creation of Visa was not explicitly mentioned, but rather the rebranding of the organization after its initial formation.
+Cosine Similarity: 0.5488413572311401
+Has the question has been answered correctly: No.
+
+2024-10-19 12:24:52.198754
+Row 19:
+Question: What is Visa's net income margin and is there a company with a better margin?
+Human Answer: Visa's net income margin is 50%. No, there is not a known company with a better margin
+Generated Answer: Visa's net income margin is 50%. There is no company with a gross margin as high as Visa's, which is around 98%.
+Cosine Similarity: 0.9168458580970764
+Has the question has been answered correctly: No. The question asked for the net income margin, but the answer provided the gross margin instead.
+
+2024-10-19 12:25:16.992789
+Row 20:
+Question: Visa is the global sponsor of what?
+Human Answer: Visa is the global sponsor of The Olympics
+Generated Answer: Based on the provided information, Visa is the exclusive payment provider at the Olympics. They have been contracted to be the only card accepted there for at least 46 years, until 2032.
+Cosine Similarity: 0.7778293490409851
+Has the question has been answered correctly: No. The answer does not mention Visa being the global sponsor of anything. It mentions their exclusive payment provider status at the Olympics.
+
+2024-10-19 12:25:43.739922
+Row 21:
+Question: In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?
+Human Answer: The home video game console business, the arcade video game business and the personal home computer business were born at that time. 
+Generated Answer: Based on the provided information, three industries were born concurrent with the creation of Breakout in 1976:
+
+1. The video game industry
+2. The personal computer industry (as Steve Jobs and Steve Wozniak designed a solo version of Pong that was later developed into the Apple I)
+3. The software industry
+Cosine Similarity: 0.529425323009491
+Has the question has been answered correctly: No. 
+
+The correct answer is: 
+
+1. The video game industry
+2. The computer hardware industry (not personal computer industry, as it was a solo project by Wozniak)
+3. The home computer industry (not software industry)
+
+2024-10-19 12:26:48.807832
+Row 22:
+Question: What does Nintendo mean?
+Human Answer: It means either "Leave luck to heaven" or "The temple of free hanafuda." "Leave luck to heaven" is the more common answer.
+Generated Answer: Nintendo's name is a multiple entendre. The kanji characters "Nin," "Ten," and "Do" can be interpreted as "leave luck to heaven," which references luck in playing cards, symbolizing entrepreneurial spirit or gambling.
+Cosine Similarity: 0.4803779423236847
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:27:50.084107
+Row 23:
+Question: What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. 
+Human Answer: Hiroshi Yamauchi was very good at spotting games that consumers would love to play. 
+Generated Answer: A key strength of Hiroshi Yamauchi was his ability to identify and invest in games and concepts that were not yet successful, but had potential. He observed games for short periods, determined what was fun and what wasn't, and invested in them, often buying up failed bowling alleys that he saw as opportunities.
+Cosine Similarity: 0.685796856880188
+Has the question has been answered correctly: No. The answer provided does not mention a specific skill or trait that Hiroshi Yamauchi was particularly good at.
+
+2024-10-19 12:28:19.962008
+Row 24:
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?
+Human Answer: The 3 interrelated things that make Renaissance Technologies unique are 1. one model that everyone collaborates on together, 2. a super small team where everyone knows each other and the financial impact anyone makes to the that one model is great to everyone 3. the LPGP model with very high carry performance fees that creates the right set of incentives for both new and old talent.
+Generated Answer: Based on the provided chunks of information, three interrelated things that make Renaissance Technologies unique from other investment firms are:
+
+1. **Unconventional hiring approach**: They hired PhD physicists, astronomers, and speech recognition researchers with no investing background, which sets them apart from other firms that typically hire experienced investors.
+2. **Advanced data analysis capabilities**: Their system uses a large-scale computer system to discover relationships between different entities in the world (stocks, commodities, bond prices) and explain them correctly most of the time, giving them an edge over others.
+3. **Secrecy and lack of transparency**: The firm's extreme secrecy and lack
+Cosine Similarity: 0.8128777742385864
+Has the question has been answered correctly: No. The answer is missing a crucial point about Renaissance Technologies' unique approach to investing, which is often referred to as their "quantitative trading" strategy that focuses on using mathematical models to make investment decisions. This aspect is not mentioned in the provided response.
+
+2024-10-19 12:29:32.030121
+Row 25:
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?
+Human Answer: Zeno's paradoxes
+Generated Answer: There is no mention of any ancient Greek philosopher or philosophical arguments in the provided chunks. The conversation revolves around Jim Simons' life, career, and entrepreneurial ventures, but there is no connection to ancient Greek philosophy.
+Cosine Similarity: 0.10323653370141983
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:30:00.287910
+Row 26:
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?
+Human Answer: 128% gross returns
+Generated Answer: According to Chunk 1, in the year 2000 (implied by the mention of the "tech bubble burst"), Medallion's gross returns were 128%.
+Cosine Similarity: 0.5394458770751953
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:30:25.969825
+Row 27:
+Question: who was the first rocket engine engineer in spacex
+Human Answer: Tom Mueller
+Generated Answer: Based on Chunk 2, the first rocket engine engineer at SpaceX is believed to be Joe Vipiana, but more specifically, it's mentioned that Elon Musk met with David Harper, who was known as a real savant about engines. However, there is no direct mention of his name in the provided chunks.
+
+A more accurate answer would be that the identity of the first rocket engine engineer at SpaceX is not explicitly stated in the provided information.
+Cosine Similarity: 0.15914152562618256
+Has the question has been answered correctly: No. The answer should have been "I don't know" since there's no direct mention of the first rocket engine engineer in the provided chunks.
+
+2024-10-19 12:31:15.215325
+Row 28:
+Question: can you tell me total number of people working in Spacex
+Human Answer: 7000
+Generated Answer: Unfortunately, there is no direct mention of the total number of people working at SpaceX. However, we can estimate it based on the information provided.
+
+In Chunk 1, Elon owns about 90% of the company, which implies that the remaining 10% is owned by employees and other minority stakeholders. 
+
+However, without a specific number of employees or ownership percentage, we cannot provide an accurate answer to this question.
+Cosine Similarity: 0.18692301213741302
+Has the question has been answered correctly: No
+
+2024-10-19 12:31:40.187035
+Row 29:
+Question: What is the cost of rocket travel based on the materials?
+Human Answer: 0.02
+Generated Answer: The cost of rocket travel, specifically for aerospace-grade materials such as aluminum alloys, titanium, copper, and carbon fiber, is approximately 2% of the total rocket cost. This estimate was mentioned by a SpaceX engineer and can be calculated by analyzing the cost of goods sold on the open commodities market.
+Cosine Similarity: 0.06764154136180878
+Has the question has been answered correctly: No. The provided answer does not provide a specific number for the estimated 2% cost, which is necessary to accurately answer the question.
+
+2024-10-19 12:32:10.287207
+Row 30:
+Question: what is the idea about mars oasis
+Human Answer: the idea behind a Mars Oasis is that they're going to buy a rocket, and they're going to put a plant on it, and they're also going to put a robot on it, and they're going to shoot this rocket to mars
+Generated Answer: The "Mars Oasis" concept involves launching a rocket with a plant, robot, and greenhouse to Mars. The goal is for the robot to create a greenhouse, plant the plant inside it, and let it grow on Mars while being monitored through a live video feed sent back over the internet. This project aims to demonstrate a reliable, cheap, safe, and sustainable way to send humans to Mars in the future.
+Cosine Similarity: 0.7597270011901855
+Has the question has been answered correctly: No
+
+2024-10-19 12:32:41.332182
+Row 31:
+Question: What was Elon MuskÔs initial investment in SpaceX?
+Human Answer: Approx 100 MN
+Generated Answer: Elon Musk's initial investment in SpaceX was $100 million.
+Cosine Similarity: 0.3205445408821106
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:32:59.981648
+Row 32:
+Question: How is Jim Weber's strategic focus influence the revitalization of Brooks Running?
+Human Answer: His leadership is pivotal in transforming Brooks Running from a struggling company into a leading shoe brand company. His focus on the running segment and prioritizing performance and technology in their products, helped Brooks steered towards the leading market  with sustainable growth and profitability.
+Generated Answer: Jim Weber's strategic focus emphasizes moving forward, even when some aspects are falling behind. He prioritizes delivering the whole business model, not just individual components. This approach is reflected in his revitalization efforts at Brooks Running, where he has successfully recapitalized the company and focused on a higher-margin business, benchmarking against public companies.
+Cosine Similarity: 0.584384560585022
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:33:39.605375
+Row 33:
+Question: How did Brooks Running approach to market segmentation give it a competitive advantage?
+Human Answer: It gained competitive advantage by strategically focusing on the needs of dedicated runners. This dedicated focus allowed the company to develop highly specialized products that meet the specific needs of the customers, which built a strong brand loyalty and solid reputation in the running community. 
+Generated Answer: Based on the provided information, Brooks Running's approach to market segmentation gave it a competitive advantage by focusing exclusively on serving active runners as a segment. This decision was made by Jim Whelan, who cut all other business lines and grew the company to over $1 billion in revenue through his vision and leadership. By targeting this specific niche, Brooks Running was able to differentiate itself from competitors and establish a strong brand identity that resonated with its target audience.
+Cosine Similarity: 0.6670622825622559
+Has the question has been answered correctly: No
+
+2024-10-19 12:34:08.333620
+Row 34:
+Question: What was the patent Heddy developed? Was it publicly available?
+Human Answer: Hedy teams up with her new Hollywood neighbor, a music composer named George Antheil.  With her ideas and his musical prowess, they developed a concept that they patent. They get issued a confidential patent that stays confidential for decades in the US military
+Generated Answer: The information provided does not mention a person named Heddy or any specific patent they developed. The conversation is about Qualcomm's history, patents, and business strategies, but there is no mention of someone named Heddy.
+Cosine Similarity: 0.5007216930389404
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:34:57.513986
+Row 35:
+Question: Why were patents developed by Heddy had 88 frequency hops ?
+Human Answer: There were 88 frequency hops in their technical description of the patent because there are 88 keys on a piano. They took two player piano scrolls that had the same basically song, and they mapped each note to a new frequency. They put the same player piano in the same scroll on the receiver that they did on the transmitter, and they pressed play on the player piano song at the same time so it would know exactly where to hop around.
+Generated Answer: Hedy Lamarr's prototype used two player piano scrolls with 88 notes each, mapping each note to a new frequency. This resulted in 88 frequency hops because there are 88 keys on a standard piano.
+Cosine Similarity: 0.7342385649681091
+Has the question has been answered correctly: No
+
+2024-10-19 12:35:22.800286
+Row 36:
+Question: What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?
+Human Answer: The Trump administration got involved in the deal and said it would be a national security concern and block the hostile takeover deal. Qualcomm had great relationships with the US government and always have since the early days in being a government contractor.
+Generated Answer: The Trump administration blocked Broadcom's $117 billion hostile takeover of Qualcomm in 2018, citing it as a national security concern. This deal would have left Qualcomm servicing $106 billion of debt for the rest of its life. The decision was seen as a win for Qualcomm and its lobbyists, who had strong relationships with the US government.
+Cosine Similarity: 0.822012186050415
+Has the question has been answered correctly: No
+
+2024-10-19 12:35:53.565360
+Row 37:
+Question: what is one decision Porsche made to improve business that went against industry norm?
+Human Answer: cancel all other car models except the 911
+Generated Answer: Porsche's decision to focus on SUVs, which generated significant margin, rather than borrowing against their brand equity, was an unconventional move in the automotive industry. This strategy increased love for the brand, rather than depleting it.
+Cosine Similarity: 0.36516743898391724
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:36:52.673299
+Row 38:
+Question: What city owns 20% of volkswagen and why
+Human Answer: Lower Saxony, as a method to get the company off the ground
+Generated Answer: The state of Lower Saxony still owns 20% of Volkswagen. This is due to German law, specifically the Volkswagen Law, which was designed to prevent a takeover of VW by corporate raiders or foreign investors. The law aims to protect the company's national significance and ensure its continued ownership by German citizens.
+Cosine Similarity: 0.5091546773910522
+Has the question has been answered correctly: No. The answer provided contains additional information not present in the original question, such as the specific German law that governs Volkswagen ownership. A more accurate response would have simply stated: "The state of Lower Saxony owns 20% of Volkswagen."
+
+2024-10-19 12:37:21.744618
+Row 39:
+Question: What's Startup Garage at Stanford's GSB?
+Human Answer: A class at GSB to build and launch a startup company
+Generated Answer: Startup Garage is a legendary class at Stanford Graduate School of Business (GSB) that is interdisciplinary, co-taught with GSB and Design School. It's a two-quarter class where students apply as fully-formed teams to build a product or service and launch a company. The class aims to create a successful startup, but it's not uncommon for the majority of classes to be an academic exercise rather than a real-world success story.
+Cosine Similarity: 0.7085075378417969
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:38:21.853920
+Row 40:
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?
+Human Answer: Chloe
+Generated Answer: There is no mention of who inspired the idea behind the DoorDash app in any of the provided chunks. The conversation focuses on the business model, value creation, and competition aspects of DoorDash, but does not mention an individual or shop that inspired the concept.
+Cosine Similarity: 0.029853645712137222
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:38:53.900097
+Row 41:
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?
+Human Answer: Leafly, the marijuana company;
+A Visiting Author
+Generated Answer: The first customer of PaloAltoDelivery.com (DoorDash) was Chloe, who owned the Chantal Guillon Macaron Shop in Downtown Palo Alto.
+Cosine Similarity: 0.2591879069805145
+Has the question has been answered correctly: No.
+
+2024-10-19 12:39:17.656536
+Row 42:
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York
+Human Answer: IBM Computer Training Seminar 
+Generated Answer: There is no mention of Sam Walton enrolling in a seminar in Poughkeepsie, New York. The provided chunks do not contain this information.
+Cosine Similarity: 0.2528032064437866
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:40:12.625971
+Row 43:
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost
+Human Answer: 5%
+Generated Answer: Unfortunately, the provided chunks do not mention the specific percentage of rent to sales that Sam Walton's first Ben Franklin store had. They discuss the store's financial situation, the franchise agreement, and the impact it had on Sam Walton's approach to business, but do not provide a specific percentage.
+Cosine Similarity: 0.20219260454177856
+Has the question has been answered correctly: No
+
+2024-10-19 12:40:40.595162
+Row 44:
+Question: How much top line revenue % did walmart see a year after their IPO 1972
+Human Answer: 77%
+Generated Answer: Walmart's compound annual revenue growth rate for the decade of the 1970s was 40%. This means that Walmart's revenue grew by an average of 4% per year during this period.
+Cosine Similarity: 0.25186967849731445
+Has the question has been answered correctly: No. The question asked for top line revenue % growth, but the answer provided is compound annual revenue growth rate, not top line revenue percentage growth.
+
+2024-10-19 12:41:06.629407
+Row 45:
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point
+Human Answer: They were bankrupt and did not have any other option
+Generated Answer: NVIDIA used a startup foundry emulation software to produce their chips because they had no other options. The company was the only customer of that emulation software, which was still an unproven technology at the time. This was due to NVIDIA's inability to use TSMC (a leading foundry) for their chip design, as it was not compatible with their process.
+Cosine Similarity: 0.20634818077087402
+Has the question has been answered correctly: No. The provided answer is incorrect. Nvidia did partner with Taiwan Semiconductor Manufacturing Company (TSMC), a leading foundry, to produce their chips.
+
+2024-10-19 12:41:50.684034
+Row 46:
+Question: What did Nvidia call its first graphics card
+Human Answer: G-force 256
+Generated Answer: NVIDIA called its first graphics card "GeForce", which was later shortened to GeForce.
+Cosine Similarity: 0.21553125977516174
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:42:12.304191
+Row 47:
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC
+Human Answer: Jensen could not get a hold of all the sales people because they had been ignoring him (Nvidia was not doing well at this point in time.
+Generated Answer: Jensen decided to write and send a letter through a physical address to Morris of TSMC because he was unable to get in touch with them through their salespeople, who had been ignoring him.
+Cosine Similarity: 0.47613534331321716
+Has the question has been answered correctly: No. The answer provided does not directly address why Jensen decided to write and send a letter through a physical address specifically to Morris of TSMC. It only mentions that he was unable to get in touch with them through their salespeople, but it doesn't explain the reason for choosing Morris or sending a letter.
+
+2024-10-19 12:42:41.493602
+Row 48:
+Question: What was Peloton original price
+Human Answer: $1,200.00 
+Generated Answer: Peloton's IPO price was $8 billion.
+Cosine Similarity: 0.3582700490951538
+Has the question has been answered correctly: No
+
+2024-10-19 12:43:27.870341
+Row 49:
+Question: How much stock did John Foley had in Peloton in 2022
+Human Answer:  39.6%, so right around 40%, 
+Generated Answer: Based on Chunk 4, it is mentioned that John Foley sold $96 million of Peloton stock in 2021. However, there is no specific mention of how much stock he had in 2022.
+Cosine Similarity: 0.19037610292434692
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:43:54.716296
+Row 50:
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?
+Human Answer: 50%
+Generated Answer: Based on the provided chunks, it's difficult to determine an exact percentage. However, we can estimate that the increase in player contracts is significant.
+
+In 1968, Wilt Chamberlain signed a $250,000 per year contract, which is approximately $2 million in inflation-adjusted dollars. In contrast, players now earn around $120 million per year.
+
+The total NBA revenue has grown from $8 billion to over $8 billion annually since 1983. Assuming the player contracts have increased significantly, we can estimate that a substantial portion of this growth has gone towards player salaries.
+
+However, without exact figures or more detailed information on
+Cosine Similarity: 0.23689374327659607
+Has the question has been answered correctly: No. The answer provided does not give an actual percentage of NBA league revenue going to players since 1983. It only provides estimates and comparisons but does not provide a specific percentage.
+
+2024-10-19 12:44:53.141922
+Row 51:
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?
+Human Answer: It's like someone handed you a Macintosh without Mac OS for it. What you said was, well, I'm going to start building Slack or I'm going to start building Chrome or Photoshop. Then somebody proposes to you, whoa, instead of just building Photoshop, build Mac OS.
+Generated Answer: The analogy is that Bitcoin is like a calculator (a simple tool), while Ethereum is like building a computer with general-purpose instructions, allowing for more complex applications to be built on top of it.
+Cosine Similarity: 0.20389077067375183
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:45:40.953862
+Row 52:
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?
+Human Answer: Vitalik was born in 1994. His parents were young and very unprepared. Russia at the time was in total shambles. The Soviet Union had collapsed a couple years before, there's hyperinflation like double digits per month inflation. People are losing everything. There's a depression, people are starving.
+Generated Answer: Vitalik Buterin, born in January 1994, was born in post-Soviet Russia to computer science students whose lives were affected by hyperinflation (double-digit monthly inflation) and economic depression. His parents' condition during this time led them to leave Russia at age 5 and emigrate to Canada, settling in Toronto.
+Cosine Similarity: 0.607318639755249
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:46:06.481543
+Row 53:
+Question: What was argument before Vtalik's presentation in Miami?
+Human Answer: Argument between Gavin and Anthony, to include Gavin as co-founder
+Generated Answer: The argument before Vitalik's presentation in Miami was about whether to postpone or leave the conference due to high demand. The group decided to regroup in Switzerland, which had favorable laws for crypto companies at the time, to decide how to proceed.
+Cosine Similarity: 0.22846969962120056
+Has the question has been answered correctly: No
+
+2024-10-19 12:46:29.507944
+Row 54:
+Question: what was the worst stock price percentage down in a day for NVIDIA ?
+Human Answer: 80% in a day for Nvidia
+Generated Answer: The worst stock price percentage down in a day for NVIDIA occurred in 2008 when their stock got hammered, but the exact percentage is not specified. However, it's mentioned that they were "in the penalty box" after missing earnings in mid-2008.
+Cosine Similarity: 0.5704323053359985
+Has the question has been answered correctly: No. The answer does not provide a specific percentage of the worst stock price drop for NVIDIA in a day.
+
+2024-10-19 12:47:17.328725
+Row 55:
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?
+Human Answer: Algorithm Competition, 15% error rate compared to others,  university of Toronto won the competition
+Generated Answer: The ImageNet competition in 2012 involved submitting algorithms against the ImageNet database. The error rates were as follows:
+
+* Fei-Fei's team had an error rate of around 15%
+* Ben's previous teams had an average error rate of around 25%
+
+AlexNet, developed by Andrew Ng and his team at Stanford, won the competition with a low error rate, but the exact percentage is not specified in the provided chunks.
+Cosine Similarity: 0.5918734073638916
+Has the question has been answered correctly: No. The answer does not mention who won the competition.
+
+2024-10-19 12:47:47.956034
+Row 56:
+Question: What is NVIDIA free cash flow in billions  every year? 
+Human Answer: NVIDIA generate $8 billion of free cash flow every year
+Generated Answer: NVIDIA generates $8 billion of free cash flow every year.
+Cosine Similarity: 0.9677974581718445
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:48:07.102714
+Row 57:
+Question: What is the difference between recurrent neural networks and convolutional neural networks?
+Human Answer: The state of the art had evolved and RNN is sequential and has very short context window.
+Generated Answer: Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) are different types of neural networks. The key differences are:
+
+* RNNs process sequential data, such as text or speech, one step at a time, relying on previous inputs to make predictions about the next input.
+* CNNs process fixed-size grids of data, such as images, by scanning the grid in parallel and applying filters to extract features.
+
+In contrast, Transformers, which are built upon RNNs, can process sequential data in parallel, making them more efficient for tasks like language translation and text generation.
+Cosine Similarity: 0.46400150656700134
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:49:10.228570
+Row 58:
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?
+Human Answer: Jensen said that 2022 was a disappointing year, when Chat GPT was released.
+Generated Answer: Jensen Huang described last year as "unquestionably disappointing" in his Stratechery interview in March 2023.
+Cosine Similarity: 0.5875265002250671
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:49:34.054241
+Row 59:
+Question: What is CUDA's most unique feature?
+Human Answer: CUDA has a unified interface which is incredibly flexible and well-supported by a huge community.
+Generated Answer: CUDA's most unique feature is its non-von Neumann architecture with stream processor units, which requires a new type of programming language (CUDA C++) and compiler. This design allows for efficient parallel processing and has enabled a large community of developers to build their livelihoods around it.
+Cosine Similarity: 0.6882022619247437
+Has the question has been answered correctly: No
+
+2024-10-19 12:49:59.559782
+Row 60:
+Question: Where did the issuance of the first banknotes originate?
+Human Answer: England
+Generated Answer: The issuance of the first banknotes originated in England, specifically in the late 1600s.
+Cosine Similarity: 0.251189649105072
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:50:42.440933
+Row 61:
+Question: what happen on 2013 in relation to bitcoin 
+Human Answer: Ross Ulbricht was Arrested
+Generated Answer: In 2013, Bitcoin experienced significant growth. At the start of the year, it was around $13 per Bitcoin. By January 1, 2014, its value had increased to $770 per Bitcoin. Additionally, in 2013, Cyprus defaulted on bank accounts over $100,000, leading to a nationalization of those funds.
+Cosine Similarity: 0.033811647444963455
+Has the question has been answered correctly: No
+
+2024-10-19 12:51:08.624461
+Row 62:
+Question: does bitcoin have a higher appreciation per year as compared to gold?
+Human Answer: yes
+Generated Answer: Based on the provided information, Bitcoin has shown a higher appreciation rate than gold. According to Chunk 1, the money supply of gold increases by around 15% per year due to mining, whereas Bitcoin's money supply increases less per year compared to USD. Additionally, in just one year (2013), Bitcoin's price increased from $13 to $770, which is a much higher appreciation rate than gold's 15% annual increase.
+Cosine Similarity: -0.05567855387926102
+Has the question has been answered correctly: No. The answer provided does not directly compare the appreciation rates of Bitcoin and gold per year. It only mentions that Bitcoin's price increased by a much higher percentage in one year compared to gold, but it doesn't provide information on their annual appreciation rates.
+
+2024-10-19 12:51:41.901472
+Row 63:
+Question: how did Winklevoss brother changed the bitcoin market 
+Human Answer: They Investemented hiked up the bitcoin value and attracted traditional financial markets, increasing its legitimacy and accessibility
+Generated Answer: The Winklevoss twins' involvement in Bitcoin is indirect. They had an idea for what became Facebook, but their role was limited to hiring Mark Zuckerberg as a developer. However, they did invest in Bitcoin, with estimates suggesting they held between 1% and 2% of their $22 billion hedge fund's assets in Bitcoin, worth around $200 million to $400 million.
+Cosine Similarity: 0.4629283547401428
+Has the question has been answered correctly: No. The answer does not directly address how the Winklevoss brothers changed the bitcoin market. It only mentions their investment in Bitcoin.
+
+2024-10-19 12:52:15.837035
+Row 64:
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?
+Human Answer: 15 minutes
+Generated Answer: There is no mention of Warren Buffett transforming Berkshire into an insurance company in February 1967 or any specific timeframe for working out a deal. However, it is mentioned that he had never talked to Wall Street research analysts before, but took her call in 1998.
+Cosine Similarity: 0.0005377493798732758
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:53:10.032769
+Row 65:
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?
+Human Answer: $175,000 
+Generated Answer: Warren Buffett's net worth was $175,000 after working at Graham-Newman for two years.
+Cosine Similarity: 0.434045672416687
+Has the question has been answered correctly: No. The correct answer should be around $100,000 to $1 million, not $175,000.
+
+2024-10-19 12:53:32.833339
+Row 66:
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?
+Human Answer: On Saturday for 4 hours
+Generated Answer: There is no mention of Warren Buffett talking to Lorimer in any of the provided chunks. The conversation appears to be about Warren Buffett's early life, career, and business ventures, but does not include any reference to someone named Lorimer.
+Cosine Similarity: -0.02329348586499691
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:53:57.454490
+Row 67:
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?
+Human Answer: Tencent
+Generated Answer: Tencent is mentioned as another company that had shown interest in buying WhatsApp.
+Cosine Similarity: 0.5792570114135742
+Has the question has been answered correctly: No
+
+2024-10-19 12:54:37.167341
+Row 68:
+Question: During high school year, which online security community Jan Koum was part of? 
+Human Answer: w00w00
+Generated Answer: Unfortunately, there is no mention of an online security community that Jan Koum was part of during his high school years in the provided chunks.
+Cosine Similarity: 0.03362005203962326
+Has the question has been answered correctly: No.
+
+2024-10-19 12:54:59.927983
+Row 69:
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?
+Human Answer: Changing the app's name was a growth hack to attract new users on a weekly basis, thereby ensuring the app would display as a new app. 
+Generated Answer: Jan's business strategy to increase WhatsApp's popularity was not explicitly stated, but it can be inferred that he focused on:
+
+1. Focusing on the product and growth, rather than engaging in Silicon Valley hype.
+2. Emphasizing international usage, which made WhatsApp dominant in many countries around the world.
+
+However, Jan and Brian were reportedly resistant to external influences, including Mark Zuckerberg's acquisition offer from Facebook, and instead believed that their strategy was working, citing the success of Instagram as an example.
+Cosine Similarity: 0.18240979313850403
+Has the question has been answered correctly: No. The answer does not directly address the user's question about Jan's business strategies to increase WhatsApp's popularity. It provides context and information about Jan and Brian's approach, but it doesn't explicitly state their business strategies.
+
+2024-10-19 12:55:35.475727
+Row 70:
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?
+Human Answer: BAMTech
+Generated Answer: Disney invested in BAMTech, a digital media technology company, and eventually purchased it for $2.5 billion. This investment is intended to build up Disney's own streaming service platform.
+Cosine Similarity: 0.6068171858787537
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:56:21.515195
+Row 71:
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?
+Human Answer: 43% No Confidence
+Generated Answer: The result of the shareholder no-confidence bid against Bob Eisner was that 43% of Disney shareholders voted "no confidence" in him at the shareholder meeting, effectively removing him as CEO.
+Cosine Similarity: 0.4616164565086365
+Has the question has been answered correctly: No. The question mentions a failed Disney takeover bid by Comcast, but there is no mention of Bob Eisner being involved in such a bid.
+
+2024-10-19 12:57:07.350779
+Row 72:
+Question: What position did Bob Eisner have and in what company when Disney acquired it?
+Human Answer: COO at Capital Cities
+Generated Answer: There seems to be a mistake in the question. The correct name is Michael Eisner, not Bob Eisner.
+
+Michael Eisner was the CEO of ABC when Disney acquired it. He had to stay on as head of ABC for five years after the acquisition.
+Cosine Similarity: 0.013839207589626312
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:57:34.447929
+Row 73:
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?
+Human Answer: "I'm fucking smart."
+Generated Answer: Jeffrey Skilling replied to the dean, "I'm effing smart." (Note: The exact words used by Skilling were not exactly those quoted, but this is the essence of what he said.)
+Cosine Similarity: 0.6130461692810059
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:58:26.228189
+Row 74:
+Question: What was the singular condition that Jeffrey Skilling requested before joining Enron?
+Human Answer: Market-to-market accounting
+Generated Answer: Jeffrey Skilling requested that Ken Lay and the board agree to use mark-to-market accounting for him to join Enron.
+Cosine Similarity: 0.37976163625717163
+Has the question has been answered correctly: No.
+
+2024-10-19 12:58:51.776850
+Row 75:
+Question: What historic event took investigative pressure off of Enron before its stock collapsed?
+Human Answer: September 11th
+Generated Answer: The September 11th terrorist attacks provided a reprieve for Enron, taking the focus away from the company's financial issues and allowing it to maintain cover with investors.
+Cosine Similarity: 0.48352253437042236
+Has the question has been answered correctly: Yes.
+
+2024-10-19 12:59:16.731006
+Row 76:
+Question: How did Enron remove investments from its accounting books?
+Human Answer: Special purpose entities
+Generated Answer: Enron removed investments from its accounting books by setting up a separate legal entity with at least 3% of capital coming from outside investors. This allowed the company to own 97% of the economics of that entity, effectively removing it from consolidated accounting books and wiping it out of financial statements.
+Cosine Similarity: 0.20180435478687286
+Has the question has been answered correctly: Yes
+
+2024-10-19 12:59:45.471938
+Row 77:
+Question: The fall of Enron is similar to what other bankruptcy from 2022?
+Human Answer: FTX
+Generated Answer: Based on the provided information, I couldn't find any direct comparison between the Enron bankruptcy and another specific bankruptcy from 2022. However, I can tell you that Enron's Chapter 11 bankruptcy was the largest at the time of its filing in 2001, but it has since been surpassed by other large bankruptcies such as Lehman Brothers' (2008) and others mentioned in Chunk 3.
+Cosine Similarity: 0.05088169127702713
+Has the question has been answered correctly: No. The answer does not provide a direct comparison to another bankruptcy from 2022, but rather mentions that Enron's Chapter 11 bankruptcy was surpassed by other large bankruptcies since its filing in 2001.
+
+2024-10-19 13:00:19.861273
+Row 78:
+Question: What metrics did FTX judge itself by?
+Human Answer: Become the biggest crypto exchange, did we succeed in getting retail users, did we expand beyond crypto.
+Generated Answer: Based on the provided chunks, it appears that FTX's success is attributed to its ability to execute flawlessly, rapidly, and scale economies. However, in the context of judging itself, there isn't a specific metric mentioned. The conversation revolves around understanding what sets FTX apart from competitors and how they plan to maintain profitability as competition increases.
+Cosine Similarity: 0.28452640771865845
+Has the question has been answered correctly: Yes.
+
+2024-10-19 13:01:07.850394
+Row 79:
+Question: When was Trip Hawkins exposed to Computers?
+Human Answer: Sophomore year of high school
+Generated Answer: Trip Hawkins was exposed to computers in his college days at Harvard. He attended the same time as Bill Gates and Steve Ballmer, but they did not interact with him directly.
+Cosine Similarity: 0.19305932521820068
+Has the question has been answered correctly: Yes
+
+2024-10-19 13:01:54.540325
+Row 80:
+Question: What was Trip Hawkins favtorite game growing up?
+Human Answer: Strat-O-Matic
+Generated Answer: Trip Hawkins' favorite games growing up were sports simulations, specifically football and baseball. He mentioned that he loved playing these games as a kid and enjoyed watching them on television, which influenced his interest in creating sports games for video consoles.
+Cosine Similarity: -0.01139366626739502
+Has the question has been answered correctly: No
+
+2024-10-19 13:02:19.400394

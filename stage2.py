@@ -8,7 +8,7 @@ import numpy as np
 import faiss
 
 # tokenizer = BertTokenizer.from_pretrained('sentence-transformers/all-minilm-l12-v2')
-model = SentenceTransformer('sentence-transformers/all-minilm-l6-v2')
+model = SentenceTransformer('sentence-transformers/all-minilm-l12-v2')
 
 # Step 1: Read the csv file
 def load_data_from_csv(file_path):
@@ -33,7 +33,7 @@ def query_ollama(question):
     
     payload = {
         "prompt": f"{question}",
-        "model": "rag3.2:3b",  # Adjust based on your Ollama model
+        "model": "rag3.2:3b",  # Adjust based on Ollama model
         "stream": False
     }
 
@@ -106,14 +106,14 @@ def text_chunk(text):
     return [chunk_list, embeddings]
 
 def main(csv_file,file):
-    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")  # Lightweight SBERT model
+    # model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")  # Lightweight SBERT model
     
     # Load data from csv
     data = load_data_from_csv(csv_file)
     last_file_name = ""
     for index, row in data.iterrows():
         print(datetime.now())
-        file.write(str(datetime.now()))
+        file.write(str(datetime.now())+"\n")
         question = row['question']
         human_answer = row['human_answer']
         file_name = row['file_name']
@@ -194,8 +194,8 @@ Has the question been answered correctly? Respond with "Yes" or "No".
         file.write(f"Question: {question}\n")
         file.write(f"Human Answer: {human_answer}\n")
         file.write(f"Generated Answer: {generated_answer}\n")
-        file.write(f"Cosine Similarity: {similarity_score}\n\n")
-        file.write(f"Has the question has been answered correctly: {judge}\n")
+        file.write(f"Cosine Similarity: {similarity_score}\n")
+        file.write(f"Has the question has been answered correctly: {judge}\n\n")
         
 if __name__ == "__main__":
     with open("stage2_responses.txt","+a", encoding="utf-8") as file:

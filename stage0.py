@@ -73,14 +73,20 @@ def main(csv_file):
         
         # Calculate cosine similarity between generated answer and human answer
         similarity_score = calculate_cosine_similarity(generated_answer, human_answer, model)
-        
+        judge_prompt = f"""
+Question: {question}
+Answer: {generated_answer}
+
+Has the question been answered correctly? Respond with "Yes" or "No".
+"""
+
+        judge = query_ollama(judge_prompt)
         # Print results
         print(f"Row {index + 1}:")
         print(f"Question: {question}")
         print(f"Human Answer: {human_answer}")
         print(f"Generated Answer: {generated_answer}")
         print(f"Cosine Similarity: {similarity_score}")
-        judge = query_ollama(f"Question: {question}\nAnswer: {generated_answer}. Has the question been answered correctly, respond yes or no.")
         print(f"Has The question has been answered correctly: {judge}\n")
 
         file.write(f"Row {index + 1}:\n")

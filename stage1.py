@@ -57,59 +57,63 @@ def main(csv_file):
     data = load_data_from_csv(csv_file)
     last_file_name = ""
     for index, row in data.iterrows():
-        print(datetime.now())
-        file.write(str(datetime.now()))
-        question = row['question']
-        human_answer = row['human_answer']
-        file_name = row['file_name']
-        
-        # Load the content of the file if it's a different file
-        if file_name != last_file_name:
-            last_file_name = file_name
-            file_content = load_file_content(file_name)
-        
-        prompt = f"""
-Here is the document relevant to the following question. Please read the document carefully and provide a concise answer based on all the information.
-
-Document: [{file_content}]
-
-Question: [{question}]
-
-Please provide a concise and accurate answer based on the information from the Document.
-"""
-        # Query Ollama
-        generated_answer = query_ollama(prompt)
-
-        if generated_answer is None:
-            print(f"Skipping row {index + 1} due to API error.")
-            continue  # Skip further processing for this row if no valid answer
-        
-        # Calculate cosine similarity between generated answer and human answer
-        similarity_score = calculate_cosine_similarity(generated_answer, human_answer, model)
-        judge_prompt = f"""
-Question: {question}
-Answer: {generated_answer}
-
-Has the question been answered correctly? Respond with "Yes" or "No".
-"""
-        # Print results
-        print(f"Row {index + 1}:")
-        print(f"Question: {question}")
-        print(f"Human Answer: {human_answer}")
-        print(f"Generated Answer: {generated_answer}")
-        print(f"Cosine Similarity: {similarity_score}")
-        judge = query_ollama(judge_prompt)
-        print(f"Has the question has been answered correctly: {judge}\n") 
+        if index >= 23:
+            print(datetime.now())
+            file.write(str(datetime.now()))
+            question = row['question']
+            human_answer = row['human_answer']
+            file_name = row['file_name']
             
-        file.write(f"Row {index + 1}:\n")
-        file.write(f"Question: {question}\n")
-        file.write(f"Human Answer: {human_answer}\n")
-        file.write(f"Generated Answer: {generated_answer}\n")
-        file.write(f"Cosine Similarity: {similarity_score}\n")
-        file.write(f"Has the question has been answered correctly: {judge}\n\n")
+            # Load the content of the file if it's a different file
+            if file_name != last_file_name:
+                last_file_name = file_name
+                file_content = load_file_content(file_name)
+            
+            prompt = f"""
+    Here is the document relevant to the following question. Please read the document carefully and provide a concise answer based on all the information.
+
+    Document: [{file_content}]
+
+    Question: [{question}]
+
+    Please provide a concise and accurate answer based on the information from the Document.
+    """
+            # Query Ollama
+            generated_answer = query_ollama(prompt)
+
+            if generated_answer is None:
+                print(f"Skipping row {index + 1} due to API error.")
+                continue  # Skip further processing for this row if no valid answer
+            
+            # Calculate cosine similarity between generated answer and human answer
+            similarity_score = calculate_cosine_similarity(generated_answer, human_answer, model)
+    #         judge_prompt = f"""
+    # Question: {question}
+    # Answer: {generated_answer}
+
+    # Has the question been answered correctly? Respond with "Yes" or "No".
+    # """
+            # Print results
+            print(f"Row {index + 1}:")
+            print(f"Question: {question}")
+            print(f"Human Answer: {human_answer}")
+            print(f"Generated Answer: {generated_answer}")
+            print(f"Cosine Similarity: {similarity_score}\n")
+            # judge = query_ollama(judge_prompt)
+            # print(f"Has the question has been answered correctly: {judge}\n") 
+            
+            file.close()
+            with open("stage1_responses.txt","a+",encoding="utf-8") as file:    
+                file.write(f"Row {index + 1}:\n")
+                file.write(f"Question: {question}\n")
+                file.write(f"Human Answer: {human_answer}\n")
+                file.write(f"Generated Answer: {generated_answer}\n")
+                file.write(f"Cosine Similarity: {similarity_score}\n\n")
+                # file.write(f"Has the question has been answered correctly: {judge}\n\n")
+
 
 if __name__ == "__main__":
-    with open("stage1_responses.txt","+a",encoding="utf-8") as file:
+    with open("stage1_responses.txt","a+",encoding="utf-8") as file:
         csv_file = '.\\archive\\stage_1_qa.csv' 
         main(csv_file)
         file.write(str(datetime.now()))

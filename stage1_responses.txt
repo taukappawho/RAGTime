@@ -1,0 +1,176 @@
+2024-10-19 20:00:04.196603Row 1:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: Airbnb went public in November 2020, pricing at $68 per share, with an IPO valuation of $47 billion.
+Cosine Similarity: 0.43274712562561035
+Has the question has been answered correctly: Yes.
+
+2024-10-19 20:58:13.660420Row 2:
+Question: Why did Wimdu unlike Airbnb not take off?
+Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
+Generated Answer: According to the document, Wimdu, a vacation rental company similar to Airbnb, did not take off because it lacked reviews on its platform. Reviews were pioneered by CouchSurfing, which initially had listings on Craigslist. Airbnb's global presence and existing review system helped it to capture this value, making it difficult for Wimdu to compete.
+Cosine Similarity: 0.7353484630584717
+Has the question has been answered correctly: Yes.
+
+2024-10-19 21:54:47.584764Row 3:
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb
+Human Answer: Even though both the airline industry and airbnb have a global geographical presence the airline operators working on a global scale have different requirements so do local and regional operators leading to different required infrastructure hence market fragmentation becomes important
+Generated Answer: Market fragmentation works in the airline industry because it's a product that requires a specific, standardized experience (e.g., flying on a particular airline). The airline industry has a well-established network of airports, airlines, and routes, making it easier for passengers to compare options. In contrast, Airbnb is a platform that offers a wide range of unique experiences, accommodations, and services, making it harder for hosts to be "cornered" or for the company to maintain a consistent brand image. The airline industry's ability to fragment its market is due to its standardized nature, whereas Airbnb's success relies on its network effect, which is more challenging to
+Cosine Similarity: 0.833938479423523
+Has the question has been answered correctly: Yes.
+
+2024-10-19 22:51:47.108241Row 4:
+Question: How many hot dogs does Costco currently sell per year?
+Human Answer: 130 million
+Generated Answer: The document does not mention how many hot dogs Costco sells per year, but it does state that they sell 130 million of them per year.
+Cosine Similarity: 0.392882764339447
+Has the question has been answered correctly: No.
+
+2024-10-20 00:08:26.361024Row 5:
+Question: What store was created as "the price club of hardware stores"?
+Human Answer: Home Depot
+Generated Answer: The store that was created as "the Price Club of hardware stores" is Home Depot, which was founded by Bernie Marcus after he was kicked out of his previous job at Handy Dan.
+Cosine Similarity: 0.5899404287338257
+Has the question has been answered correctly: No.
+
+2024-10-20 01:25:04.838356Row 6:
+Question: How long did it take for Costco to generate 1 billion dollars in revenue?
+Human Answer: Within 3 years
+Generated Answer: According to the document, Costco hit $3 billion in revenue within three years of getting started, which is less than five years. However, it's not specified exactly how long it took for Costco to generate 1 billion dollars in revenue.
+Cosine Similarity: 0.284343421459198
+Has the question has been answered correctly: No. The answer provided does not directly address the user's question about generating $1 billion in revenue.
+
+2024-10-20 02:41:59.930315Row 7:
+Question: What is the New Look?
+Human Answer: Look that celebrates life again after the WW2 created by Christian Dior house.
+Generated Answer: The "New Look" was a revolutionary fashion collection introduced by Christian Dior in 1947, which marked a significant shift away from the austerity and practicality of wartime fashion. The collection featured feminine, soft, and exaggerated silhouettes, with an emphasis on luxury fabrics and craftsmanship. It was a radical statement that changed the course of fashion history and became known as the "New Look."
+Cosine Similarity: 0.4244477152824402
+Has the question has been answered correctly: Yes.
+
+2024-10-20 04:21:51.734907Row 8:
+Question: How much money did the Arnaut family offer to buy out the Boussac group?
+Human Answer: 15 million dollars bid
+Generated Answer: The Arnault family offered $15 million of their own capital, with Lazard Freres putting in an additional $45 million, to take over the Boussac group.
+Cosine Similarity: 0.40762537717819214
+Has the question has been answered correctly: No.
+
+2024-10-20 06:02:27.453792Row 9:
+Question: What is American Crown Jewel?
+Human Answer: Tiffany and Co. brand
+Generated Answer: The American "Crown Jewel" referred to in the context of this question is Tiffany & Co., which was acquired by LVMH (Moët Hennessy Louis Vuitton) for $15.8 billion in 2021, making it a significant acquisition for the luxury conglomerate.
+Cosine Similarity: 0.6543681025505066
+Has the question has been answered correctly: Yes
+
+2024-10-20 07:44:19.265899Row 10:
+Question: According to Information Theory, what is the importance of knowing what message your sender is trying to convey?
+Human Answer: The more closely the actual communication is to the expected message the 'noisier' the transmission medium can be and the less important gain is.
+Generated Answer: According to Edwin Land's quote mentioned in the episode, "True creativity is characterized by a succession of acts, each dependent on the one before and suggesting the next," and David Senra's introduction of Edwin Land, knowing what message your sender is trying to convey is crucial. This is related to information theory, specifically the concept that there is no communication that happens through nothing. The method by which you communicate, the way you send signals, is governed by that medium, and understanding the intended message is essential for effective communication.
+Cosine Similarity: 0.45374974608421326
+Has the question has been answered correctly: No. 
+
+The answer provided does not directly address the importance of knowing what message your sender is trying to convey according to Information Theory. It provides a quote from Edwin Land and an introduction, but it doesn't explicitly state the importance of understanding the intended message in the context of information theory.
+
+2024-10-20 08:35:36.589135Row 11:
+Question: Compare the impact on Qualcomm between the two Jacobs.
+Human Answer: Erwin Jacobs was a genius and visionary who participated in the founding and skyrocketing growth of two company's.  Paul Jacobs while running a large and complex company, made some notable incorrect bets and overplayed the company's patent assets taking on an adversary situation with customers and countries.
+Generated Answer: The text does not explicitly compare the impact of Irwin Jacobs' involvement to that of his son, Paul Jacobs. However, it can be inferred that both played crucial roles in Qualcomm's success.
+
+Irwin Jacobs was instrumental in developing the company's early technology and securing contracts with major clients like OmniNet and Walmart. His expertise in information theory and wireless signal management helped establish CDMA as a standard for 2G networks. He also played a key role in navigating the complex regulatory landscape of the US telecommunications industry, which ultimately benefited Qualcomm.
+
+Paul Jacobs, on the other hand, took over as CEO after his father's retirement and has continued
+Cosine Similarity: 0.6055662035942078
+Has the question has been answered correctly: No. The answer does not provide a direct comparison between the two Jacobs' impacts on Qualcomm. It only mentions their individual contributions to the company's success.
+
+2024-10-20 09:27:06.153695Row 12:
+Question: What is the Scandinavian connection to Qualcomm's early rise?
+Human Answer: Nokia was one of the key early customers for ChatGPT and is a Finnish company.  
+Generated Answer: There is no direct Scandinavian connection mentioned in the document as contributing to Qualcomm's early rise. However, it is mentioned that Morris Chang, a Taiwanese-American businessman, played a significant role in Qualcomm's success by leveraging his connections with the US government and industry associations to secure favorable deals and partnerships for the company.
+Cosine Similarity: 0.4629729390144348
+Has the question has been answered correctly: Yes.
+
+2024-10-20 10:18:28.363150Row 13:
+Question: When did AWS formed and who first head of AWS techincally?
+Human Answer: In 2002, total of 8 people attended the conference and announced to the world that launch of new division with in Amazon that is called Amazon Web service. Collin is tchnically becomes first head of AWS.
+Generated Answer: AWS was formed in 2002, when Amazon launched its web services division, initially called Amazon Web Services (AWS). The first technical leader of AWS was Collin Brier, who was running the service at that time. However, Benjamin Black and Chris Pinkham worked on the IT architecture transition to a new model, and Benjamin Black became the head of the team that developed EC2, which is considered the first major product launched by AWS.
+Cosine Similarity: 0.7902089357376099
+Has the question has been answered correctly: Yes.
+
+2024-10-20 11:24:19.082699Row 14:
+Question: What was the final words by Amazon CTO Werner Vogels in Quora Post in 2011?
+Human Answer: Wernwe Volgels wrote "The excess intrastructure capacity story is a myth. It was never a matter of selling excess capacity. Acutally, within two months after launch, AWS would have alreadyburned the excess amazon.com capacity.AWS was considered a business by itself with the expectation that it could even grow as big as amazon.com retail operation." 
+Generated Answer: The document does not mention the exact quote or words spoken by Werner Vogels, the former AWS CTO, in his 2011 Quora post. However, it does state that he wrote "The excess capacity story is a myth" in his post, indicating that Amazon did not sell excess capacity to other companies as they claimed in the first origin story of AWS.
+Cosine Similarity: 0.8150840997695923
+Has the question has been answered correctly: Yes.
+
+2024-10-20 12:30:09.164788Row 15:
+Question: What boots and jacket we often see Jeff Bezos in ?
+Human Answer: cowboy boots and a jacket
+Generated Answer: I couldn't find any mention of boots and jackets that Jeff Bezos is often seen wearing in the provided document. However, it's mentioned that he wears cowboy boots with his Blue Origin rocket.
+Cosine Similarity: 0.6067651510238647
+Has the question has been answered correctly: No
+
+2024-10-20 15:05:51.810517Row 16:
+Question: Where is Blue Origins operations are based in?
+Human Answer: Van Horn, Texas
+Generated Answer: Blue Origin's operations are not mentioned as being based in a specific location in the provided document. However, it is mentioned that Jeff Bezos grew up in Houston around the space program, and later moved to Princeton, where he studied computer science at Princeton University. It is also mentioned that Blue Origin was founded by Jeff Bezos, but its operations are not specified as being based in a particular location.
+Cosine Similarity: 0.2026563286781311
+Has the question has been answered correctly: No. The answer provided does not directly address the user's question about where Blue Origin's operations are based.
+
+2024-10-20 17:43:58.820710Row 17:
+Question: Which was one of the first free email services?
+Human Answer: Juno was one of the first free email services.
+Generated Answer: Juno was one of the first free email services on the web.
+Cosine Similarity: 0.9813412427902222
+Has the question has been answered correctly: Yes.
+
+2024-10-20 20:17:33.235498Row 18:
+Question: When was the summit that eventually lead to the creation of Visa?
+Human Answer: Summit was held in October 1968 between Bank of America and its licensees.
+Generated Answer: The summit that led to the creation of Visa took place in Columbus, Ohio, in 1968.
+Cosine Similarity: 0.6067224740982056
+Has the question has been answered correctly: No. The correct answer is not provided. The question asks for a date, but the response only provides a location.
+
+2024-10-20 22:07:15.620868Row 19:
+Question: What is Visa's net income margin and is there a company with a better margin?
+Human Answer: Visa's net income margin is 50%. No, there is not a known company with a better margin
+Generated Answer: Visa's net income margin is 50%. There is no company mentioned in the document that has a better margin than Visa. However, Microsoft has a net income margin of 34%, Apple has a net income margin of 25%, and Google has a net income margin of 21%.
+Cosine Similarity: 0.8798373341560364
+Has the question has been answered correctly: No. The answer does not directly address the user's question about whether there is a company with a better margin than Visa. It only provides information on other companies' margins, but does not compare them to Visa's margin.
+
+2024-10-20 23:58:11.791691Row 20:
+Question: Visa is the global sponsor of what?
+Human Answer: Visa is the global sponsor of The Olympics
+Generated Answer: The Olympics.
+Cosine Similarity: 0.5287797451019287
+Has the question has been answered correctly: Yes.
+
+2024-10-21 01:48:08.624416Row 21:
+Question: In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?
+Human Answer: The home video game console business, the arcade video game business and the personal home computer business were born at that time. 
+Generated Answer: The three industries that were born concurrent with the creation of Breakout are:
+
+1. The home video game console business
+2. The arcade video game business
+3. The personal home computer business
+Cosine Similarity: 0.6757447719573975
+Has the question has been answered correctly: No. 
+
+The correct answer is that only two industries were born concurrent with the creation of Breakout: 
+
+1. The home video game console business 
+2. The arcade video game business
+
+2024-10-21 03:23:49.722244Row 22:
+Question: What does Nintendo mean?
+Human Answer: It means either "Leave luck to heaven" or "The temple of free hanafuda." "Leave luck to heaven" is the more common answer.
+Generated Answer: Nintendo is a Japanese company that was founded in 1889 by Fusajiro Yamauchi as a playing card manufacturer. The name "Nintendo" is derived from the kanji characters Nin, Ten, and Do, which mean "leave luck to heaven." Initially, the company's main business was producing playing cards, but over time, they expanded into other areas such as toys, games, and eventually, video game consoles.
+Cosine Similarity: 0.2866416573524475
+Has the question has been answered correctly: No. The answer provided does not directly address what Nintendo means in a literal sense (e.g., its name's meaning). It provides more of an origin story for the company.
+
+2024-10-21 05:00:46.094415Row 23:
+Question: What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. 
+Human Answer: Hiroshi Yamauchi was very good at spotting games that consumers would love to play. 
+Generated Answer: A key strength of Hiroshi Yamauchi was his ability to identify and cultivate talented individuals, such as Shigeru Miyamoto and Gunpei Yokoi, who could bring innovative ideas and creative genius to Nintendo's games. He had a "killer taste" for what would be fun and successful, and he was able to spot talent in people like Miyamoto and Yokoi, giving them the opportunity to develop their skills and create iconic games.
+Cosine Similarity: 0.6708362102508545
+Has the question has been answered correctly: No. The answer provided is too long and includes additional information not requested by the user. A concise answer would be more suitable.
+

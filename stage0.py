@@ -52,53 +52,45 @@ def calculate_cosine_similarity(text1, text2, model):
     return similarity
 
 def main(csv_file):
-    model = SentenceTransformer('all-MiniLM-L6-v2')  # Lightweight SBERT model
+    model = SentenceTransformer(SENTENCE_MODEL)  # Lightweight SBERT model
     
     # Load data from csv
     data = load_data_from_csv(csv_file)
     
     for index, row in data.iterrows():
-        print(datetime.now())
-        file.write(str(datetime.now()))
-        question = row['question']
-        human_answer = row['human_answer']
-        file_name = row['file_name']
+        with open(ANSWER_FILE,"a+",encoding="utf-8") as file:
+            print(datetime.now())
+            file.write(str(datetime.now()))
+            question = row['question']
+            human_answer = row['human_answer']
+            file_name = row['file_name']
+            
+            # Query Ollama
+            generated_answer = query_ollama(question)
+
+            if generated_answer is None:
+                print(f"Skipping row {index + 1} due to API error.")
+                continue  # Skip further processing for this row if no valid answer
+            
+            # Calculate cosine similarity between generated answer and human answer
+            similarity_score = calculate_cosine_similarity(generated_answer, human_answer, model)
+            
+            # Print results
+            print(f"Row {index + 1}:")
+            print(f"Question: {question}")
+            print(f"Human Answer: {human_answer}")
+            print(f"Generated Answer: {generated_answer}")
+            print(f"Cosine Similarity: {similarity_score}")
+
+            file.write(f"Row {index + 1}:\n")
+            file.write(f"Question: {question}\n")
+            file.write(f"Human Answer: {human_answer}\n")
+            file.write(f"Generated Answer: {generated_answer}\n")
+            file.write(f"Cosine Similarity: {similarity_score}\n\n")  
         
-        # Query Ollama
-        generated_answer = query_ollama(question)
-
-        if generated_answer is None:
-            print(f"Skipping row {index + 1} due to API error.")
-            continue  # Skip further processing for this row if no valid answer
-        
-        # Calculate cosine similarity between generated answer and human answer
-        similarity_score = calculate_cosine_similarity(generated_answer, human_answer, model)
-        judge_prompt = f"""
-Question: {question}
-Answer: {generated_answer}
-
-Has the question been answered correctly? Respond with "Yes" or "No".
-"""
-
-        judge = query_ollama(judge_prompt)
-        # Print results
-        print(f"Row {index + 1}:")
-        print(f"Question: {question}")
-        print(f"Human Answer: {human_answer}")
-        print(f"Generated Answer: {generated_answer}")
-        print(f"Cosine Similarity: {similarity_score}")
-        print(f"Has The question has been answered correctly: {judge}\n")
-
-        file.write(f"Row {index + 1}:\n")
-        file.write(f"Question: {question}\n")
-        file.write(f"Human Answer: {human_answer}\n")
-        file.write(f"Generated Answer: {generated_answer}\n")
-        file.write(f"Cosine Similarity: {similarity_score}\n\n")  
-        file.write(f"Has the question has been answered correctly: {judge}\n")
-        
+ANSWER_FILE =   "stage0_responses.txt"  
+QUESTION_FILE =  '.\\archive\\stage_0_qa.csv'   
+SENTENCE_MODEL = 'all-MiniLM-L12-v2'
 if __name__ == "__main__":
-    with open("stage1_responses.txt","+a",encoding="utf-8") as file:
-        csv_file = '.\\archive\\stage_0_qa.csv' 
+        csv_file = QUESTION_FILE
         main(csv_file)
-        file.write(str(datetime.now()))
-    file.close()   

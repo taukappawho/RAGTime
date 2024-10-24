@@ -174,3 +174,421 @@ Generated Answer: A key strength of Hiroshi Yamauchi was his ability to identify
 Cosine Similarity: 0.6708362102508545
 Has the question has been answered correctly: No. The answer provided is too long and includes additional information not requested by the user. A concise answer would be more suitable.
 
+2024-10-22 12:12:55.1148142024-10-22 12:12:55.1148142024-10-22 12:12:55.1323052024-10-22 12:12:55.1323052024-10-22 12:12:55.1453772024-10-22 12:12:55.1453772024-10-22 12:12:55.1597312024-10-22 12:12:55.1597312024-10-22 12:12:55.1697632024-10-22 12:12:55.1697632024-10-22 12:12:55.1842932024-10-22 12:12:55.1842932024-10-22 12:12:55.1982922024-10-22 12:12:55.1982922024-10-22 12:12:55.2134012024-10-22 12:12:55.2134012024-10-22 12:12:55.2278792024-10-22 12:12:55.2278792024-10-22 12:12:55.2417752024-10-22 12:12:55.2417752024-10-22 12:12:55.2537822024-10-22 12:12:55.2537822024-10-22 12:12:55.2678792024-10-22 12:12:55.2678792024-10-22 12:12:55.2817792024-10-22 12:12:55.2817792024-10-22 12:12:55.2967812024-10-22 12:12:55.2967812024-10-22 12:12:55.3107762024-10-22 12:12:55.3107762024-10-22 12:12:55.3212132024-10-22 12:12:55.3212132024-10-22 12:12:55.3322152024-10-22 12:12:55.3322152024-10-22 12:12:55.3447612024-10-22 12:12:55.3447612024-10-22 12:12:55.3580392024-10-22 12:12:55.3580392024-10-22 12:12:55.3720322024-10-22 12:12:55.3720322024-10-22 12:12:55.3850392024-10-22 12:12:55.3850392024-10-22 12:12:55.3980342024-10-22 12:12:55.3980342024-10-22 12:12:55.4097342024-10-22 12:12:55.4097342024-10-22 12:12:55.4188482024-10-22 12:12:55.419753Row 24:
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?
+Human Answer: The 3 interrelated things that make Renaissance Technologies unique are 1. one model that everyone collaborates on together, 2. a super small team where everyone knows each other and the financial impact anyone makes to the that one model is great to everyone 3. the LPGP model with very high carry performance fees that creates the right set of incentives for both new and old talent.
+Generated Answer: The three interrelated things that make Renaissance Technologies unique are:
+
+1. **One model for everything**: They have unified their entire investment strategy under one model, which is shared by everyone in the firm. This allows for collaboration and knowledge-sharing among team members, rather than competing interests.
+
+2. **A super small team with a strong culture**: With less than 400 employees overall, and fewer than 200 on the research and engineering side, Renaissance Technologies has a unique culture that fosters focus, camaraderie, and a sense of community. This is partly due to the fact that everyone works together on the same investment strategy.
+
+3.
+Cosine Similarity: 0.8685235977172852
+
+2024-10-22 13:43:38.8941262024-10-22 13:43:38.9191252024-10-22 13:43:38.919125Row 25:
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?
+Human Answer: Zeno's paradoxes
+Generated Answer: Jim Simons learns about Zeno's paradoxes as a 4-year-old, which sparks his interest in math. Specifically, he stumbles upon one of Zeno's famous paradoxes when he observes that if you need to go to the gas station to fill up the tank, you can just use only half the gas in the tank because then you'll still be able to fill it after that. This idea is not intuitive and doesn't occur to a 4-year-old, but it shows Jim's early interest in math and problem-solving.
+Cosine Similarity: 0.6159694194793701
+
+2024-10-22 13:45:07.2184902024-10-22 13:45:07.2377752024-10-22 13:45:07.238317Row 26:
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?
+Human Answer: 128% gross returns
+Generated Answer: The Medallion Fund's gross returns in 2000 were 128%.
+Cosine Similarity: 0.5942346453666687
+
+2024-10-22 13:45:32.3000182024-10-22 15:28:09.5107072024-10-22 15:28:09.5107072024-10-22 15:28:09.5177072024-10-22 15:28:09.5177072024-10-22 15:28:09.5227132024-10-22 15:28:09.5227132024-10-22 15:28:09.5278122024-10-22 15:28:09.5278122024-10-22 15:28:09.5337102024-10-22 15:28:09.5337102024-10-22 15:28:09.5385352024-10-22 15:28:09.5385352024-10-22 15:28:09.5434002024-10-22 15:28:09.5434002024-10-22 15:28:09.5475342024-10-22 15:28:09.5475342024-10-22 15:28:09.5525342024-10-22 15:28:09.5525342024-10-22 15:28:09.5575312024-10-22 15:28:09.5575312024-10-22 15:28:09.5614272024-10-22 15:28:09.5614272024-10-22 15:28:09.5671522024-10-22 15:28:09.5671522024-10-22 15:28:09.5812252024-10-22 15:28:09.5812252024-10-22 15:28:09.5863272024-10-22 15:28:09.5863272024-10-22 15:28:09.6003522024-10-22 15:28:09.6003522024-10-22 15:28:09.6063662024-10-22 15:28:09.6063662024-10-22 15:28:09.6114512024-10-22 15:28:09.6114512024-10-22 15:28:09.6164802024-10-22 15:28:09.6164802024-10-22 15:28:09.6205832024-10-22 15:28:09.6205832024-10-22 15:28:09.6255822024-10-22 15:28:09.6255822024-10-22 15:28:09.6305862024-10-22 15:28:09.6305862024-10-22 15:28:09.6345852024-10-22 15:28:09.6345852024-10-22 15:28:09.6395812024-10-22 15:28:09.6395812024-10-22 15:28:09.6532752024-10-22 15:28:09.653275Row 24:
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?
+Human Answer: The 3 interrelated things that make Renaissance Technologies unique are 1. one model that everyone collaborates on together, 2. a super small team where everyone knows each other and the financial impact anyone makes to the that one model is great to everyone 3. the LPGP model with very high carry performance fees that creates the right set of incentives for both new and old talent.
+Generated Answer: The three interrelated things that make Renaissance Technologies unique are:
+
+1. **One model for everything**: They have unified their entire investment strategy under one model, which is shared by everyone in the firm. This allows for collaboration and knowledge-sharing among team members, rather than competing interests.
+
+2. **A super small team with a strong culture**: With less than 400 employees overall, and fewer than 200 on the research and engineering side, Renaissance Technologies has a unique culture that fosters focus, camaraderie, and a sense of community. This is partly due to the fact that everyone works together on the same investment strategy.
+
+3.
+Cosine Similarity: 0.8685235977172852
+
+2024-10-22 16:54:53.7578082024-10-22 16:54:53.7820862024-10-22 16:54:53.782990Row 25:
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?
+Human Answer: Zeno's paradoxes
+Generated Answer: Jim Simons learns about Zeno's paradoxes as a 4-year-old, which sparks his interest in math. Specifically, he stumbles upon one of Zeno's famous paradoxes when he observes that if you need to go to the gas station to fill up the tank, you can just use only half the gas in the tank because then you'll still be able to fill it after that. This idea is not intuitive and doesn't occur to a 4-year-old, but it shows Jim's early interest in math and problem-solving.
+Cosine Similarity: 0.6159694194793701
+
+2024-10-22 16:56:18.4930382024-10-22 16:56:18.5171582024-10-22 16:56:18.518077Row 26:
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?
+Human Answer: 128% gross returns
+Generated Answer: The Medallion Fund's gross returns in 2000 were 128%.
+Cosine Similarity: 0.5942346453666687
+
+2024-10-22 16:56:42.4500552024-10-22 16:56:42.4731682024-10-22 16:56:42.474341Row 27:
+Question: who was the first rocket engine engineer in spacex
+Human Answer: Tom Mueller
+Generated Answer: The document does not specifically mention who the first rocket engine engineer at SpaceX was, but it does mention that Elon Musk met Tom Mueller, a renowned rocket engine engineer, and worked with him to develop the Merlin engine. Tom Mueller is described as "the best rocket engine engineer in the world" by Ashlee Vance's biography of Elon Musk.
+Cosine Similarity: 0.4202378988265991
+
+2024-10-22 17:47:42.4571022024-10-22 17:47:42.4680772024-10-22 17:47:42.468649Row 28:
+Question: can you tell me total number of people working in Spacex
+Human Answer: 7000
+Generated Answer: Unfortunately, the document does not provide an exact number of people working at SpaceX. However, it mentions that "there are 7000 people" working for SpaceX, but this is likely referring to the company's workforce in 2008-2011, as mentioned in the episode.
+
+In more recent times, Elon Musk has stated that SpaceX has around 10,000 employees.
+Cosine Similarity: 0.2556663751602173
+
+2024-10-22 17:48:28.1963242024-10-22 17:48:28.2133232024-10-22 17:48:28.214525Row 29:
+Question: What is the cost of rocket travel based on the materials?
+Human Answer: 0.02
+Generated Answer: According to the document, Elon Musk estimated that the cost of goods sold for aerospace-grade aluminum alloys, titanium, copper, and carbon fiber was around 2% of what rockets cost. This suggests that the materials themselves account for only a small percentage of the total cost of rocket travel.
+Cosine Similarity: 0.08996663987636566
+
+2024-10-22 17:49:03.2539952024-10-22 17:49:03.2630112024-10-22 17:49:03.264034Row 30:
+Question: what is the idea about mars oasis
+Human Answer: the idea behind a Mars Oasis is that they're going to buy a rocket, and they're going to put a plant on it, and they're also going to put a robot on it, and they're going to shoot this rocket to mars
+Generated Answer: The "Mars Oasis" concept was an early idea proposed by Elon Musk, where SpaceX would launch a rocket with a plant, robot, and camera into space to demonstrate the feasibility of sending humans to Mars. The initial plan was to use a relatively simple setup, but it was later scaled back due to concerns about cost and complexity.
+Cosine Similarity: 0.8390815258026123
+
+2024-10-22 17:49:41.7471612024-10-22 17:49:41.7561632024-10-22 17:49:41.756163Row 31:
+Question: What was Elon MuskÔs initial investment in SpaceX?
+Human Answer: Approx 100 MN
+Generated Answer: Elon Musk's initial investment in SpaceX was $100 million, which he put into the company after it was founded. This amount is mentioned as being his total investment in SpaceX for three or four launches, according to an interview with Elon Musk.
+Cosine Similarity: 0.2360684871673584
+
+2024-10-22 17:50:12.8965502024-10-22 17:50:12.9145762024-10-22 17:50:12.915577Row 32:
+Question: How is Jim Weber's strategic focus influence the revitalization of Brooks Running?
+Human Answer: His leadership is pivotal in transforming Brooks Running from a struggling company into a leading shoe brand company. His focus on the running segment and prioritizing performance and technology in their products, helped Brooks steered towards the leading market  with sustainable growth and profitability.
+Generated Answer: Jim Weber's strategic focus played a crucial role in the revitalization of Brooks Running. He shifted the company's focus to serving active runners, cutting all other business lines, and investing heavily in product development. This shift allowed Brooks to differentiate itself from competitors and build a loyal customer base. By focusing on performance running shoes and partnering with retailers that catered to frequent runners, Jim was able to create a strong brand identity and drive growth. His emphasis on building a global brand, expanding into new markets, and investing in digital marketing also contributed to the company's success.
+Cosine Similarity: 0.7530170679092407
+
+2024-10-22 18:05:03.7202702024-10-22 18:05:03.7358562024-10-22 18:05:03.735856Row 33:
+Question: How did Brooks Running approach to market segmentation give it a competitive advantage?
+Human Answer: It gained competitive advantage by strategically focusing on the needs of dedicated runners. This dedicated focus allowed the company to develop highly specialized products that meet the specific needs of the customers, which built a strong brand loyalty and solid reputation in the running community. 
+Generated Answer: According to Jim Weber, Brooks Running's CEO, the company's approach to market segmentation gave it a competitive advantage by focusing on serving active runners as a segment. By cutting all other business lines and concentrating on performance running shoes, Brooks was able to build a strong brand and gain a loyal customer base. This approach allowed the company to differentiate itself from competitors like Nike, which had a broader product line that appealed to a wider range of consumers. By targeting frequent runners and investing in research and development, Brooks was able to create high-quality products that met the needs of its customers, ultimately leading to significant growth and success for the company.
+Cosine Similarity: 0.682986319065094
+
+2024-10-22 18:05:36.6737522024-10-22 18:05:36.6827502024-10-22 18:05:36.682750Row 34:
+Question: What was the patent Heddy developed? Was it publicly available?
+Human Answer: Hedy teams up with her new Hollywood neighbor, a music composer named George Antheil.  With her ideas and his musical prowess, they developed a concept that they patent. They get issued a confidential patent that stays confidential for decades in the US military
+Generated Answer: Hedy Lamarr developed a novel technique to defeat RF frequency jamming by using frequency hopping. This technique, known as spread spectrum technology, involves transmitting signals on multiple frequencies, allowing for efficient use of available bandwidth and resistance to interference. The patent for this technique was issued in 1942 and remained confidential until it was declassified in 1981.
+Cosine Similarity: 0.34739232063293457
+
+2024-10-22 18:56:21.5141462024-10-22 18:56:21.5281472024-10-22 18:56:21.529147Row 35:
+Question: Why were patents developed by Heddy had 88 frequency hops ?
+Human Answer: There were 88 frequency hops in their technical description of the patent because there are 88 keys on a piano. They took two player piano scrolls that had the same basically song, and they mapped each note to a new frequency. They put the same player piano in the same scroll on the receiver that they did on the transmitter, and they pressed play on the player piano song at the same time so it would know exactly where to hop around.
+Generated Answer: According to the document, Hedy Lamarr's patent for spread spectrum technology included 88 frequency hops. This was because she used two player piano scrolls with 88 keys each, mapping each note to a new frequency. By playing both scrolls simultaneously, she created a system that could hop between frequencies in real-time, evading jamming signals and maximizing signal efficiency.
+Cosine Similarity: 0.7828099131584167
+
+2024-10-22 18:57:04.0335162024-10-22 18:57:04.0445202024-10-22 18:57:04.045515Row 36:
+Question: What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?
+Human Answer: The Trump administration got involved in the deal and said it would be a national security concern and block the hostile takeover deal. Qualcomm had great relationships with the US government and always have since the early days in being a government contractor.
+Generated Answer: The Trump administration played a crucial role in blocking Broadcom's attempted hostile takeover of Qualcomm. In 2018, Broadcom offered to acquire Qualcomm for $117 billion, but the deal was blocked by the US government due to national security concerns. The Trump administration viewed this as a threat to national security, particularly given Qualcomm's close ties with the US military and its role in developing advanced wireless technologies.
+
+The decision to block the takeover was made after Broadcom's CEO, Artie Meir, met with President Donald Trump at the White House. The administration cited concerns that a Qualcomm acquisition by Broadcom could lead to the loss of sensitive technology and intellectual property related
+Cosine Similarity: 0.804705798625946
+
+2024-10-22 18:58:13.8131102024-10-22 18:58:13.8281362024-10-22 18:58:13.829109Row 37:
+Question: what is one decision Porsche made to improve business that went against industry norm?
+Human Answer: cancel all other car models except the 911
+Generated Answer: One decision Porsche made to improve their business was to introduce the Boxster, a mid-engined roadster, which deviated from the traditional rear-engine design of their sports cars. This move allowed them to create an entry-level model that shared the same design language as their high-performance 911 models, making it more appealing to customers and increasing sales.
+Cosine Similarity: 0.34095850586891174
+
+2024-10-22 20:39:05.5720652024-10-22 20:39:05.5790772024-10-22 20:39:05.579077Row 38:
+Question: What city owns 20% of volkswagen and why
+Human Answer: Lower Saxony, as a method to get the company off the ground
+Generated Answer: The city that owns 20% of Volkswagen is Lower Saxony, in Germany. This is due to the Volkswagen Law, which was designed to prevent takeovers of VW by corporate raiders or other companies. The law limits any shareholder's voting rights to 20%, regardless of their level of stock holding.
+Cosine Similarity: 0.32149285078048706
+
+2024-10-22 20:40:00.1548522024-10-22 20:40:00.1618612024-10-22 20:40:00.162852Row 39:
+Question: What's Startup Garage at Stanford's GSB?
+Human Answer: A class at GSB to build and launch a startup company
+Generated Answer: Startup Garage is an interdisciplinary two-quarter class at Stanford University's Graduate School of Business (GSB) that allows students to build a product or service as part of their coursework. The class is designed for teams of four students, including two undergraduate computer science majors and two GSB business school students. The goal of the class is to teach entrepreneurship skills and allow students to develop a startup idea into a viable business.
+Cosine Similarity: 0.6723893880844116
+
+2024-10-22 21:46:27.7376442024-10-22 21:46:27.7452952024-10-22 21:46:27.745295Row 40:
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?
+Human Answer: Chloe
+Generated Answer: The shop that inspired the idea behind the DoorDash app was owned by Chloe, who ran a macaron shop in Downtown Palo Alto. According to David, Chloe burst into Tony Xu and his co-founders during one of their design interviews and said, "This drives me crazy... I have no drivers to fulfill them and I'm the one doing all of it." This conversation led to the idea for DoorDash's delivery service.
+Cosine Similarity: 0.3620342016220093
+
+2024-10-22 21:47:26.5626172024-10-22 21:47:26.5746202024-10-22 21:47:26.575613Row 41:
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?
+Human Answer: Leafly, the marijuana company;
+A Visiting Author
+Generated Answer: The first customer of Palo Alto Delivery (now known as DoorDash) was Bruce Barcott, who was working at Leafly, a marijuana company. He was a visiting author at Stanford University and was staying in Alpine Road, behind the Dish.
+Cosine Similarity: 0.33128881454467773
+
+2024-10-22 21:48:04.8186872024-10-22 21:48:04.8325622024-10-22 21:48:04.833160Row 42:
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York
+Human Answer: IBM Computer Training Seminar 
+Generated Answer: Sam Walton enrolled himself as Chairman/CEO of Walmart in a seminar at IBM on how to use computing technology in business.
+Cosine Similarity: 0.4082547426223755
+
+2024-10-22 23:06:21.5274432024-10-22 23:06:21.5344452024-10-22 23:06:21.535445Row 43:
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost
+Human Answer: 5%
+Generated Answer: According to the document, Sam Walton's first Ben Franklin store in Newport, Arkansas had a rent charge of 5% of sales. The store sold for $25,000, including the rent charge, and Sam Walton was able to turn it into the most profitable store in Arkansas within five years by implementing his discounting strategy.
+Cosine Similarity: 0.07026486843824387
+
+2024-10-22 23:07:11.9197112024-10-22 23:07:11.9347322024-10-22 23:07:11.936189Row 44:
+Question: How much top line revenue % did walmart see a year after their IPO 1972
+Human Answer: 77%
+Generated Answer: According to the document, Walmart's market cap was $135 million in 1977. In that same year, they had half a billion dollars in sales. 
+
+To calculate the top line revenue percentage, we need to know the total market capitalization of Walmart at the time of their IPO (which is not explicitly stated in the document). However, based on historical data, Walmart's market cap was around $10-20 billion by 1977.
+
+Assuming a rough estimate of $15 billion market cap for 1977, we can calculate the top line revenue percentage as follows:
+
+Half a billion dollars in sales / $15 billion
+Cosine Similarity: 0.28861066699028015
+
+2024-10-22 23:08:41.2492922024-10-22 23:08:41.2582792024-10-22 23:08:41.258279Row 45:
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point
+Human Answer: They were bankrupt and did not have any other option
+Generated Answer: NVIDIA used a startup foundry emulation software to produce their chips because they were facing a critical situation where they had about nine months of runway left, and if they didn't ship something in that time, they would be out of business. To solve this problem, Jensen Huang and his co-founders decided to use an emulator to design the chip, rather than producing a physical prototype. This allowed them to save time and resources, but also meant that they had to debug the software extensively to ensure it worked correctly.
+Cosine Similarity: 0.09804551303386688
+
+2024-10-22 23:43:29.9093912024-10-22 23:43:29.9193912024-10-22 23:43:29.920445Row 46:
+Question: What did Nvidia call its first graphics card
+Human Answer: G-force 256
+Generated Answer: NVIDIA called its first graphics card "NV1" but later rebranded it as "GeForce".
+Cosine Similarity: 0.14934876561164856
+
+2024-10-22 23:43:44.2506412024-10-22 23:43:44.2576572024-10-22 23:43:44.257657Row 47:
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC
+Human Answer: Jensen could not get a hold of all the sales people because they had been ignoring him (Nvidia was not doing well at this point in time.
+Generated Answer: Jensen decided to write and send a letter to Morris Chang, CEO of TSMC, because he couldn't get in touch with him through any of the salespeople at NVIDIA. The letter was sent to Taiwan, where Morris was located, and it had a significant impact on Jensen's decision to call Morris directly, leading to a landmark deal between NVIDIA and TSMC that made TSMC the primary foundry for NVIDIA chips.
+Cosine Similarity: 0.5178325772285461
+
+2024-10-22 23:44:24.3353562024-10-22 23:44:24.3423692024-10-22 23:44:24.342369Row 48:
+Question: What was Peloton original price
+Human Answer: $1,200.00 
+Generated Answer: Peloton originally priced its bike at $1200, but later lowered it to $2245. However, they then lowered the price again to $1895 for the original bike model. The Bike+ was priced at $2495.
+Cosine Similarity: 0.2932021915912628
+
+2024-10-23 00:26:58.1512242024-10-23 00:26:58.1632162024-10-23 00:26:58.163216Row 49:
+Question: How much stock did John Foley had in Peloton in 2022
+Human Answer:  39.6%, so right around 40%, 
+Generated Answer: The document does not explicitly state how much stock John Foley had in Peloton in 2022, but it is mentioned that he sold $96 million of his Peloton stock in 2021 when the price was high. As of January 2022, Foley's remaining stock would be worth around $500 million at the closing price on Monday, according to David Rosenthal.
+Cosine Similarity: 0.18023157119750977
+
+2024-10-23 00:27:38.6732302024-10-23 00:27:38.6812452024-10-23 00:27:38.681245Row 50:
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?
+Human Answer: 50%
+Generated Answer: Since 1983, approximately half of the NBA's revenue has been contractually going to players. This is due to the collective bargaining agreement between the league and its players, which requires teams to pay 50% of their basketball-related revenue to the league, with that amount then being distributed equally among all teams.
+Cosine Similarity: 0.15326771140098572
+
+2024-10-23 01:28:17.7263632024-10-23 01:28:17.7423622024-10-23 01:28:17.743347Row 51:
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?
+Human Answer: It's like someone handed you a Macintosh without Mac OS for it. What you said was, well, I'm going to start building Slack or I'm going to start building Chrome or Photoshop. Then somebody proposes to you, whoa, instead of just building Photoshop, build Mac OS.
+Generated Answer: The analogy in the podcast is that Bitcoin is like a calculator, while Ethereum is like a computer. This means that Bitcoin is a simple, limited system for processing transactions, whereas Ethereum is a more complex, powerful system that can process a wide range of tasks and applications. The analogy suggests that just as you would build a new computer to replace an old one, the idea behind Ethereum is to build a "computer" on top of the existing Bitcoin network, rather than simply building a calculator-like system.
+Cosine Similarity: 0.23498721420764923
+
+2024-10-23 02:42:28.1235952024-10-23 02:42:28.1336112024-10-23 02:42:28.134593Row 52:
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?
+Human Answer: Vitalik was born in 1994. His parents were young and very unprepared. Russia at the time was in total shambles. The Soviet Union had collapsed a couple years before, there's hyperinflation like double digits per month inflation. People are losing everything. There's a depression, people are starving.
+Generated Answer: Vitalik Buterin, the co-founder of Ethereum, was born in January 1994. His parents were computer science students at Kolomna, which is right outside of Moscow, Russia. At that time, Russia was experiencing hyperinflation and a depression, with life expectancy declining by over 10 years due to these conditions.
+Cosine Similarity: 0.449486643075943
+
+2024-10-23 02:43:20.0838342024-10-23 02:43:20.0998492024-10-23 02:43:20.100834Row 53:
+Question: What was argument before Vtalik's presentation in Miami?
+Human Answer: Argument between Gavin and Anthony, to include Gavin as co-founder
+Generated Answer: The argument before Vitalik's presentation in Miami was between Gavin, who wanted to be a co-founder and CTO of Ethereum, and Anthony, with whom he had an argument at the house. The exact nature of their disagreement is not specified in the document.
+Cosine Similarity: 0.6088626384735107
+
+2024-10-23 02:44:00.3408582024-10-23 02:44:00.3488732024-10-23 02:44:00.348873Row 54:
+Question: what was the worst stock price percentage down in a day for NVIDIA ?
+Human Answer: 80% in a day for Nvidia
+Generated Answer: The document does not explicitly mention the worst stock price percentage drop in a day for NVIDIA. However, it does mention that NVIDIA's stock went through another 50% drawdown after mid-2008, which is mentioned as "just like every five years this has got to happen." 
+
+It also mentions that in 2018, NVIDIA's stock reached just under $20 billion market cap and then crashed, with the price dropping by 80%.
+Cosine Similarity: 0.5910604596138
+
+2024-10-23 03:30:59.6836142024-10-23 03:30:59.7046332024-10-23 03:30:59.704633Row 55:
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?
+Human Answer: Algorithm Competition, 15% error rate compared to others,  university of Toronto won the competition
+Generated Answer: The competition against ImageNet Database in 2012 was between teams that submitted algorithms to compete with the database. The team from the University of Toronto, led by Alex Krizhevsky, won the competition with an error rate of around 15%. Their approach was based on a convolutional neural network (CNN) called AlexNet, which was specifically designed for image classification tasks and achieved significantly better results than previous approaches.
+Cosine Similarity: 0.5614359974861145
+
+2024-10-23 03:31:46.1815372024-10-23 03:31:46.1905352024-10-23 03:31:46.190535Row 56:
+Question: What is NVIDIA free cash flow in billions  every year? 
+Human Answer: NVIDIA generate $8 billion of free cash flow every year
+Generated Answer: According to the document, NVIDIA generates $8 billion of free cash flow every year.
+Cosine Similarity: 0.9570821523666382
+
+2024-10-23 03:32:01.0235902024-10-23 03:32:01.0375992024-10-23 03:32:01.037599Row 57:
+Question: What is the difference between recurrent neural networks and convolutional neural networks?
+Human Answer: The state of the art had evolved and RNN is sequential and has very short context window.
+Generated Answer: Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) are two types of neural networks used in deep learning.
+
+Convolutional Neural Networks (CNNs) are designed for image and video processing. They use convolutional layers to extract features from input data, such as images or videos. CNNs are particularly effective for tasks like object detection, image classification, and image segmentation.
+
+Recurrent Neural Networks (RNNs), on the other hand, are designed for sequential data, such as text or speech. They use recurrent connections to allow information to flow through the network in a way that's similar to
+Cosine Similarity: 0.4463973641395569
+
+2024-10-23 04:42:47.1144052024-10-23 04:42:47.1274192024-10-23 04:42:47.127750Row 58:
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?
+Human Answer: Jensen said that 2022 was a disappointing year, when Chat GPT was released.
+Generated Answer: In the Stratechery interview in March 2023, Jensen Huang stated that "last year was unquestionably a disappointing year" for Nvidia, referring to 2022. However, he also mentioned that the release of ChatGPT in November 2022 marked a significant turning point and that the company's revenue forecast for Q2 2023 was $11 billion, representing a 53% increase from Q1 2023 and a 65% increase year-over-year.
+Cosine Similarity: 0.6512207984924316
+
+2024-10-23 04:43:54.0209822024-10-23 04:43:54.0404312024-10-23 04:43:54.041446Row 59:
+Question: What is CUDA's most unique feature?
+Human Answer: CUDA has a unified interface which is incredibly flexible and well-supported by a huge community.
+Generated Answer: CUDA (Compute Unified Device Architecture) is a programming model developed by Nvidia that allows developers to write software for their GPUs. Its most unique feature is its ability to leverage parallel processing, which enables massive scalability in computing power. This is achieved through the use of hundreds or thousands of instructions executed simultaneously, thanks to the GPU's architecture. CUDA also has a large community of developers and a flexible programming language that allows users to write code for various applications, including AI and machine learning workloads.
+Cosine Similarity: 0.6986550092697144
+
+2024-10-23 04:44:58.1625472024-10-23 04:44:58.1815962024-10-23 04:44:58.182621Row 60:
+Question: Where did the issuance of the first banknotes originate?
+Human Answer: England
+Generated Answer: The issuance of the first banknotes originated in England, specifically in the late 1600s, when banks started issuing paper banknotes to replace the need for carrying metal currency.
+Cosine Similarity: 0.18967470526695251
+
+2024-10-23 06:04:11.5516942024-10-23 06:04:11.5688172024-10-23 06:04:11.568817Row 61:
+Question: what happen on 2013 in relation to bitcoin 
+Human Answer: Ross Ulbricht was Arrested
+Generated Answer: In 2013, Bitcoin's price started at $13 as it began the year, but by January 1, 2014, it had risen to $770 per bitcoin. This represents a significant increase of over 5,700% in just one year. Additionally, in February 2014, Mt. Gox stopped allowing withdrawals in US dollars, and later that year, they filed for bankruptcy, resulting in the loss of approximately 750,000 client bitcoins.
+Cosine Similarity: 0.08921685069799423
+
+2024-10-23 06:05:20.1302652024-10-23 06:05:20.1452812024-10-23 06:05:20.146265Row 62:
+Question: does bitcoin have a higher appreciation per year as compared to gold?
+Human Answer: yes
+Generated Answer: Bitcoin's price has shown significant annual appreciation, with notable increases in 2017 and 2020. In contrast, gold's price appreciation is generally lower and more stable over time.
+
+According to the text, Bitcoin's price rose from $5.27 per bitcoin in 2012 to $13.30 by the end of that year, then to $770 per bitcoin in January 2014, and eventually reached an all-time high of $19,783.06 per bitcoin in December 2017.
+
+In contrast, gold's price appreciation is not explicitly mentioned in the text, but it is noted that Bitcoin has a higher market
+Cosine Similarity: -0.029906567186117172
+
+2024-10-23 06:06:48.6821902024-10-23 06:06:48.7002042024-10-23 06:06:48.700957Row 63:
+Question: how did Winklevoss brother changed the bitcoin market 
+Human Answer: They Investemented hiked up the bitcoin value and attracted traditional financial markets, increasing its legitimacy and accessibility
+Generated Answer: The Winklevoss twins, Cameron and Tyler, played a significant role in changing the Bitcoin market by investing heavily in it. In 2012, they bought over 100,000 Bitcoins at around $10 per coin, accumulating an investment worth under $1 million. This was a substantial amount of money for the time, and their investment helped to increase demand for Bitcoin.
+
+In May 2017, the twins launched an initial coin offering (ICO) for their own cryptocurrency, Gemini, which raised $200 million in funding. This was one of the largest ICOs at the time, and it helped to further legitimize Bitcoin as
+Cosine Similarity: 0.42519208788871765
+
+2024-10-23 06:08:17.3015732024-10-23 12:13:41.7490442024-10-23 12:13:41.7490442024-10-23 12:13:41.7566562024-10-23 12:13:41.7566562024-10-23 12:13:41.7635162024-10-23 12:13:41.7635162024-10-23 12:13:41.7694012024-10-23 12:13:41.7694012024-10-23 12:13:41.7754262024-10-23 12:13:41.7754262024-10-23 12:13:41.7814102024-10-23 12:13:41.7814102024-10-23 12:13:41.7894102024-10-23 12:13:41.7894102024-10-23 12:13:41.7947472024-10-23 12:13:41.7947472024-10-23 12:13:41.8011712024-10-23 12:13:41.8011712024-10-23 12:13:41.8075192024-10-23 12:13:41.8075192024-10-23 12:13:41.8135242024-10-23 12:13:41.8135242024-10-23 12:13:41.8200412024-10-23 12:13:41.8200412024-10-23 12:13:41.8273292024-10-23 12:13:41.8273292024-10-23 12:13:41.8333292024-10-23 12:13:41.8333292024-10-23 12:13:41.8405322024-10-23 12:13:41.8405322024-10-23 12:13:41.8485032024-10-23 12:13:41.8485032024-10-23 12:13:41.8632602024-10-23 12:13:41.8632602024-10-23 12:13:41.8776002024-10-23 12:13:41.8776002024-10-23 12:13:41.8926002024-10-23 12:13:41.8926002024-10-23 12:13:41.8986162024-10-23 12:13:41.8986162024-10-23 12:13:41.9116162024-10-23 12:13:41.9116162024-10-23 12:13:41.9257102024-10-23 12:13:41.9257102024-10-23 12:13:41.9388172024-10-23 12:13:41.9398522024-10-23 12:13:41.9532282024-10-23 12:13:41.9532282024-10-23 12:13:41.9623102024-10-23 12:13:41.9623102024-10-23 12:13:41.9723182024-10-23 12:13:41.9723182024-10-23 12:13:41.9833172024-10-23 12:13:41.9833172024-10-23 12:13:41.9913322024-10-23 12:13:41.9913322024-10-23 12:13:41.9973172024-10-23 12:13:41.9973172024-10-23 12:13:42.0083332024-10-23 12:13:42.0083332024-10-23 12:13:42.0143062024-10-23 12:13:42.0143062024-10-23 12:13:42.0212602024-10-23 12:13:42.0212602024-10-23 12:13:42.0337522024-10-23 12:13:42.0337522024-10-23 12:13:42.0457752024-10-23 12:13:42.0457752024-10-23 12:13:42.0507642024-10-23 12:13:42.0507642024-10-23 12:13:42.0617182024-10-23 12:13:42.0617182024-10-23 12:13:42.0711052024-10-23 12:13:42.0711052024-10-23 12:13:42.0771332024-10-23 12:13:42.0771332024-10-23 12:13:42.0910622024-10-23 12:13:42.0910622024-10-23 12:13:42.0961382024-10-23 12:13:42.0970102024-10-23 12:13:42.1040872024-10-23 12:13:42.1040872024-10-23 12:13:42.1081012024-10-23 12:13:42.1081012024-10-23 12:13:42.1143442024-10-23 12:13:42.1143442024-10-23 12:13:42.1191602024-10-23 12:13:42.1191602024-10-23 12:13:42.1302352024-10-23 12:13:42.1302352024-10-23 12:13:42.1356572024-10-23 12:13:42.1356572024-10-23 12:13:42.1397852024-10-23 12:13:42.1397852024-10-23 12:13:42.1516842024-10-23 12:13:42.1516842024-10-23 12:13:42.1615452024-10-23 12:13:42.1615452024-10-23 12:13:42.1728342024-10-23 12:13:42.1728342024-10-23 12:13:42.1805702024-10-23 12:13:42.1805702024-10-23 12:13:42.1937252024-10-23 12:13:42.1937252024-10-23 12:13:42.2067442024-10-23 12:13:42.2067442024-10-23 12:13:42.2194882024-10-23 12:13:42.2194882024-10-23 12:13:42.2326382024-10-23 12:13:42.2326382024-10-23 12:13:42.2376322024-10-23 12:13:42.2376322024-10-23 12:13:42.2480162024-10-23 12:13:42.2480162024-10-23 12:13:42.2581652024-10-23 12:13:42.2581652024-10-23 12:13:42.2672822024-10-23 12:13:42.2672822024-10-23 12:13:42.2804382024-10-23 12:13:42.2804382024-10-23 12:13:42.2864982024-10-23 12:13:42.2864982024-10-23 12:13:42.2916212024-10-23 12:13:42.2916212024-10-23 12:13:42.2956182024-10-23 12:13:42.2956182024-10-23 12:13:42.3055872024-10-23 12:13:42.305587Row 64:
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?
+Human Answer: 15 minutes
+Generated Answer: According to the document, in February 1967, Warren Buffett worked out a deal with Jack Ringwalt of National Indemnity to buy the company for Berkshire Hathaway. The deal was hammered out in 15 minutes or less.
+Cosine Similarity: 0.13706031441688538
+
+2024-10-23 13:29:22.6848692024-10-23 13:29:22.6980032024-10-23 13:29:22.699180Row 65:
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?
+Human Answer: $175,000 
+Generated Answer: After working at Graham-Newman for two years, Warren Buffett's net worth was approximately $7 million.
+Cosine Similarity: 0.362517774105072
+
+2024-10-23 13:29:45.7181012024-10-23 13:29:45.7322252024-10-23 13:29:45.732225Row 66:
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?
+Human Answer: On Saturday for 4 hours
+Generated Answer: The document does not specify the exact day of the week when Warren Buffett talked with Lorimer, but it mentions that he "knocked on the door" at GEICO's office on a Saturday morning.
+Cosine Similarity: 0.3714040517807007
+
+2024-10-23 13:30:21.3029802024-10-23 13:30:21.3199812024-10-23 13:30:21.320982Row 67:
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?
+Human Answer: Tencent
+Generated Answer: In addition to Facebook and Google, Tencent also showed interest in acquiring WhatsApp. According to the document, Pony Ma, the CEO of Tencent, was scheduled to finalize a deal with Jan Koum and Brian Acton before Larry Page from Google intervened, leading to a meeting between Mark Zuckerberg and Jan Koum.
+Cosine Similarity: 0.4902137517929077
+
+2024-10-23 13:59:33.4049392024-10-23 13:59:33.4129392024-10-23 13:59:33.413940Row 68:
+Question: During high school year, which online security community Jan Koum was part of? 
+Human Answer: w00w00
+Generated Answer: Jan Koum was part of the online security community "w00w00" during his high school years.
+Cosine Similarity: 0.2994171679019928
+
+2024-10-23 13:59:47.3045872024-10-23 13:59:47.3175862024-10-23 13:59:47.317586Row 69:
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?
+Human Answer: Changing the app's name was a growth hack to attract new users on a weekly basis, thereby ensuring the app would display as a new app. 
+Generated Answer: Jan Koum, co-founder of WhatsApp, used several business strategies to increase the popularity of the WhatsApp product:
+
+1. **Growth hack**: He changed the app's name slightly every week to get featured in Apple's "What's new?" section, attracting new users.
+2. **Address book innovation**: He incorporated a feature that allowed users to use their phone numbers instead of usernames, making it easier for friends to find and add each other.
+3. **Push notifications**: WhatsApp was one of the first apps to take advantage of Apple's push notification feature, allowing users to receive notifications even when the app was closed.
+4. **
+Cosine Similarity: 0.31808340549468994
+
+2024-10-23 14:00:36.1838892024-10-23 14:00:36.1992092024-10-23 14:00:36.199209Row 70:
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?
+Human Answer: BAMTech
+Generated Answer: Disney invested in BAMTech, a technology provider that delivers streaming content, and eventually purchased it for $75% ownership. BAMTech was used to power Disney's streaming services, including ESPN Plus, which was launched alongside Disney+.
+Cosine Similarity: 0.575369119644165
+
+2024-10-23 14:40:22.1105302024-10-23 14:40:22.1205822024-10-23 14:40:22.120582Row 71:
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?
+Human Answer: 43% No Confidence
+Generated Answer: The result of the shareholder no-confidence bid against Michael Eisner, not Bob Eisner, after the failed Disney takeover bid by Comcast was that 43% of Disney shareholders voted to remove Eisner as CEO at the shareholder meeting. As a result, Eisner stepped down and announced his intention to leave the company at the end of his contract in 2006, although he ultimately left earlier.
+Cosine Similarity: 0.15847469866275787
+
+2024-10-23 14:41:02.5434282024-10-23 14:41:02.5615302024-10-23 14:41:02.562425Row 72:
+Question: What position did Bob Eisner have and in what company when Disney acquired it?
+Human Answer: COO at Capital Cities
+Generated Answer: Bob Iger was the COO of Capital Cities, which included ABC and ESPN, when Disney acquired it in 1995.
+Cosine Similarity: 0.3652804493904114
+
+2024-10-23 14:41:20.4420392024-10-23 14:41:20.4500552024-10-23 14:41:20.450055Row 73:
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?
+Human Answer: "I'm fucking smart."
+Generated Answer: Jeffrey Skilling replied to the dean's question, "Are you smart?" with "I'm effing smart."
+Cosine Similarity: 0.6171600818634033
+
+2024-10-23 16:30:20.5852802024-10-23 16:30:20.5942792024-10-23 16:30:20.594279Row 74:
+Question: What was the singular condition that Jeffrey Skilling requested before joining Enron?
+Human Answer: Market-to-market accounting
+Generated Answer: Jeffrey Skilling requested that mark-to-market accounting be used by Enron, which became a key factor in the company's financial dealings.
+Cosine Similarity: 0.4749351739883423
+
+2024-10-23 16:30:52.1831422024-10-23 16:30:52.1891572024-10-23 16:30:52.190141Row 75:
+Question: What historic event took investigative pressure off of Enron before its stock collapsed?
+Human Answer: September 11th
+Generated Answer: The September 11th terrorist attacks in 2001 took investigative pressure off of Enron, allowing it to continue operating without scrutiny. The events of 9/11 distracted the media and public attention away from Enron's financial issues, giving the company a temporary reprieve before its stock eventually collapsed.
+Cosine Similarity: 0.4410247206687927
+
+2024-10-23 16:31:48.4578022024-10-23 16:31:48.4718122024-10-23 16:31:48.472808Row 76:
+Question: How did Enron remove investments from its accounting books?
+Human Answer: Special purpose entities
+Generated Answer: Enron removed investments from its accounting books by using special-purpose entities, which were set up to hold these investments. According to the document, as long as at least 3% of the capital in these entities came from outside investors, Enron could own 97% of the economics of that entity and remove it from its consolidated accounting books. This allowed Enron to offload significant amounts of debt and losses onto special-purpose entities, which were not required to be consolidated with Enron's financial statements.
+Cosine Similarity: 0.285806268453598
+
+2024-10-23 16:33:12.9006452024-10-23 16:33:12.9158182024-10-23 16:33:12.916811Row 77:
+Question: The fall of Enron is similar to what other bankruptcy from 2022?
+Human Answer: FTX
+Generated Answer: The fall of Enron in 2001 is not directly comparable to a specific bankruptcy from 2022, as the question seems to imply. However, it can be noted that Enron's bankruptcy was one of the largest at the time, with assets totaling $63 billion and claims from over 30,000 creditors.
+
+That being said, if we look at more recent bankruptcies, Lehman Brothers' bankruptcy in 2008 is a notable example of a large-scale financial failure. However, it's not directly comparable to Enron's case due to differences in the nature of their business models and the regulatory environment at the time.
+
+
+Cosine Similarity: 0.049149271100759506
+
+2024-10-23 16:34:56.5436702024-10-23 16:34:56.5576862024-10-23 16:34:56.557686Row 78:
+Question: What metrics did FTX judge itself by?
+Human Answer: Become the biggest crypto exchange, did we succeed in getting retail users, did we expand beyond crypto.
+Generated Answer: FTX judged itself by several metrics:
+
+1. Becoming the biggest crypto exchange
+2. Penetrating the retail user market in that segment
+3. Expanding beyond crypto to other areas, such as derivatives and Web3 gaming
+4. Maintaining good relationships with regulators
+5. Not failing or significantly underperforming (a "C" grade)
+
+These metrics were mentioned by Sam Bankman-Fried during the episode.
+Cosine Similarity: 0.48829567432403564
+
+2024-10-23 17:00:15.2023922024-10-23 17:00:15.2114242024-10-23 17:00:15.212394Row 79:
+Question: When was Trip Hawkins exposed to Computers?
+Human Answer: Sophomore year of high school
+Generated Answer: Trip Hawkins was exposed to computers in his sophomore year of high school, around 1975.
+Cosine Similarity: 0.45544877648353577
+
+2024-10-23 17:40:08.3613472024-10-23 17:40:08.3784572024-10-23 17:40:08.378457Row 80:
+Question: What was Trip Hawkins favtorite game growing up?
+Human Answer: Strat-O-Matic
+Generated Answer: Trip Hawkins' favorite games growing up were Dungeons & Dragons (DND) and Strat-O-Matic, a baseball simulation game. He also enjoyed watching football and baseball on television, which sparked his interest in strategy and competition.
+Cosine Similarity: 0.24749939143657684
+
+2024-10-23 17:40:33.1723742024-10-23 19:16:14.496575Row 1:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: Airbnb went public on December 10, 2020, through a direct listing on the NASDAQ stock exchange under the ticker symbol ABNB. The initial public offering (IPO) price was $182 per share.
+Cosine Similarity: 0.3608073592185974
+

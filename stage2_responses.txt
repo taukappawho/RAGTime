@@ -691,4 +691,34 @@ Generated Answer: Trip Hawkins' favorite games growing up were sports simulation
 Cosine Similarity: -0.01139366626739502
 Has the question has been answered correctly: No
 
-2024-10-19 13:02:19.400394
+2024-10-19 13:02:19.4003942024-10-27 17:22:53.129661
+Row 1:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: Airbnb went public on December 9, 2020. The IPO price per share was $68, with an initial valuation of $47 billion and a raised amount of $3.5 billion.
+Cosine Similarity: 0.3951666057109833
+
+2024-10-27 17:24:57.900748
+Row 2:
+Question: Why did Wimdu unlike Airbnb not take off?
+Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
+Generated Answer: Based on the provided chunks of information, it appears that Wimdu, like DoorDash, was able to aggregate consumer attention and scale their business. However, there is no explicit mention of why Wimdu did not take off like Airbnb.
+
+However, considering the context of the conversation about DoorDash's growth and its impact on the market, it can be inferred that Wimdu may have faced similar challenges in scaling and competing with established players in the market.
+Cosine Similarity: 0.7194815874099731
+
+2024-10-27 17:25:23.065751
+Row 3:
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb
+Human Answer: Even though both the airline industry and airbnb have a global geographical presence the airline operators working on a global scale have different requirements so do local and regional operators leading to different required infrastructure hence market fragmentation becomes important
+Generated Answer: Market fragmentation works for the airline industry because it's primarily focused on local markets, where each player can compete individually. In contrast, Airbnb is a global network with a single platform serving travelers worldwide, making it difficult to fragment the market in the same way as airlines. The global nature of travel and the need for a unified platform make fragmentation less viable for Airbnb.
+Cosine Similarity: 0.8376926183700562
+
+2024-10-27 17:25:44.138461
+Row 4:
+Question: How many hot dogs does Costco currently sell per year?
+Human Answer: 130 million
+Generated Answer: According to Chunk 3, Costco sells 130 million hotdogs per year.
+Cosine Similarity: 0.4097632169723511
+
+2024-10-27 17:26:17.767512

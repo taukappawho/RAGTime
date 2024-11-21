@@ -175,30 +175,30 @@ Please provide a concise and accurate answer based on the information from all t
         
         # Calculate cosine similarity between generated answer and human answer
         similarity_score = calculate_cosine_similarity(generated_answer, human_answer, model)
-        judge_prompt = f"""
-Question: {question}
-Answer: {generated_answer}
+#         judge_prompt = f"""
+# Question: {question}
+# Answer: {generated_answer}
 
-Has the question been answered correctly? Respond with "Yes" or "No".
-"""
+# Has the question been answered correctly? Respond with "Yes" or "No".
+# """
         # Print results
         print(f"Row {index + 1}:")
         print(f"Question: {question}")
         print(f"Human Answer: {human_answer}")
         print(f"Generated Answer: {generated_answer}")
-        print(f"Cosine Similarity: {similarity_score}")
-        judge = query_ollama(judge_prompt)
-        print(f"Has the question has been answered correctly: {judge}\n") 
+        print(f"Cosine Similarity: {similarity_score}\n")
+        # judge = query_ollama(judge_prompt)
+        # print(f"Has the question has been answered correctly: {judge}\n") 
             
         file.write(f"Row {index + 1}:\n")
         file.write(f"Question: {question}\n")
         file.write(f"Human Answer: {human_answer}\n")
         file.write(f"Generated Answer: {generated_answer}\n")
-        file.write(f"Cosine Similarity: {similarity_score}\n")
-        file.write(f"Has the question has been answered correctly: {judge}\n\n")
+        file.write(f"Cosine Similarity: {similarity_score}\n\n")
+        # file.write(f"Has the question has been answered correctly: {judge}\n\n")
         
 if __name__ == "__main__":
-    with open("stage2_responses.txt","+a", encoding="utf-8") as file:
+    with open("stage2_responses.txt","a+", encoding="utf-8") as file:
         csv_file = '.\\archive\\stage_0_qa.csv' 
         main(csv_file,file)
         file.write(str(datetime.now()))

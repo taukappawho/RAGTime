@@ -1,0 +1,928 @@
+93, 294, 295, 297, 298, 299, 300, 301, 302, 303, 305, 306, 312, 313]
+semantic nodes: [159, 125, 204, 144, 171]
+nodes prior to bespoke: [1, 2, 3, 5, 6, 7, 17, 18, 22, 23, 24, 31, 34, 35, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 71, 72, 78, 80, 84, 85, 86, 87, 91, 99, 104, 106, 108, 117, 118, 119, 122, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 147, 148, 151, 152, 153, 154, 155, 158, 159, 160, 161, 162, 164, 165, 166, 167, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 183, 184, 185, 186, 187, 188, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 206, 207, 211, 215, 216, 217, 218, 219, 227, 228, 229, 230, 231, 234, 235, 236, 238, 239, 240, 241, 242, 243, 246, 249, 250, 253, 254, 255, 256, 257, 258, 259, 262, 263, 264, 266, 267, 273, 274, 277, 278, 279, 281, 282, 284, 285, 286, 287, 288, 292, 293, 294, 295, 297, 298, 299, 300, 301, 302, 303, 305, 306, 312, 313]
+188, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 206, 207, 211, 215, 216, 217, 218, 219, 227, 228, 229, 230, 231, 234, 235, 236, 238, 239, 240, 241, 242, 243, 246, 249, 250, 253, 254, 255, 256, 257, 258, 259, 262, 263, 264, 266, 267, 273, 274, 277, 278, 279, 281, 282, 284, 285, 286, 287, 288, 292, 293, 294, 295, 297, 298, 299, 300, 301, 302, 303, 305, 306, 312, 313]
+node[78] accepted
+nodes after bespoke: [78]
+#chunks: 316
+Row 17:
+Question: When was the summit that eventually lead to the creation of Visa?
+Human Answer: Summit was held in October 1968 between Bank of America and its licensees.
+Generated Answer: The summit occurred in October 1968.
+Cosine Similarity: 0.7559993267059326
+
+2024-11-29 19:28:55.383898
+Question: What is Visa's net income margin and is there a company with a better margin?, nq: ['visas', 'net', 'income', 'margin', 'company', 'better', 'margin']
+q=[[2, 110, 147, 194, 195, 204, 205, 207, 208, 211, 212, 216, 217, 230, 249, 273, 274, 282, 283, 288, 291, 295, 296, 297, 302, 303], [168, 169, 222, 223, 229, 230, 231, 232, 233, 251, 252], [230, 231, 232, 233, 251, 252], [185, 231, 232, 246, 249, 250, 257, 267, 274, 275, 276, 277, 281, 295], [2, 3, 4, 7, 8, 28, 36, 39, 47, 48, 54, 55, 56, 57, 86, 87, 89, 90, 99, 107, 109, 126, 127, 138, 143, 144, 145, 185, 186, 190, 191, 199, 200, 202, 203, 204, 232, 234, 251, 259, 262, 272, 273, 280, 297, 298, 309, 310], [26, 27, 39, 49, 85, 86, 87, 89, 116, 117, 118, 123, 124, 127, 138, 216, 217, 219, 225, 260, 262, 263, 268, 281, 296, 303], [185, 231, 232, 246, 249, 250, 257, 267, 274, 275, 276, 277, 281, 295]]
+semantic nodes: [230, 259, 250, 231, 211]
+nodes prior to bespoke: [257, 2, 259, 262, 138, 267, 273, 274, 275, 276, 277, 281, 39, 295, 296, 297, 303, 185, 204, 211, 86, 87, 216, 217, 89, 230, 231, 232, 233, 246, 249, 250, 251, 252, 127]
+nodes after bespoke: [230, 259, 250, 231, 211, 232, 231, 185, 230]
+#chunks: 316
+Row 18:
+Question: What is Visa's net income margin and is there a company with a better margin?
+Human Answer: Visa's net income margin is 50%. No, there is not a known company with a better margin
+Generated Answer: Visa's net income margin is 50%, which means that for every dollar of revenue, they earn $0.50 as net income. According to the information provided, no other large-scale company has a higher net income margin than Visa, including MasterCard (43%), Microsoft (34%), and Apple (25%).
+Cosine Similarity: 0.8471258282661438
+
+
+2024-11-29 19:41:53.078303
+Question: Visa is the global sponsor of what?, nq: ['visa', 'global', 'sponsor']
+q=[[1, 2, 3, 5, 6, 7, 22, 23, 24, 34, 35, 54, 55, 57, 58, 62, 63, 64, 71, 72, 80, 84, 86, 87, 99, 106, 108, 117, 118, 119, 122, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 147, 148, 151, 152, 153, 154, 155, 158, 159, 160, 161, 162, 164, 165, 166, 167, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 183, 184, 185, 186, 187, 188, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 2
+
+2024-11-29 19:41:53.078303
+Question: Visa is the global sponsor of what?, nq: ['visa', 'global', 'sponsor']
+q=[[1, 2, 3, 5, 6, 7, 22, 23, 24, 34, 35, 54, 55, 57, 58, 62, 63, 64, 71, 72, 80, 84, 86, 87, 99, 106, 108, 117, 118, 119, 122, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 147, 148, 151, 152, 153, 154, 155, 158, 159, 160, 161, 162, 164, 165, 166, 167, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 183, 184, 185, 186, 187, 188, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 206, 207, 211, 215, 216, 217, 218, 219, 227, 229, 230, 231, 234, 235, 236, 238, 239, 240, 241, 242, 243, 246, 249, 250, 253, 254, 255, 256, 257, 258, 259, 262, 263, 264, 266, 267, 273, 274, 277, 278, 281, 282, 284, 285, 286, 287, 288, 292, 293, 294, 295, 297, 298, 299, 300, 302, 303, 305, 306, 312, 313], [48, 49, 94, 100, 117, 118, 119, 120, 122, 123, 124, 126, 129, 130, 133, 137, 147, 148, 188, 189, 190, 191, 192, 196, 197, 198, 199, 231, 259, 269, 281, 282, 302], [189, 196, 198]]
+semantic nodes: [198, 129, 196, 3, 144]
+nodes prior to bespoke: [1, 2, 3, 5, 6, 7, 22, 23, 24, 34, 35, 48, 49, 54, 55, 57, 58, 62, 63, 64, 71, 72, 80, 84, 86, 87, 94, 99, 100, 106, 108, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 147, 148, 151, 152, 153, 154, 155, 158, 159, 160, 161, 162, 164, 165, 166, 167, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 206, 207, 211, 215, 216, 217, 218, 219, 227, 229, 230, 231, 234, 235, 236, 238, 239, 240, 241, 242, 243, 246, 249, 250, 253, 254, 255, 256, 257, 258, 259, 262, 263, 264, 266, 267, 269, 273, 274, 277, 278, 281, 282, 284, 285, 286, 287, 288, 292, 293, 294, 295, 297, 298, 299, 300, 302, 303, 305, 306, 312, 313]
+node[188] accepted
+node[196] accepted
+node[197] accepted
+node[198] accepted
+nodes after bespoke: [188, 196, 197, 198]
+#chunks: 316
+Row 19:
+Question: Visa is the global sponsor of what?
+Human Answer: Visa is the global sponsor of The Olympics
+Generated Answer: Visa is the global sponsor of the Olympics.
+Cosine Similarity: 0.9933452606201172
+
+2024-11-29 20:32:00.623633
+reading nintendos_origins
+Chunk total: 306
+word count exceeded: 9
+len(BOW) = 3632
+Question: In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?, nq: ['1976', 'steve', 'jobs', 'along', 'steve', 'wozniak', 'created', 'game', 'breakout', 'atari', 'nolan', 'bushnell', 'three', 'industries', 'born', 'concurrent', 'creation', 'game']
+q=[[33, 34, 89, 90], [26, 27, 203], [8, 26, 27, 203], [21, 22, 77, 78, 90, 228, 229, 263, 277, 289, 290], [26, 27, 203], [26, 27], [10, 11, 19, 20, 21, 158, 159, 163, 226, 263], [1, 5, 6, 10, 11, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 35, 36, 37, 40, 41, 42, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 59, 66, 84, 87, 88, 89, 92, 95, 96, 97, 98, 99, 100, 111, 112, 113, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 132, 133, 136, 137, 140, 141, 142, 143, 144, 146, 147, 154, 156, 157, 158, 159, 160, 161, 162, 163, 169, 170, 171, 172, 174, 175, 178, 184, 189, 190, 191, 195, 196, 199, 200, 201, 205, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 226, 239, 240, 241, 242, 244, 245, 249, 253, 254, 257, 258, 259, 260, 261, 262, 263, 264, 270, 275, 276, 277, 278, 284, 300, 301], [26, 27, 30], [7, 14, 23, 25, 26, 27, 28, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 46, 47, 95, 96, 97, 165, 166, 167, 168, 170, 171, 181, 182, 183, 184, 185, 186, 195, 196, 242, 251], [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 22, 23, 25, 26, 31, 60, 67, 181, 182], [7, 181, 182], [26, 27, 34, 35, 48, 54, 55, 69, 86, 98, 99, 116, 117, 176, 215, 230, 247, 289, 290, 297], [12, 13, 26, 27, 105, 106, 161, 295, 296], [26, 27, 60, 70, 71], [1, 5, 6, 10, 11, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 35, 36, 37, 40, 41, 42, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 59, 66, 84, 87, 88, 89, 92, 95, 96, 97, 98, 99, 100, 111, 112, 113, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 132, 133, 136, 137, 140, 141, 142, 143, 144, 146, 147, 154, 156, 157, 158, 159, 160, 161, 162, 163, 169, 170, 171, 172, 174, 175, 178, 184, 189, 190, 191, 195, 196, 199, 200, 201, 205, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 226, 239, 240, 241, 242, 244, 245, 249, 253, 254, 257, 258, 259, 260, 261, 262, 263, 264, 270, 275, 276, 277, 278, 284, 300, 301]]
+semantic nodes: [27, 26, 45, 13, 43]
+nodes prior to bespoke: [263, 7, 10, 11, 13, 14, 19, 21, 22, 23, 25, 26, 27, 30, 31, 35, 43, 45, 181, 182, 203]
+nodes after bespoke: [27, 26, 45, 13, 43, 26, 27, 10, 11]
+#chunks: 306
+Row 20:
+Question: In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?
+Human Answer: The home video game console business, the arcade video game business and the personal home computer business were born at that time.
+Generated Answer: The three industries that were born concurrent with the creation of Breakout in 1976 are:
+
+1. Home video game console business
+2. Arcade video game business
+3. Personal home computer business (which Steve and Wozniak started with Apple)
+Cosine Similarity: 0.6139657497406006
+
+2024-11-29 20:42:19.363614
+Question: What does Nintendo mean?, nq: ['nintendo', 'mean']
+q=[[1, 2, 5, 6, 7, 53, 54, 59, 60, 61, 64, 66, 67, 68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 107, 108, 109, 111, 112, 113, 117, 118, 119, 123, 124, 128, 133, 138, 139, 142, 143, 145, 146, 147, 148, 149, 150, 151, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 171, 172, 173, 174, 175, 176, 177, 179, 181, 182, 183, 184, 185, 186, 187, 188, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 211, 213, 214, 215, 216, 217, 218, 220, 222, 223, 224, 225, 226, 227, 228, 229, 244, 245, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259, 261, 263, 264, 265, 266, 267, 268, 271, 273, 274, 275, 276, 277, 278, 279, 282, 283, 284, 285, 286, 287, 288, 289, 290, 300, 304, 305], [40, 205, 275, 294]]
+semantic nodes: [205, 249, 59, 220, 163]
+nodes prior to bespoke: [1, 2, 5, 6, 7, 40, 53, 54, 59, 60, 61, 64, 66, 67, 68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 107, 108, 109, 111, 112, 113, 117, 118, 119, 123, 124, 128, 133, 138, 139, 142, 143, 145, 146, 147, 148, 149, 150, 151, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 171, 172, 173, 174, 175, 176, 177, 179, 181, 182, 183, 184, 185, 186, 187, 188, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 211, 213, 214, 215, 216, 217, 218, 220, 222, 223, 224, 225, 226, 227, 228, 229, 244, 245, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259, 261, 263, 264, 265, 266, 267, 268, 271, 273, 274, 275, 276, 277, 278, 279, 282, 283, 284, 285, 286, 287, 288, 289, 290, 294, 300, 304, 305]
+node[61] accepted
+node[278] accepted
+nodes after bespoke: [61, 278]
+#chunks: 306
+Row 21:
+Question: What does Nintendo mean?
+Human Answer: It means either "Leave luck to heaven" or "The temple of free hanafuda." "Leave luck to heaven" is the more common answer.
+Generated Answer: Nintendo's name has a multiple entendre. The kanji characters "Nin", "Ten", and "Do" can be interpreted as "leave luck to heaven," referencing luck in playing cards, which also plays on the fact that they're a gambling company. Additionally, the character "Ten" was a coded reference for gambling and casinos, which were illegal at the time Fusajiro Yamauchi founded Nintendo.
+Cosine Similarity: 0.40791162848472595
+
+2024-11-29 21:32:36.312412
+Question: What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. , nq: ['key', 'strength', 'hiroshi', 'yamauchi', 'something', 'good']
+q=[[187, 232, 233, 277, 278, 295, 301], [69, 70, 71, 72, 73, 74, 77, 79, 80, 102, 103, 109], [59, 60, 64, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 80, 82, 83, 84, 85, 95, 96, 98, 99, 101, 102, 103, 104, 109, 110, 111, 114, 115, 116, 118, 120, 127, 128, 147, 148, 158, 159, 160, 161, 163, 164, 168, 178, 179, 180, 181, 182, 183, 184, 191, 194, 195, 196, 214, 215, 246], [9, 17, 23, 24, 25, 32, 36, 37, 50, 51, 54, 56, 57, 78, 96, 97, 98, 99, 114, 117, 118, 119, 120, 121, 126, 127, 163, 165, 169, 170, 171, 223, 224, 240, 241, 246, 255, 256, 257, 259, 260, 266, 280, 281, 282, 286], [5, 6, 14, 24, 25, 43, 44, 51, 55, 58, 79, 80, 85, 98, 99, 101, 102, 113, 142, 147, 160, 161, 162, 197, 200, 202, 230, 231, 232, 253, 254, 255, 275, 276, 284, 286, 292, 293]]
+semantic nodes: [74, 70, 73, 159, 82]
+nodes prior to bespoke: [5, 6, 9, 14, 17, 23, 24, 25, 32, 36, 37, 43, 44, 50, 51, 54, 55, 56, 57, 58, 59, 60, 64, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 82, 83, 84, 85, 95, 96, 97, 98, 99, 101, 102, 103, 104, 109, 110, 111, 113, 114, 115, 116, 117, 118, 119, 120, 121, 126, 127, 128, 142, 147, 148, 158, 159, 160, 161, 162, 163, 164, 165, 168, 169, 170, 171, 178, 179, 180, 181, 182, 183, 184, 187, 191, 194, 195, 196, 197, 200, 202, 214, 215, 223, 224, 230, 231, 232, 233, 240, 241, 246, 253, 254, 255, 256, 257, 259, 260, 266, 275, 276, 277, 278, 280, 281, 282, 284, 286, 292, 293, 295, 301]
+node[72] accepted
+node[73] accepted
+node[80] accepted
+node[161] accepted
+nodes after bespoke: [72, 73, 80, 161]
+#chunks: 306
+Row 22:
+Question: What was a key strength of Hiroshi Yamauchi? This is something that he was just good at.
+Human Answer: Hiroshi Yamauchi was very good at spotting games that consumers would love to play.
+Generated Answer: Hiroshi Yamauchi's key strength was his ability to identify and develop games that consumers loved, often without playing them himself. He had an "unbelievable eye" for what would be successful, which led Nintendo to create many iconic games.
+Cosine Similarity: 0.7424802780151367
+
+2024-11-29 22:12:30.204257
+reading renaissance_technologies
+Chunk total: 269
+word count exceeded: 14
+len(BOW) = 3633
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?, nq: ['3', 'interrelated', 'things', 'make', 'renaissance', 'technologies', 'unique', 'investment', 'firms', 'similar', 'commodities', 'smartest', 'people', 'best', 'data', 'infrastructure', 'citadel', 'de', 'saw', 'two', 'sigma', 'jane', 'street']
+q=[[0, 1, 92, 99, 100, 120, 128, 130, 152, 186], [111, 159], [12, 30, 31, 41, 42, 43, 44, 83, 84, 92, 98, 99, 107, 108, 111, 112, 113, 135, 136, 137, 142, 144, 158, 159, 172, 173, 200, 208, 214, 217, 218, 219, 222, 229, 230, 242, 243, 244, 262, 263, 266], [0, 20, 24, 25, 31, 39, 40, 45, 55, 56, 57, 58, 59, 60, 61, 72, 83, 84, 85, 86, 97, 101, 104, 105, 116, 126, 131, 132, 137, 147, 148, 149, 150, 151, 158, 159, 168, 174, 175, 179, 180, 199, 200, 214, 215, 216, 217, 218, 221, 222, 223, 224, 231, 235, 236, 239, 247, 248], [0, 2, 3, 4, 34, 63, 70, 71, 76, 78, 98, 107, 132, 133, 136, 139, 141, 143, 156, 157, 162, 165, 166, 167, 180, 184, 185, 214, 226, 227, 231, 232, 247], [2, 30, 36, 64, 65, 156, 167, 226, 227], [114, 159, 168, 205, 241, 247], [2, 7, 47, 68, 114, 115, 126, 153, 160, 170, 179, 180, 210, 217, 226, 227, 228, 229, 230, 233, 246, 262, 263], [92, 124, 130, 139, 160, 163, 164, 176, 177, 191, 192, 196, 202, 203, 205, 206, 217, 218, 220, 231, 237, 246, 266, 267], [35, 124, 139, 203, 204], [22, 57, 58, 64, 78, 103, 104, 112, 113, 158, 159, 247], [18, 29, 97, 99, 100, 113, 114, 158, 159, 192, 221, 241], [4, 5, 11, 12, 15, 16, 17, 18, 19, 20, 21, 28, 29, 32, 33, 46, 54, 62, 87, 88, 95, 98, 99, 100, 102, 106, 108, 110, 111, 113, 114, 115, 121, 122, 126, 139, 140, 141, 147, 155, 156, 158, 159, 161, 162, 163, 164, 166, 168, 169, 170, 173, 177, 191, 192, 193, 194, 198, 199, 200, 204, 205, 206, 207, 208, 209, 210, 212, 213, 215, 216, 217, 218, 219, 220, 221, 223, 231, 232, 235, 236, 241, 242, 243, 244, 246, 249, 252, 253, 258, 259, 261, 265], [2, 15, 16, 17, 51, 71, 106, 126, 130, 153, 157, 158, 159, 173, 174, 195, 235, 246], [32, 33, 34, 35, 36, 37, 38, 39, 40, 45, 61, 71, 72, 73, 74, 78, 79, 83, 84, 104, 105, 108, 109, 110, 113, 151, 152, 158, 159, 188, 189, 190, 194, 195, 196, 198, 199, 200, 201, 209, 214, 217, 220, 221, 222, 266], [38, 39, 58, 59, 71, 78, 93, 113, 114, 158, 159, 160, 187, 188], [114, 115, 158, 159, 163, 167, 168, 206], [12, 13, 23, 24, 41, 59, 60, 65, 69, 80, 83, 84, 92, 93, 99, 108, 126, 127, 131, 132, 142, 143, 149, 150, 158, 159, 162, 163, 165, 196, 198, 202, 203, 207, 214, 217, 218, 220, 221, 222, 223, 253, 257], [158, 163, 165, 192], [158, 163, 166, 167, 174, 221], [14, 18, 19, 48, 56, 158, 163, 166, 167, 174, 209, 221, 259]]
+semantic nodes: [4, 136, 2, 247, 185]
+nodes prior to bespoke: [2, 99, 4, 163, 217, 167, 136, 111, 113, 114, 214, 247, 185, 218, 158, 221, 126, 159]
+nodes after bespoke: [4, 136, 2, 247, 185, 158, 159, 163, 217]
+#chunks: 269
+Row 23:
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?
+Human Answer: The 3 interrelated things that make Renaissance Technologies unique are 1. one model that everyone collaborates on together, 2. a super small team where everyone knows each other and the financial impact anyone makes to the that one model is great to everyone 3. the LPGP model with very high carry performance fees that creates the right set of incentives for both new and old talent.
+Generated Answer: The three interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities are:        
+
+1. They get the smartest people in the world to collaborate and not compete.
+2. They have a unique organizational structure where teams work together on deals rather than competing against each other.
+3. This collaborative approach allows them to leverage their collective expertise and resources more effectively, creating an edge that sets them apart from other firms.
+Cosine Similarity: 0.8791136741638184
+
+2024-11-29 22:21:55.389352
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?, nq: ['series', 'philosophical', 'arguments', 'presented', 'ancient', 'greek', 'philosopher', 'jim', 'simons', 'founder', 'renaissance', 'technologies', 'learn', '4yearold', 'sparks', 'interest', 'math']
+q=[[236], [12, 13], [12, 13], [2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 17, 18, 20, 21, 22, 24, 25, 26, 30, 32, 33, 34, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 62, 64, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 94, 95, 96, 97, 99, 100, 105, 106, 108, 109, 122, 123, 124, 125, 137, 138, 150, 155, 156, 169, 174, 183, 184, 185, 209, 229, 233, 234, 243, 245, 262, 263, 265], [2, 3, 4, 5, 7, 8, 52, 57, 67, 76, 94, 96, 99, 101, 104, 112, 155, 183, 184, 185, 229, 233, 234, 243, 245, 262, 263], [2, 3, 79, 80], [0, 2, 3, 4, 34, 63, 70, 71, 76, 78, 98, 107, 132, 133, 136, 139, 141, 143, 156, 157, 162, 165, 166, 167, 180, 184, 185, 214, 226, 227, 231, 232, 247], [2, 30, 36, 64, 65, 156, 167, 226, 227], [23, 39, 82, 83, 84, 114, 262, 267], [13, 14], [12, 13, 131, 133, 183, 184], [4, 5, 12, 13, 14, 25, 26, 48, 49, 50, 51, 53, 54, 57, 60, 61, 96, 97, 108, 118, 119, 171, 172, 205, 206, 214]]
+semantic nodes: [57, 52, 8, 21, 54]
+nodes prior to bespoke: [2, 3, 4, 5, 262, 8, 12, 13, 14, 21, 156, 52, 54, 183, 184, 185, 57, 76, 96, 236]
+nodes after bespoke: [57, 52, 8, 21, 54, 13, 2, 12, 3]
+#chunks: 269
+Row 24:
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?
+Human Answer: Zeno's paradoxes
+Generated Answer: Jim Simons learns about Zeno's paradoxes from ancient Greek times as a 4-year-old.
+Cosine Similarity: 0.4755833148956299
+
+2024-11-29 22:31:10.700152
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?, nq: ['year', '2000', 'tech', 'bubble', 'bursts', 'market', 'big', 'medallion', 'funds', 'gross', 'returns']
+q=[[14, 15, 24, 25, 26, 27, 43, 90, 93, 94, 95, 96, 99, 100, 118, 119, 120, 121, 122, 124, 125, 126, 128, 131, 132, 139, 145, 170, 172, 173, 174, 176, 178, 179, 182, 185, 186, 187, 188, 189, 198, 214, 215, 250], [119, 120, 125, 126, 129, 131], [63, 64, 120, 121, 122, 124, 146, 180, 181, 242, 247, 248], [120, 121, 122, 124, 146], [1, 8, 11, 27, 30, 39, 40, 44, 66, 74, 75, 78, 79, 80, 83, 87, 88, 89, 90, 91, 93, 94, 107, 108, 109, 110, 112, 113, 118, 120, 121, 122, 124, 126, 127, 130, 132, 133, 135, 136, 139, 145, 146, 177, 195, 200, 201, 202, 203, 211, 212, 213, 217, 218, 219, 222, 223, 231, 232, 233, 234, 262, 263, 264, 265], [1, 2, 14, 15, 79, 88, 90, 103, 120, 121, 135, 136, 139, 161, 162, 163, 164, 180, 191, 202, 214, 215, 216, 218, 219, 236], [3, 77, 78, 79, 82, 83, 90, 96, 97, 99, 101, 102, 103, 104, 118, 119, 120, 121, 122, 135, 136, 137, 140, 141, 142, 144, 145, 146, 147, 148, 149, 151, 152, 153, 162, 163, 164, 170, 171, 172, 178, 179, 180, 184, 185, 186, 187, 188, 189, 190, 204, 208, 209, 221, 222, 232, 233, 242, 243], [1, 142, 143, 144, 145, 147, 148, 160, 162, 163, 164, 202, 204, 220, 231, 232, 233, 241, 242, 243, 246, 265], [90, 91, 99, 100, 101, 102, 120, 121, 146, 147, 151, 152, 186], [1, 2, 3, 74, 75, 99, 100, 101, 102, 118, 120, 126, 127, 129, 133, 140, 150, 151, 152, 153, 167, 168, 170, 172, 176, 177, 180, 181, 184, 185, 190, 191, 202, 246, 248, 262, 263]] 
+semantic nodes: [102, 146, 120, 121, 147]
+nodes prior to bespoke: [1, 2, 3, 14, 15, 27, 74, 75, 78, 79, 83, 88, 90, 91, 93, 94, 96, 99, 100, 101, 102, 103, 118, 119, 120, 121, 122, 124, 125, 126, 127, 129, 131, 132, 133, 135, 136, 139, 140, 142, 144, 145, 146, 147, 148, 151, 152, 153, 162, 163, 164, 170, 172, 176, 177, 178, 179, 180#c#chunks: 269
+Row 25:
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?
+Human Answer: 128% gross returns
+Generated Answer: The Medallion Fund had a 128% gross return in the year 2000.
+Cosine Similarity: 0.5836446285247803
+
+2024-11-29 22:59:47.208561
+reading spacex
+Chunk total: 226
+word count exceeded: 6
+len(BOW) = 2986
+Question: who was the first rocket engine engineer in spacex, nq: ['first', 'rocket', 'engine', 'engineer', 'spacex']
+q=[[0, 1, 2, 3, 10, 11, 19, 23, 24, 25, 37, 59, 60, 63, 75, 81, 87, 88, 89, 91, 92, 93, 94, 95, 98, 99, 100, 101, 104, 105, 108, 120, 121, 134, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 156, 157, 161, 172, 173, 186, 201, 202, 206, 207], [2, 3, 11, 14, 15, 17, 18, 19, 21, 22, 26, 28, 32, 36, 41, 42, 44, 45, 46, 49, 50, 52, 60, 61, 63, 64, 66, 70, 71, 75, 76, 80, 81, 82, 83, 84, 86, 87, 88, 90, 93, 95, 97, 98, 109, 110, 121, 122, 125, 131, 134, 136, 141, 142, 143, 145, 147, 151, 153, 154, 155, 156, 157, 162, 170, 171, 173, 183, 193, 194], [46, 60, 61, 62, 63, 64, 75, 76, 88, 90, 92, 95, 96, 97, 98, 99, 100, 121, 122, 156, 163, 185], [18, 46, 47, 52, 60, 61, 199], [0, 1, 2, 3, 8, 13, 14, 18, 38, 46, 47, 55, 56, 57, 58, 59, 60, 64, 66, 67, 72, 73, 74, 75, 79, 80, 84, 87, 101, 109, 112, 113, 115, 116, 117, 118, 119, 120, 124, 125, 126, 127, 128, 129, 131, 133, 1 88, 90, 92, 95, 96, 97, 98, 99, 100, 121, 122, 156, 163, 185], [18, 46, 47, 52, 60, 61, 199], [0, 1, 2, 3, 8, 13, 14, 18, 38, 46, 47, 55, 56, 57, 58, 59, 60, 64, 66, 67, 72, 73, 74, 75, 79, 80, 84, 87, 101, 109, 112, 113, 115, 116, 117, 118, 119, 120, 124, 125, 126, 127, 128, 129, 131, 133, 158, 59, 60, 64, 66, 67, 72, 73, 74, 75, 79, 80, 84, 87, 101, 109, 112, 113, 115, 116, 117, 118, 119, 120, 124, 125, 126, 127, 128, 129, 131, 133, 136, 138, 139, 140, 141, 143, 144, 145, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 17936, 138, 139, 140, 141, 143, 144, 145, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]]
+semantic nodes: [18, 3, 46, 75, 122]
+, 180, 182, 183, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]]
+semantic nodes: [18, 3, 46, 75, 122]
+nodes prior to bespoke: [0, 1, 2, 3, 8, 10, 11, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25, 26, 28, 32, 36, 37, 38, 41, 42, 44, 45, 46, 47, 49, 50, 52, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 70, 71, 72, 73, 74, 75, 76, 79, 80, 81, 82, 83, 84, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104, 105, 108, 109, 110, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 124, 125, 126, 127, 128, 129, 131, 133, 134, 136nodes prior to bespoke: [0, 1, 2, 3, 8, 10, 11, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25, 26, 28, 32, 36, 37, 38, 41, 42, 44, 45, 46, 47, 49, 50, 52, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 70, 71, 72, 73, 74, 75, 76, 79, 80, 81, 82, 83, 84, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104, 105, 108, 109, 110, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 124, 125, 126, 127, 128, 129, 131, 133, 134, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 185, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]
+nodes after bespoke: [18, 3, 46, 75, 122, 60, 46, 75, 156]
+ 52, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 70, 71, 72, 73, 74, 75, 76, 79, 80, 81, 82, 83, 84, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104, 105, 108, 109, 110, 112, 113, 115, 116, 117, 118, 119, 120, 121, 122, 124, 125, 126, 127, 128, 129, 131, 133, 134, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 185, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]
+nodes after bespoke: [18, 3, 46, 75, 122, 60, 46, 75, 156]
+#chunks: 226
+Row 26:
+Question: who was the first rocket engine engineer in spacex
+, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 185, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]
+nodes after bespoke: [18, 3, 46, 75, 122, 60, 46, 75, 156]
+#chunks: 226
+Row 26:
+Question: who was the first rocket engine engineer in spacex
+168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 185, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]
+nodes after bespoke: [18, 3, 46, 75, 122, 60, 46, 75, 156]
+#chunks: 226
+Row 26:
+Question: who was the first rocket engine engineer in spacex
+#chunks: 226
+Row 26:
+Question: who was the first rocket engine engineer in spacex
+Human Answer: Tom Mueller
+Generated Answer: The first rocket engine engineer at SpaceX was Tom Mueller, who had previously worked with Howard Hughes at Hughes Aviation.     
+Cosine Similarity: 0.44800642132759094
+
+2024-11-29 23:46:27.662044
+Question: can you tell me total number of people working in Spacex, nq: ['tell', 'total', 'number', 'people', 'working', 'spacex']
+q=[[24, 25, 34, 35, 59, 113, 114, 134, 139, 169, 170], [41, 78, 101, 126, 157, 158, 169, 170, 185, 186], [25, 30, 41, 48, 49, 67, 68, 70, 98, 99, 119, 120, 126, 127, 140, 142, 143, 144, 183, 190, 194], [4, 5, 6, 7, 15, 19, 20, 21, 23, 35, 36, 46, 47, 57, 58, 65, 66, 72, 74, 97, 98, 107, 108, 113, 114, 115, 120, 121, 124, 125, 127, 128, 129, 132, 133, 134, 150, 154, 155, 161, 162, 164, 165, 167, 168, 169, 170, 173, 176, 177, 194, 196, 202, 203, 205, 206, 207, 208, 212, 213, 215, 218, 219, 225], [29, 60, 61, 64, 65, 80, 81, 101, 130, 131, 141, 144, 150, 158, 159], [0, 1, 2, 3, 8, 13, 14, 18, 38, 46, 47, 55, 56, 57, 58, 59, 60, 64, 66, 67, 72, 73, 74, 75, 79, 80, 84, 87, 101, 109, 112, 113, 115, 116, 117, 118, 119, 120, 124, 125, 126, 127, 128, 129, 131, 133, 136, 138, 139, 140, 141, 143, 144, 145, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]]
+semantic nodes: [164, 141, 127, 68, 125]
+nodes prior to bespoke: [128, 129, 131, 133, 134, 139, 140, 141, 143, 144, 150, 25, 154, 157, 158, 159, 161, 162, 35, 164, 167, 168, 41, 169, 170, 173, 46, 47, 176, 177, 183, 57, 58, 59, 60, 186, 190, 64, 65, 66, 67, 68, 194, 196, 72, 74, 203, 206, 207, 80, 208, 213, 215, 98, 101, 113, 114, 115, 119, 120, 124, 125, 126, 127]
+nodes after bespoke: [164, 141, 127, 68, 125, 169, 170, 101, 113]
+#chunks: 226
+Row 27:
+Question: can you tell me total number of people working in Spacex
+Human Answer: 7000
+Generated Answer: Unfortunately, I couldn't find any information about the exact number of people working at SpaceX. However, according to a 2020 report by CNBC, Elon Musk mentioned that SpaceX had around 20,000 employees.
+Cosine Similarity: 0.20095068216323853
+
+2024-11-30 00:07:18.321668
+Question: What is the cost of rocket travel based on the materials?, nq: ['cost', 'rocket', 'travel', 'based', 'materials']
+q=[[25, 41, 42, 43, 45, 47, 48, 51, 52, 64, 65, 66, 70, 73, 79, 126, 127, 170, 171, 176, 177, 178, 186, 187, 194, 195], [2, 3, 11, 14, 15, 17, 18, 19, 21, 22, 26, 28, 32, 36, 41, 42, 44, 45, 46, 49, 50, 52, 60, 61, 63, 64, 66, 70, 71, 75, 76, 80, 81, 82, 83, 84, 86, 87, 88, 90, 93, 95, 97, 98, 109, 110, 121, 122, 125, 131, 134, 136, 141, 142, 143, 145, 147, 151, 153, 154, 155, 156, 157, 162, 170, 171, 173, 183, 193, 194], [17], [64, 139, 221], [45, 49, 66, 67]]
+semantic nodes: [49, 48, 66, 170, 127]
+nodes prior to bespoke: [2, 3, 11, 14, 15, 17, 18, 19, 21, 22, 25, 26, 28, 32, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 60, 61, 63, 64, 65, 66, 67, 70, 71, 73, 75, 76, 79, 80, 81, 82, 83, 84, 86, 87, 88, 90, 93, 95, 97, 98, 109, 110, 121, 122, 125, 126, 127, 131, 134, 136, 139, 141, 142, 143, 145, 147, 151, 153, 154, 155, 156, 157, 162, 170, 171, 173, 176, 177, 178, 183, 186, 187, 193, 194, 195, 221]
+nodes after bespoke: [49, 48, 66, 170, 127, 45, 64, 66, 17]
+#chunks: 226
+Row 28:
+Question: What is the cost of rocket travel based on the materials?
+Human Answer: 0.02
+Generated Answer: According to Chunk 4, the estimated cost of a rocket is about $4 billion. This represents a significant reduction from the original estimate, with Elon Musk's team able to save NASA an enormous amount of money by vertically-integrating production and making cheaper rockets.  
+Cosine Similarity: 0.03213488310575485
+
+2024-11-30 00:34:04.205616
+Question: what is the idea about mars oasis, nq: ['idea', 'mars', 'oasis']
+q=[[13, 21, 22, 23, 24, 25, 26, 27, 61, 99, 134], [3, 19, 20, 21, 22, 23, 45, 59, 133, 134, 162, 187, 200, 205, 206, 207, 212, 213, 214], [21, 22]]
+semantic nodes: [22, 20, 206, 21, 213]
+nodes prior to bespoke: [3, 133, 134, 13, 19, 20, 21, 22, 23, 24, 25, 26, 27, 162, 45, 59, 187, 61, 200, 205, 206, 207, 212, 213, 214, 99]
+node[21] accepted
+node[22] accepted
+node[23] accepted
+ for the plant, allowing it to grow in Martian conditions. The robot would also have a camera that transmits a live video feed of the plant growing on Mars back to Earth via the internet, aiming to inspire people to explore space.     
+Cosine Similarity: 0.8528625965118408
+
+2024-11-30 00:43:48.113192
+Question: What was Elon MuskÔs initial investment in SpaceX?, nq: ['elon', 'muskôs', 'initial', 'investment', 'spacex']
+q=[[3, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 24, 29, 30, 33, 38, 39, 40, 41, 44, 45, 49, 50, 51, 56, 57, 58, 62, 63, 65, 66, 72, 78, 87, 98, 99, 101, 103, 106, 107, 108, 110, 112, 116, 117, 118, 120, 121, 127, 128, 135, 136, 138, 139, 145, 146, 149, 159, 160, 163, 164, 167, 168, 169, 175, 176, 188, 189, 190, 192, 194, 195, 196, 198, 199, 200, 205, 206, 207, 211, 212, 214], [61, 106, 127, 141], [176, 177, 204], [0, 1, 2, 3, 8, 13, 14, 18, 38, 46, 47, 55, 56, 57, 58, 59, 60, 64, 66, 67, 72, 73, 74, 75, 79, 80, 84, 87, 101, 109, 112, 113, 115, 116, 117, 118, 119, 120, 124, 125, 126, 127, 128, 129, 131, 133, 136, 138, 139, 140, 141, 143, 144, 145, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 176, 177, 179, 180, 182, 183, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 203, 204, 206, 207, 208, 210, 213, 215, 216, 223]]
+semantic nodes: [199, 72, 14, 164, 58]
+nodes prior to bespoke: [0, 1, 2, 3, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 24, 29, 30, 33, 38, 39, 40, 41, 44, 45, 46, 47, 49, 50, 51, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 72, 73, 74, 75, 78, 79, 80, 84, 87, 98, 99, 101, 103, 106, 107, 108, 109, 110, 112, 113, 115, 116, 117, 118, 119, 120, 121, 124, 125, 126, 127, 128, 129, 131, 133, 135, 136, 138, 139, 140, 141, 143, 144, 145, 146, 149, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171, 172, 173, 175, 176, 177, 179, 180, 182, 183, 186, 187, 188, 189, 190, 192, 193, 194, 195, 196, 198, 199, 200, 201, 203, 204, 205, 206, 207, 208, 210, 211, 212, 213, 214, 215, 216, 223]
+node[57] accepted
+node[58] accepted
+node[101] accepted
+nodes after bespoke: [57, 58, 101]
+#chunks: 226
+Row 30:
+Question: What was Elon MuskÔs initial investment in SpaceX?
+Human Answer: Approx 100 MN
+Generated Answer: Elon Musk initially invested around $100 million in SpaceX.
+Cosine Similarity: 0.31468987464904785
+
+2024-11-30 01:24:40.174678
+reading arena_show_part_ii_brooks_running_with_ceo_jim_weber
+Chunk total: 131
+word count exceeded: 1
+len(BOW) = 1928
+Question: How is Jim Weber's strategic focus influence the revitalization of Brooks Running?, nq: ['jim', 'webers', 'strategic', 'focus', 'influence', 'revitalization', 'brooks', 'running']
+q=[[0, 1, 4, 5, 6, 7, 8, 9, 10, 12, 13, 15, 17, 18, 19, 20, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 38, 39, 40, 48, 49, 50, 54, 55, 56, 57, 59, 61, 62, 63, 65, 69, 70, 71, 72, 73, 74, 75, 76, 77, 80, 81, 89, 92, 96, 97, 99, 104, 105, 106, 108, 112, 115, 116, 118, 124, 125, 126], [58], [52, 72, 77, 89, 95], [0, 1, 4, 5, 6, 9, 10, 11, 12, 14, 15, 16, 17, 18, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 34, 35, 39, 40, 41, 42, 43, 54, 64, 65, 66, 67, 73, 74, 99, 104, 106, 112, 126], [4, 5, 6, 9, 10, 11, 16, 18, 19, 26, 29, 31, 32, 36, 40, 41, 42, 65, 81, 88, 89, 91, 92, 93, 94, 95, 96, 99, 100, 101, 103, 104, 106, 107, 108, 109, 112, 113, 119, 126]]
+semantic nodes: [7, 5, 18, 4, 16]
+nodes prior to bespoke: [0, 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 48, 49, 50, 52, 54, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 80, 81, 88, 89, 91, 92, 93, 94, 95, 96, 97, 99, 100, 101, 103, 104, 105, 106, 107, 108, 109, 112, 113, 115, 116, 118, 119, 124, 125, 126]
+node[6] accepted
+node[89] accepted
+nodes after bespoke: [6, 89]
+#chunks: 131
+Row 31:
+Question: How is Jim Weber's strategic focus influence the revitalization of Brooks Running?
+Human Answer: His leadership is pivotal in transforming Brooks Running from a struggling company into a leading shoe brand company. His focus on the running segment and prioritizing performance and technology in their products, helped Brooks steered towards the leading market  with sustainable growth and profitability.
+Generated Answer: Jim Weber's strategic focus on serving active runners as a segment allowed him to cut all other business lines and concentrate on this specific market. This clarity in understanding runner behavior, participation links to unit sales, and volume, enabled Brooks Running to lean into the new behavior during the pandemic, ultimately contributing to its revitalization.
+Cosine Similarity: 0.684122622013092
+
+2024-11-30 01:49:00.926030
+Question: How did Brooks Running approach to market segmentation give it a competitive advantage?, nq: ['brooks', 'running', 'approach', 'market', 'segmentation', 'give', 'competitive', 'advantage']
+q=[[0, 1, 4, 5, 6, 9, 10, 11, 12, 14, 15, 16, 17, 18, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 34, 35, 39, 40, 41, 42, 43, 54, 64, 65, 66, 67, 73, 74, 99, 104, 106, 112, 126], [4, 5, 6, 9, 10, 11, 16, 18, 19, 26, 29, 31, 32, 36, 40, 41, 42, 65, 81, 88, 89, 91, 92, 93, 94, 95, 96, 99, 100, 101, 103, 104, 106, 107, 108, 109, 112, 113, 119, 126], [1], [33, 34, 54, 55], [0, 1, 3, 75, 120, 121, 129], [54, 61, 62, 63, 64, 79], [24, 79, 80, 90, 95]]
+Question: How did Brooks Running approach to market segmentation give it a competitive advantage?
+Human Answer: It gained competitive advantage by strategically focusing on the needs of dedicated runners. This dedicated focus allowed the company to develop highly specialized products that meet the specific needs of the customers, which built a strong brand loyalty and solid reputation in the running community.
+Generated Answer: Brooks Running approached market segmentation by targeting high-end consumers who prioritize performance and quality. They focused on frequent runners who would go through 2.6 pairs of shoes per year, creating a "stickiness" that led to repeat business and loyalty. This approach allowed them to differentiate themselves from lower-priced competitors and establish a strong brand identity in the athletic footwear market.
+Cosine Similarity: 0.649492084980011
+
+2024-11-30 01:58:54.866807
+reading qualcomm
+Chunk total: 226
+word count exceeded: 5
+len(BOW) = 2990
+Question: What was the patent Heddy developed? Was it publicly available?, nq: ['patent', 'heddy', 'developed', 'publicly', 'available']
+q=[[17, 18, 21, 80, 81, 82, 83, 85, 93, 100, 117, 147, 156, 157, 172, 183, 213, 214, 216], [17, 18, 56, 80, 81, 85], [225], [39, 40, 47, 57, 81, 82, 182, 192]]
+semantic nodes: [81, 93, 23, 157, 88]
+nodes prior to bespoke: [17, 18, 147, 21, 23, 156, 157, 39, 40, 172, 47, 182, 183, 56, 57, 192, 80, 81, 82, 83, 85, 213, 214, 88, 216, 93, 225, 100, 117]
+nodes after bespoke: [81, 93, 23, 157, 88, 81, 17, 18, 80]
+#chunks: 226
+Row 33:
+Question: What was the patent Heddy developed? Was it publicly available?
+Human Answer: Hedy teams up with her new Hollywood neighbor, a music composer named George Antheil.  With her ideas and his musical prowess, they developed a concept that they patent. They get issued a confidential patent that stays confidential for decades in the US military
+Generated Answer: Hedy Lamarr's patent was for a novel technique to defeat RF frequency jamming by using frequency hopping. It was issued in 1942 and remained confidential until its declassification in 1981, when it became known as the origin of spread spectrum technology.
+Cosine Similarity: 0.41867175698280334
+
+2024-11-30 02:10:00.724234
+Question: Why were patents developed by Heddy had 88 frequency hops ?, nq: ['patents', 'developed', 'heddy', '88', 'frequency', 'hops']
+q=[[81, 117, 149, 157, 158, 159, 173, 176, 177, 201, 202, 213, 214], [17, 18, 56, 80, 81, 85], [21], [2, 17, 18, 19, 20, 21, 69, 70, 71, 72, 73, 74, 77, 78, 81, 82, 102, 157, 178, 179, 182], [19, 20, 21, 217, 218]]
+semantic nodes: [41, 157, 81, 18, 183]
+nodes prior to bespoke: [2, 17, 18, 19, 20, 21, 149, 157, 158, 159, 41, 173, 176, 177, 178, 179, 182, 183, 56, 69, 70, 71, 72, 73, 74, 201, 202, 77, 78, 80, 81, 82, 85, 213, 214, 217, 218, 102, 117]
+node[21] accepted
+nodes after bespoke: [21]
+#chunks: 226
+Row 34:
+Question: Why were patents developed by Heddy had 88 frequency hops ?
+Human Answer: There were 88 frequency hops in their technical description of the patent because there are 88 keys on a piano. They took two player piano scrolls that had the same basically song, and they mapped each note to a new frequency. They put the same player piano in the same scroll on the receiver that they did on the transmitter, and they pressed play on the player piano song at the same time so it would know exactly where to hop around.
+Generated Answer: The patent developed by Hedy's team had 88 frequency hops because there are 88 keys on a standard piano.
+Cosine Similarity: 0.7986506223678589
+
+2024-11-30 02:22:48.476790
+Question: What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?, nq: ['role', 'trump', 'administration', 'takeover', 'broadcomm', 'qualcomm', 'decision', 'made']
+q=[[170, 171], [170, 171], [98, 99, 169, 170, 195, 196], [2, 4, 8, 9, 10, 11, 12, 17, 18, 26, 27, 28, 29, 31, 32, 38, 41, 52, 53, 62, 66, 67, 75, 81, 83, 84, 87, 88, 90, 91, 95, 101, 103, 108, 110, 111, 115, 116, 118, 123, 125, 127, 128, 130, 131, 132, 133, 134, 137, 138, 139, 140, 142, 144, 145, 146, 147, 148, 149, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 170, 171, 172, 173, 174, 175, 176, 177, 182, 183, 184, 185, 186, 187, 190, 191, 195, 196, 197, 198, 199, 201, 203, 204, 205, 206, 207, 208, 209, 210, 211, 213, 214, 215, 216, 217, 218, 220], [34, 53, 140, 213], [14, 15, 45, 52, 53, 54, 80, 106, 107, 134, 164, 167, 168, 186]]
+semantic nodes: [170, 171, 169, 157, 168]
+nodes prior to bespoke: [195, 164, 196, 134, 168, 169, 170, 171, 140, 52, 53, 213, 186, 157]
+node[170] accepted
+nodes after bespoke: [170]
+#chunks: 226
+Row 35:
+Question: What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?      
+Human Answer: The Trump administration got involved in the deal and said it would be a national security concern and block the hostile takeover deal. Qualcomm had great relationships with the US government and always have since the early days in being a government contractor.
+Generated Answer: The Trump administration blocked Broadcom's hostile takeover of Qualcomm due to concerns about national security, specifically because of Broadcom's close ties with Huawei. This move is seen as a win for Qualcomm's lobbyists, who have strong relationships with the US government.
+Cosine Similarity: 0.8190297484397888
+
+2024-11-30 02:28:38.835738
+reading porsche_with_doug_demuro
+Chunk total: 350
+word count exceeded: 1
+len(BOW) = 3561
+Question: what is one decision Porsche made to improve business that went against industry norm?, nq: ['one', 'decision', 'porsche', 'made', 'improve', 'business', 'went', 'industry', 'norm']
+q=[[0, 1, 2, 3, 7, 8, 9, 11, 18, 19, 22, 23, 24, 25, 26, 30, 31, 33, 40, 41, 42, 47, 48, 55, 56, 57, 62, 65, 68, 70, 71, 78, 79, 82, 85, 88, 89, 91, 93, 94, 96, 100, 101, 102, 105, 106, 108, 111, 114, 115, 117, 118, 119, 121, 124, 125, 126, 127, 130, 132, 143, 144, 148, 149, 160, 161, 162, 163, 164, 167, 172, 177, 178, 182, 183, 189, 201, 202, 203, 204, 205, 206, 207, 211, 241, 242, 243, 248, 249, 250, 253, 254, 261, 262, 263, 264, 266, 268, 273, 274, 279, 284, 296, 297, 300, 302, 303, 304, 305, 308, 310, 322, 333, 334, 337, 343, 348], [86, 104, 105, 117, 118, 120, 121, 129, 132, 133, 136, 137, 150, 151, 198], [1, 2, 3, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 25, 26, 34, 35, 36, 37, 38, 40, 41, 43, 47, 48, 49, 51, 52, 53, 54, 55, 56, 57, 64, 65, 67, 68, 69, 70, 73, 74, 75, 80, 81, 82, 83, 86, 87, 88, 89, 92, 94, 95, 96, 97, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 112, 113, 114, 121, 122, 124, 127, 128, 131, 132, 133, 134, 136, 138, 139, 140, 142, 143, 144, 145, 147, 148, 149, 154, 161, 162, 165, 166, 167, 168, 169, 171, 175, 176, 177, 178, 180, 181, 182, 183, 185, 186, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 207, 208, 211, 212, 214, 216, 217, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 231, 232, 233, 235, 236, 237, 238, 239, 240, 241, 242, 244, 246, 247, 248, 250, 251, 255, 256, 257, 258, 260, 261, 262, 267, 268, 269, 270, 271, 272, 273, 274, 275, 277, 278, 279, 281, 282, 283, 284, 285, 286, 288, 289, 290, 295, 296, 298, 301, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 322, 323, 324, 326, 327, 328, 329], [7, 30, 33, 34, 41, 47, 48, 50, 70, 76, 77, 78, 105, 106, 109, 129, 140, 141, 142, 147, 150, 151, 158, 159, 160, 166, 167, 184, 201, 202, 204, 205, 216, 217, 218, 219, 243, 244, 245, 252, 261, 264, 279, 281, 292, 293], [10, 11, 36, 37, 40, 52, 53, 55, 56, 57, 60, 61, 81, 82, 101, 102, 106, 115, 117, 118, 121, 143, 199, 200, 210, 217, 226, 227, 240, 241, 252, 253, 254, 271, 272, 293, 295, 296, 297, 309, 313, 314, 319, 320, 321, 339, 342, 343, 344], [73, 119, 120, 132, 139, 140, 142, 148, 149, 168, 169, 207, 208, 236, 284, 285, 325, 337], [6, 8, 9, 12, 13, 29, 30, 31, 68, 113, 119, 144, 174, 220, 221, 306, 310, 319, 320, 321]]
+semantic nodes: [241, 208, 144, 65, 320]
+nodes prior to bespoke: [1, 2, 3, 7, 8, 9, 10, 11, 12, 13, 18, 19, 25, 26, 30, 31, 33, 34, 36, 37, 40, 41, 47, 48, 52, 53, 55, 56, 57, 65, 68, 70, 73, 78, 81, 82, 86, 88, 89, 94, 96, 101, 102, 104, 105, 106, 108, 109, 113, 114, 115, 117, 118, 119, 120, 121, 124, 127, 129, 132, 133, 136, 139, 140, 142, 143, 144, 147, 148, 149, 150, 151, 160, 161, 162, 166, 167, 168, 169, 177, 178, 182, 183, 189, 198, 199, 200, 201, 202, 204, 205, 207, 208, 211, 216, 217, 220, 221, 226, 227, 236, 240, 241, 242, 243, 244, 248, 250, 252, 253, 254, 261, 262, 264, 268, 271, 272, 273, 274, 279, 281, 284, 285, 293, 295, 296, 297, 303, 304, 305, 306, 308, 309, 310, 313, 314, 319, 320, 321, 322, 337, 343]
+node[86] accepted
+node[167] accepted
+node[168] accepted
+nodes after bespoke: [86, 167, 168]
+#chunks: 350
+Row 36:
+Question: what is one decision Porsche made to improve business that went against industry norm?
+Human Answer: cancel all other car models except the 911
+Generated Answer: Porsche allowed Audi to license their name and put it on the RS2 cars, essentially mortgaging their brand.       
+Cosine Similarity: 0.36514249444007874
+
+2024-11-30 03:08:53.081256
+Question: What city owns 20% of volkswagen and why, nq: ['city', 'owns', '20', 'volkswagen']
+q=[[23, 24], [24, 25, 28, 223, 227, 229, 239, 240, 256, 292, 293, 294], [37, 38, 58, 65, 142, 144, 192, 224, 225, 226, 229, 247, 248, 254, 255, 275, 276, 314, 315, 319, 320, 335, 336, 337], [10, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 40, 41, 49, 52, 53, 54, 58, 103, 104, 105, 115, 124, 125, 128, 129, 130, 132, 134, 184, 200, 220, 221, 222, 223, 224, 225, 226, 227, 228, 230, 231, 235, 236, 251, 255, 256]]
+semantic nodes: [227, 239, 240, 226, 225]
+nodes prior to bespoke: [128, 129, 130, 256, 132, 134, 10, 142, 144, 19, 20, 21, 275, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 292, 37, 38, 293, 40, 41, 294, 49, 52, 53, 54, 184, 58, 314, 315, 319, 192, 65, 320, 200, 335, 336, 337, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 103, 104, 105, 231, 235, 236, 276, 239, 240, 115, 247, 248, 251, 124, 125, 254, 255]
+nodes after bespoke: [227, 239, 240, 226, 225, 24, 23, 25, 28]
+#chunks: 350
+Row 37:
+Question: What city owns 20% of volkswagen and why
+Human Answer: Lower Saxony, as a method to get the company off the ground
+Generated Answer: The city that owns 20% of Volkswagen is Wolfsburg, Germany. This is because Adolf Hitler created a new city in Germany called Wolfsburg to house the Volkswagen company, which was originally intended as a symbol of Nazi ideology (the "Strength Through Joy" program). The state of Lower Saxony still retains ownership of this 20% share due to German law, known as the Volkswagen Law.
+Cosine Similarity: 0.35979071259498596
+
+2024-11-30 03:30:54.203045
+reading doordash
+Chunk total: 229
+word count exceeded: 18
+len(BOW) = 3145
+Question: What's Startup Garage at Stanford's GSB?, nq: ['whats', 'startup', 'garage', 'stanfords', 'gsb']
+q=[[20, 136, 137, 151, 167], [0, 1, 7, 11, 12, 14, 222], [7, 8, 9, 10, 25, 26, 197], [7, 8, 9, 11, 12, 21, 22, 25, 26, 82, 85, 86]]
+semantic nodes: [8, 7, 10, 12, 1]
+nodes prior to bespoke: [0, 1, 7, 8, 9, 10, 11, 12, 136, 14, 137, 20, 21, 22, 151, 25, 26, 167, 197, 82, 85, 86, 222]
+node[7] accepted
+node[8] accepted
+nodes after bespoke: [7, 8]
+#chunks: 229
+Row 38:
+Question: What's Startup Garage at Stanford's GSB?
+Human Answer: A class at GSB to build and launch a startup company
+Generated Answer: Startup Garage is a legendary two-quarter interdisciplinary class at Stanford Graduate School of Business (GSB) that combines business and design principles to launch a startup company. It was co-taught with the Design School (d.school).       
+Cosine Similarity: 0.6958603858947754
+
+2024-11-30 03:39:51.277523
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?, nq: ['owner', 'shop', 'ispired', 'idea', 'behind', 'doordash', 'app']
+q=[[14, 42, 48, 204], [8, 10, 11, 13, 129, 186, 198, 210, 214], [0, 8, 9, 20, 21, 25, 26, 86, 87, 105], [1, 2, 17, 22, 27, 33, 36, 43, 44, 47, 48, 49, 52, 54, 57, 59, 63, 68, 69, 70, 71, 72, 73, 75, 79, 80, 82, 83, 86, 87, 88, 92, 95, 100, 101, 103, 104, 105, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 162, 169, 173, 174, 175, 176, 178, 179, 181, 182, 183, 184, 185, 187, 188, 189, 193, 195, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 212, 213, 214, 215, 222, 223], [0, 1, 13, 14, 39, 47, 139, 140, 141, 165, 166, 168, 169, 174, 194]]
+semantic nodes: [201, 136, 116, 44, 169]
+nodes prior to bespoke: [0, 1, 2, 8, 9, 10, 11, 13, 14, 17, 20, 21, 22, 25, 26, 27, 33, 36, 39, 42, 43, 44, 47, 48, 49, 52, 54, 57, 59, 63, 68, 69, 70, 71, 72, 73, 75, 79, 80, 82, 83, 86, 87, 88, 92, 95, 100, 101, 103, 104, 105, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 162, 165, 166, 168, 169, 173, 174, 175, 176, 178, 179, 181, 182, 183, 184, 185, 186, 187, 188, 189, 193, 194, 195, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 210, 212, 213, 214, 215, 222, 223]
+nodes after bespoke: [201, 136, 116, 44, 169, 0, 1, 8, 13]
+#chunks: 229
+Row 39:
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?
+Human Answer: Chloe
+Generated Answer: The founder who inspired the idea behind DoorDash is Tony Xu.
+Cosine Similarity: 0.11544344574213028
+
+2024-11-30 04:23:02.739534
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?, nq: ['first', 'customer', 'paloaltodeliverycom', 'working', 'stanford']
+q=[[5, 6, 7, 21, 22, 24, 46, 52, 54, 58, 59, 63, 64, 66, 68, 69, 70, 76, 79, 87, 90, 139, 145, 156, 157, 162, 163, 199, 200, 212, 213, 219, 225], [12, 21, 58, 78, 79, 116, 117, 122, 123, 124, 125, 134, 135, 136, 139, 140, 147, 170, 171, 173, 198, 204, 212], [28, 29, 54, 55, 151, 152, 171, 172, 204, 207, 208], [1, 7, 8, 9, 10, 19, 20, 21]]
+semantic nodes: [1, 7, 14, 10, 22]
+nodes prior to bespoke: [1, 5, 6, 7, 8, 9, 10, 134, 12, 135, 14, 136, 139, 140, 145, 19, 20, 21, 22, 147, 24, 151, 152, 28, 29, 156, 157, 162, 163, 170, 171, 172, 173, 46, 52, 54, 55, 58, 59, 63, 64, 66, 68, 69, 70, 198, 199, 200, 76, 204, 78, 79, 207, 208, 212, 213, 87, 90, 219, 225, 116, 117, 122, 123, 124, 125]
+nodes after bespoke: [1, 7, 14, 10, 22, 21, 7, 54, 58]
+#chunks: 229
+Row 40:
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?
+Human Answer: Leafly, the marijuana company;
+A Visiting Author
+Generated Answer: The first customer of Palo Alto Delivery (later DoorDash) was a visiting author who lived on Alpine Road behind the Dish, and he was staying in Stanford housing. He didn't want to drive far to get food, making it a great use case for the service.
+Cosine Similarity: 0.18779036402702332
+
+2024-11-30 04:46:48.135092
+reading walmart
+Chunk total: 282
+word count exceeded: 6
+len(BOW) = 3427
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York, nq: ['seminar', 'sam', 'walton', 'enroll', 'poughkeepsie', 'new', 'york']
+q=[[150], [1, 4, 11, 12, 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 50, 51, 52, 54, 55, 56, 58, 59, 60, 61, 62, 67, 69, 70, 72, 73, 74, 75, 76, 77, 81, 83, 84, 85, 86, 87, 88, 89, 90, 91, 95, 97, 98, 99, 101, 102, 104, 105, 108, 109, 111, 112, 113, 114, 117, 118, 120, 121, 127, 128, 129, 130, 136, 137, 138, 146, 147, 149, 150, 151, 152, 154, 155, 167, 168, 174, 207, 221, 222, 224, 232, 233, 235, 236, 246, 247, 254, 257, 262, 266, 267, 268, 269], [1, 2, 4, 11, 12, 15, 16, 17, 18, 20, 25, 37, 38, 57, 58, 61, 62, 86, 87, 88, 101, 102, 109, 119, 120, 121, 125, 127, 149, 150, 151, 207, 221, 224, 232, 247, 248, 249, 259, 261, 266], [150], [1, 2, 3, 4, 10, 45, 52, 67, 73, 75, 76, 78, 80, 81, 82, 89, 90, 97, 98, 100, 101, 105, 112, 115, 117, 118, 119, 127, 128, 132, 133, 134, 135, 136, 140, 141, 145, 146, 150, 162, 181, 195, 196, 202, 213, 229], [2, 3, 45, 150, 162]]
+semantic nodes: [16, 76, 17, 121, 15]
+nodes prior to bespoke: [128, 1, 2, 3, 4, 136, 266, 11, 12, 15, 16, 17, 18, 146, 20, 149, 150, 151, 25, 162, 37, 38, 45, 52, 58, 61, 62, 67, 73, 75, 76, 207, 81, 86, 87, 88, 89, 90, 247, 221, 224, 97, 98, 101, 102, 232, 105, 109, 112, 117, 118, 119, 120, 121, 127]
+node[150] accepted
+nodes after bespoke: [150]
+#chunks: 282
+Row 41:
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York
+Human Answer: IBM Computer Training Seminar
+Generated Answer: Sam Walton enrolled himself as Chairman/CEO of Walmart in a seminar at IBM on how to use computing technology in business.
+Cosine Similarity: 0.4082547426223755
+
+2024-11-30 05:05:05.883462
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost, nq: ['percentage', 'rent', 'sales', 'sam', 'waltons', 'first', 'ben', 'franklin', 'cost']
+q=[[89], [55, 68, 70], [1, 55, 58, 65, 67, 68, 69, 82, 85, 98, 127, 130, 133, 134, 147, 154, 173], [1, 4, 11, 12, 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 50, 51, 52, 54, 55, 56, 58, 59, 60, 61, 62, 67, 69, 70, 72, 73, 74, 75, 76, 77, 81, 83, 84, 85, 86, 87, 88, 89, 90, 91, 95, 97, 98, 99, 101, 102, 104, 105, 108, 109, 111, 112, 113, 114, 117, 118, 120, 121, 127, 128, 129, 130, 136, 137, 138, 146, 147, 149, 150, 151, 152, 154, 155, 167, 168, 174, 207, 221, 222, 224, 232, 233, 235, 236, 246, 247, 254, 257, 262, 266, 267, 268, 269], [1, 80, 81, 82, 83, 95, 102, 119, 122, 207, 224, 266, 267], [12, 13, 15, 26, 28, 31, 32, 33, 53, 54, 56, 82, 83, 88, 89, 90, 94, 95, 98, 104, 105, 106, 122, 123, 125, 126, 127, 131, 133, 134, 136, 143, 144, 147, 149, 150, 155, 156, 158, 159, 161, 173, 174, 176, 177, 178, 190, 205, 206, 232, 233, 245, 246, 247, 259, 274, 275, 278], [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 109, 110, 111, 112, 113, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 128, 129, 130, 131, 132, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 146, 147, 148, 149, 150, 151, 153, 154, 155, 156, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 181, 182, 183, 184, 185, 186, 187, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 240, 241, 242, 243, 244, 245, 246, 248, 251, 252, 253, 254, 255, 256, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281], [47, 50, 51, 69, 70, 72, 77, 78, 80, 81, 82, 97, 98, 100, 101, 102, 116, 117, 119, 125, 228], [58, 59, 135, 137, 138, 139, 218, 230, 253, 254]]
+semantic nodes: [72, 20, 125, 83, 102]
+nodes prior to bespoke: [1, 4, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 43, 45, 47, 50, 51, 52, 53, 54, 55, 56, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 83, 85, 86, 87, 88, 89, 90, 91, 94, 95, 97, 98, 99, 100, 101, 102, 104, 105, 106, 109, 111, 112, 113, 116, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 130, 131, 133, 134, 135, 136, 137, 138, 139, 143, 146, 147, 149, 150, 151, 154, 155, 156, 158, 159, 161, 167, 168, 173, 174, 176, 177, 178, 205, 206, 207, 218, 221, 222, 224, 228, 230, 232, 233, 235, 236, 245, 246, 247, 253, 254, 259, 262, 266, 267, 268, 269, 274, 275, 278]
+nodes after bespoke: [72, 20, 125, 83, 102, 82, 98, 1, 58]
+#chunks: 282
+Row 42:
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost
+Human Answer: 5%
+Generated Answer: I couldn't find the exact percentage of rent to sales for Sam Walton's first Ben Franklin store. However, I can tell you that David mentioned the operating income from the previous year was $30-40,000 and the annual sales were $90,000 in the first year.
+Cosine Similarity: 0.20449230074882507
+
+2024-11-30 05:47:45.619463
+Question: How much top line revenue % did walmart see a year after their IPO 1972, nq: ['much', 'top', 'line', 'revenue', 'walmart', 'see', 'year', 'ipo', '1972']
+q=[[9, 10, 13, 14, 26, 30, 47, 57, 60, 63, 64, 65, 83, 91, 101, 102, 107, 108, 111, 117, 127, 128, 129, 132, 133, 135, 136, 137, 139, 140, 144, 151, 159, 160, 161, 184, 204, 212, 213, 224, 225, 233, 234, 237, 251, 252, 254, 257, 258, 275, 276, 277, 279], [59, 103, 145, 146, 212, 226, 251], [128, 145, 146, 182, 183, 212], [1, 77, 82, 117, 133, 134, 145, 146, 147, 148, 149, 173, 174, 184, 191, 192, 196, 202, 203, 208, 211, 212, 229, 230, 264, 265], [2, 3, 11, 12, 13, 14, 20, 26, 27, 37, 38, 39, 42, 51, 56, 57, 62, 65, 66, 69, 70, 75, 76, 80, 83, 84, 86, 87, 89, 90, 93, 94, 95, 96, 97, 101, 103, 104, 109, 111, 116, 119, 120, 121, 122, 123, 124, 125, 127, 129, 131, 132, 133, 134, 135, 139, 140, 145, 146, 148, 149, 150, 151, 152, 153, 155, 157, 158, 159, 160, 161, 162, 164, 165, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 195, 196, 200, 201, 202, 203, 204, 205, 206, 207, 208, 210, 211, 213, 214, 215, 216, 217, 219, 220, 221, 222, 223, 224, 225, 226, 228, 230, 231, 232, 233, 238, 241, 242, 243, 244, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 258, 259, 264, 265, 266, 270], [49, 78, 79, 99, 100, 124, 153, 154, 185, 200, 205, 209, 210, 218, 223, 233, 234, 253, 276, 280, 281], [1, 9, 10, 23, 24, 28, 55, 57, 58, 67, 68, 70, 72, 73, 77, 82, 85, 98, 126, 127, 131, 132, 145, 146, 147, 173, 174, 202, 203, 211, 212, 260], [143, 144, 145, 146, 147, 215], [146]]
+semantic nodes: [146, 148, 145, 147, 149]
+nodes prior to bespoke: [128, 1, 129, 131, 132, 133, 134, 135, 258, 9, 10, 139, 140, 13, 14, 264, 144, 145, 146, 147, 148, 149, 276, 151, 153, 26, 159, 160, 161, 173, 174, 182, 183, 184, 57, 185, 265, 191, 192, 65, 196, 70, 200, 202, 203, 204, 77, 205, 208, 82, 83, 210, 211, 212, 213, 215, 223, 224, 225, 226, 101, 230, 103, 233, 234, 111, 252, 117, 251, 124, 253, 254, 127]
+nodes after bespoke: [146, 148, 145, 147, 149, 146, 145, 212, 57]
+#chunks: 282
+Row 43:
+Question: How much top line revenue % did walmart see a year after their IPO 1972
+Human Answer: 77%
+Generated Answer: Walmart saw a 77% increase in top-line revenue the year after their IPO in 1971.
+Cosine Similarity: 0.3525640368461609
+
+2024-11-30 06:11:18.897557
+reading nvidia_part_i_the_gpu_company_19932006
+Chunk total: 185
+word count exceeded: 5
+len(BOW) = 2567
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point, nq: ['nvidia', 'use', 'startup', 'foundry', 'emulation', 'software', 'produce', 'chips', 'point']
+q=[[2, 3, 5, 20, 23, 25, 26, 30, 41, 42, 53, 54, 56, 59, 60, 61, 62, 63, 64, 65, 66, 67, 71, 76, 77, 79, 80, 81, 88, 89, 91, 93, 94, 95, 97, 98, 99, 100, 101, 105, 106, 107, 108, 111, 112, 113, 118, 126, 127, 131, 132, 135, 136, 138, 139, 140, 142, 145, 146, 147, 148, 149, 150, 151, 157, 158, 159, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 178, 181], [19, 20, 29, 30, 43, 44, 56, 57, 60, 61, 62, 65, 66, 73, 80, 81, 86, 90, 91, 99, 100, 106, 107, 126, 135, 137, 138, 139, 147, 150, 165, 182], [8, 27, 28, 76, 96, 97, 145, 158, 159], [71, 72, 75, 99], [73, 76], [3, 6, 9, 36, 38, 39, 73, 74, 75, 76, 86, 92, 93, 105, 116, 150, 160, 163, 164, 176, 177], [9, 71], [2, 3, 22, 23, 26, 27, 29, 30, 31, 39, 40, 62, 63, 66, 67, 68, 71, 73, 85, 86, 98, 99, 100, 101, 102, 129, 150, 170, 171], [35, 38, 39, 43, 46, 48, 49, 62, 63, 64, 65, 66, 67, 68, 69, 71, 83, 84, 89, 91, 96, 103, 110, 111, 112, 114, 116, 117, 122, 127, 135, 136, 138, 139, 142, 144, 145, 164, 165, 173, 181]]
+semantic nodes: [76, 73, 99, 82, 113]
+nodes prior to bespoke: [2, 3, 135, 136, 9, 138, 139, 142, 145, 147, 20, 150, 23, 26, 27, 29, 30, 158, 159, 164, 165, 38, 39, 170, 43, 171, 173, 181, 56, 60, 61, 62, 63, 64, 65, 66, 67, 68, 71, 73, 75, 76, 80, 81, 82, 86, 89, 91, 93, 96, 97, 98, 99, 100, 101, 105, 106, 107, 111, 112, 113, 116, 126, 127]
+nodes after bespoke: [76, 73, 99, 82, 113, 71, 62, 66, 73]
+#chunks: 185
+Row 44:
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point
+Human Answer: They were bankrupt and did not have any other option
+Generated Answer: NVIDIA used a startup foundry emulation software to produce their chips because they had no other options and were "screwed" by Sega's decision to switch from using NVIDIA's NV2 chip for the Dreamcast. This led to a significant increase in memory costs, which made it difficult for NVIDIA to design chips that were tight on memory without breaking the bank.
+Cosine Similarity: 0.18291079998016357
+
+2024-11-30 06:32:03.879304
+Question: What did Nvidia call its first graphics card, nq: ['nvidia', 'call', 'first', 'graphics', 'card']
+q=[[2, 3, 5, 20, 23, 25, 26, 30, 41, 42, 53, 54, 56, 59, 60, 61, 62, 63, 64, 65, 66, 67, 71, 76, 77, 79, 80, 81, 88, 89, 91, 93, 94, 95, 97, 98, 99, 100, 101, 105, 106, 107, 108, 111, 112, 113, 118, 126, 127, 131, 132, 135, 136, 138, 139, 140, 142, 145, 146, 147, 148, 149, 150, 151, 157, 158, 159, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 178, 181], [20, 44, 45, 60, 75, 77, 100, 108, 109, 148, 173], [14, 17, 19, 20, 25, 28, 29, 31, 41, 42, 50, 53, 54, 55, 63, 72, 81, 82, 84, 85, 99, 100, 105, 106, 107, 114, 115, 129, 136, 160, 161, 173, 174, 177], [2, 3, 4, 5, 6, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 50, 52, 53, 54, 55, 56, 59, 60, 61, 62, 68, 73, 74, 82, 83, 84, 85, 86, 90, 91, 92, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 112, 113, 115, 116, 117, 118, 132, 133, 134, 135, 136, 153, 166, 167, 168, 170, 171, 177], [1, 2, 36, 37, 40, 41, 42, 82, 83, 84, 85, 86, 99, 100, 104, 105, 108, 109, 126, 127, 135, 136, 143, 166, 167]]
+semantic nodes: [82, 100, 3, 116, 101]
+nodes prior to bespoke: [1, 2, 3, 4, 5, 6, 14, 17, 19, 20, 23, 25, 26, 28, 29, 30, 31, 33, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 50, 52, 53, 54, 55, 56, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 71, 72, 73, 74, 75, 76, 77, 79, 80, 81, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 111, 112, 113, 114, 115, 116, 117, 118, 126, 127, 129, 131, 132, 133, 134, 135, 136, 138, 139, 140, 142, 143, 145, 146, 147, 148, 149, 150, 151, 153, 157, 158, 159, 160, 161, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177, 178, 181]
+nodes after bespoke: [82, 100, 3, 116, 101, 100, 41, 42, 99]
+#chunks: 185
+Row 45:
+Question: What did Nvidia call its first graphics card
+Human Answer: G-force 256
+Generated Answer: NVIDIA called its first graphics card "GeForce".
+Cosine Similarity: 0.21276283264160156
+
+2024-11-30 07:08:06.745856
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC, nq: ['jensen', 'decide', 'write', 'send', 'letter', 'physical', 'address', 'morris', 'tsmc']
+q=[[0, 1, 3, 4, 5, 12, 13, 14, 15, 16, 17, 18, 20, 21, 24, 25, 27, 31, 32, 36, 37, 42, 43, 44, 45, 46, 50, 52, 58, 59, 63, 64, 65, 88, 89, 96, 97, 98, 99, 101, 105, 107, 111, 113, 132, 133, 134, 137, 140, 141, 142, 150, 154, 156, 162, 163, 164, 165, 166, 167, 178, 179], [56, 57], [54, 105, 133], [13, 14, 71, 75, 76], [96, 97, 98], [30, 74, 75, 96, 160, 161], [16, 17, 135], [95, 96, 97, 98, 99], [26, 27, 71, 75, 94, 95, 96, 98, 99]]
+semantic nodes: [97, 17, 21, 13, 32]
+nodes prior to bespoke: [133, 135, 13, 14, 16, 17, 21, 27, 32, 54, 56, 57, 71, 75, 95, 96, 97, 98, 99, 105]
+node[96] accepted
+nodes after bespoke: [96]
+#chunks: 185
+Row 46:
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC
+Human Answer: Jensen could not get a hold of all the sales people because they had been ignoring him (Nvidia was not doing well at this point in time.
+Generated Answer: Jensen wrote the letter because he couldn't get in touch with Morris Chang through salespeople due to their initial success being ignored by NVIDIA.
+Cosine Similarity: 0.6997764706611633
+
+2024-11-30 07:15:23.507097
+reading peloton
+Chunk total: 188
+word count exceeded: 9
+len(BOW) = 2842
+Question: What was Peloton original price, nq: ['peloton', 'original', 'price']
+q=[[0, 2, 3, 8, 9, 20, 21, 26, 29, 30, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 51, 53, 54, 57, 58, 64, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 86, 87, 89, 90, 91, 97, 98, 100, 101, 102, 103, 105, 106, 107, 108, 111, 112, 116, 117, 119, 120, 121, 122, 123, 127, 128, 130, 131, 137, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 163, 164, 165, 166, 167, 168, 169, 178, 182], [22, 44, 45, 47, 107, 110, 111, 113, 114, 116, 117], [26, 28, 51, 55, 56, 58, 59, 60, 61, 81, 84, 87, 95, 96, 107, 108, 113, 114, 115, 116, 121, 122, 126, 127, 128, 142, 146, 153, 154, 157, 158]]
+semantic nodes: [51, 157, 112, 128, 73]
+nodes prior to bespoke: [0, 2, 3, 8, 9, 20, 21, 22, 26, 28, 29, 30, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 51, 53, 54, 55, 56, 57, 58, 59, 60, 61, 64, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 84, 86, 87, 89, 90, 91, 95, 96, 97, 98, 100, 101, 102, 103, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 117, 119, 120, 121, 122, 123, 126, 127, 128, 130, 131, 137, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 163, 164, 165, 166, 167, 168, 169, 178, 182]
+node[59] accepted
+node[60] accepted
+node[84] accepted
+node[107] accepted
+node[114] accepted
+node[157] accepted
+nodes after bespoke: [59, 60, 84, 107, 114, 157]
+#chunks: 188
+Row 47:
+Question: What was Peloton original price
+Human Answer: $1,200.00
+Generated Answer: The original price of the bike mentioned in the conversation is $2245.
+Cosine Similarity: 0.46400582790374756
+
+2024-11-30 07:51:36.014264
+Question: How much stock did John Foley had in Peloton in 2022, nq: ['much', 'stock', 'john', 'foley', 'peloton', '2022']
+q=[[8, 11, 12, 25, 26, 30, 31, 35, 44, 57, 78, 80, 90, 99, 100, 101, 102, 108, 109, 110, 124, 134, 135, 139, 144, 145, 146, 148, 150, 157, 158, 159, 168, 169, 170, 182], [0, 1, 25, 26, 28, 29, 99, 118, 119, 121, 122, 130, 131, 153, 154, 168, 185, 186], [1, 2, 34, 35, 36, 37, 38, 41, 42, 43, 47, 48, 53, 67, 124, 128, 129, 130, 131, 137, 138, 139, 153, 154, 168], [1, 2, 34, 35, 36, 41, 42, 43, 44, 46, 47, 67, 124, 128, 129, 130, 131, 138, 139, 147, 153, 154, 168], [0, 2, 3, 8, 9, 20, 21, 26, 29, 30, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 51, 53, 54, 57, 58, 64, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 86, 87, 89, 90, 91, 97, 98, 100, 101, 102, 103, 105, 106, 107, 108, 111, 112, 116, 117, 119, 120, 121, 122, 123, 127, 128, 130, 131, 137, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 163, 164, 165, 166, 167, 168, 169, 178, 182], [128]]
+semantic nodes: [47, 43, 154, 128, 35]
+nodes prior to bespoke: [128, 0, 1, 2, 129, 130, 131, 8, 137, 138, 139, 144, 145, 146, 147, 148, 150, 25, 26, 154, 153, 29, 30, 157, 158, 159, 34, 35, 36, 38, 168, 41, 42, 43, 44, 169, 46, 47, 53, 182, 57, 67, 78, 80, 90, 99, 100, 101, 102, 108, 119, 121, 122, 124]
+node[130] accepted
+node[154] accepted
+nodes after bespoke: [130, 154]
+#chunks: 188
+Row 48:
+Question: How much stock did John Foley had in Peloton in 2022
+Human Answer:  39.6%, so right around 40%,
+Generated Answer: According to Chunk 0, as of the proxy statement, John Foley controls approximately 39.6% (or around 40%) of the voting power of Peloton's stock.
+Cosine Similarity: 0.38527345657348633
+
+2024-11-30 08:09:44.445703
+reading the_nba
+Chunk total: 261
+word count exceeded: 3
+len(BOW) = 3460
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?, nq: ['percentage', 'nba', 'league', 'revenue', 'since', '1983', 'contractually', 'going', 'players']
+q=[[116, 117], [1, 2, 3, 9, 12, 13, 20, 25, 26, 27, 28, 31, 32, 33, 34, 36, 37, 38, 39, 41, 44, 50, 51, 53, 54, 55, 56, 57, 58, 59, 60, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 93, 94, 95, 101, 102, 104, 106, 107, 108, 109, 110, 118, 120, 121, 123, 124, 126, 127, 128, 129, 131, 132, 133, 134, 135, 136, 137, 139, 140, 141, 142, 143, 146, 147, 148, 149, 150, 151, 152, 153, 154, 159, 160, 161, 162, 163, 164, 166, 170, 171, 172, 173, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 187, 188, 189, 191, 195, 198, 199, 200, 201, 202, 203, 206, 207, 208, 209, 211, 213, 215, 217, 219, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 242, 243, 246, 256, 258], [12, 13, 25, 26, 28, 29, 30, 32, 33, 34, 35, 36, 39, 40, 50, 55, 56, 57, 58, 59, 60, 67, 82, 83, 85, 87, 88, 91, 94, 95, 96, 100, 101, 102, 103, 104, 105, 109, 111, 125, 127, 129, 131, 132, 133, 134, 139, 140, 143, 144, 145, 146, 147, 149, 150, 153, 154, 158, 161, 162, 163, 170, 171, 172, 173, 174, 176, 177, 179, 180, 183, 184, 188, 189, 190, 191, 192, 193, 194, 196, 197, 198, 202, 209, 213, 214, 216, 217, 221, 222, 225, 228, 229, 242, 243], [59, 84, 85, 96, 99, 100, 101, 102, 103, 117, 146, 147, 160, 161, 179, 180, 187, 188, 189, 191, 192, 193, 194, 195, 196, 197, 201, 213, 214, 220, 237, 238, 242, 243], [157, 189], [95, 100, 102, 103, 120, 189], [96, 189], [0, 2, 3, 6, 7, 8, 11, 12, 13, 15, 16, 17, 19, 20, 22, 23, 29, 43, 44, 45, 56, 60, 61, 62, 65, 66, 67, 71, 72, 81, 83, 84, 85, 91, 93, 95, 96, 98, 107, 108, 112, 113, 114, 115, 116, 117, 120, 121, 134, 135, 136, 137, 144, 145, 146, 147, 148, 152, 153, 158, 159, 160, 167, 171, 172, 175, 180, 184, 187, 188, 189, 190, 191, 192, 194, 195, 197, 210, 211, 213, 217, 219, 225, 230, 231, 232, 233, 235, 236, 239, 240, 241, 242, 243, 244, 245, 246, 255, 256, 257, 258], [16, 21, 22, 33, 34, 53, 54, 55, 56, 57, 58, 59, 65, 66, 71, 73, 74, 76, 88, 95, 96, 97, 103, 104, 106, 107, 108, 109, 118, 119, 120, 130, 131, 132, 133, 135, 136, 142, 143, 144, 163, 164, 166, 168, 170, 171, 175, 177, 181, 182, 189, 190, 209, 217, 221, 223, 224, 228, 237, 238, 240, 241]]
+semantic nodes: [101, 189, 100, 85, 58]
+nodes prior to bespoke: [2, 3, 12, 13, 16, 20, 22, 25, 26, 28, 29, 32, 33, 34, 36, 39, 44, 50, 53, 54, 55, 56, 57, 58, 59, 60, 62, 65, 66, 67, 71, 72, 73, 74, 76, 82, 83, 84, 85, 87, 88, 91, 93, 94, 95, 96, 100, 101, 102, 103, 104, 106, 107, 108, 109, 116, 117, 118, 120, 121, 127, 129, 131, 132, 133, 134, 135, 136, 137, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 152, 153, 154, 157, 158, 159, 160, 161, 162, 163, 164, 166, 170, 171, 172, 173, 175, 176, 177, 179, 180, 181, 182, 183, 184, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 201, 202, 209, 211, 213, 214, 217, 219, 221, 222, 223, 224, 225, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 240, 241, 242, 243, 246, 256, 258]
+node[95] accepted
+node[189] accepted
+nodes after bespoke: [95, 189]
+#chunks: 261
+Row 49:
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?
+Human Answer: 50%
+Generated Answer: Since 1983, around 50% of the NBA's revenue has been contractually going to players.
+Cosine Similarity: 0.32738643884658813
+
+2024-11-30 08:52:34.281572
+reading ethereum_with_packy_mccormick
+Chunk total: 269
+word count exceeded: 9
+len(BOW) = 3266
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?, nq: ['analogy', 'podcast', 'bitcoin', 'calculator', 'lets', 'build', 'computer']
+q=[[49, 58, 60, 103, 201, 202, 207, 216, 217, 231, 232], [0, 158, 159, 180], [1, 2, 8, 9, 10, 11, 12, 14, 15, 24, 25, 26, 27, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 43, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 66, 67, 68, 69, 73, 77, 78, 79, 86, 87, 88, 92, 93, 116, 117, 119, 120, 122, 123, 167, 170, 173, 174, 185, 192, 194, 212, 213, 218, 219, 220, 221, 222, 230, 231, 232, 233, 234, 235, 236, 237, 247, 248, 254], [58, 59, 68, 69], [24, 33, 42, 43, 59, 72, 90, 91, 93, 94, 116, 117, 141, 142, 146, 155, 162, 164, 175, 199, 200, 204, 212, 213, 229, 241, 242, 243, 244, 262], [4, 5, 43, 44, 49, 50, 51, 59, 60, 61, 76, 77, 90, 92, 93, 97, 119, 120, 147, 203, 216, 217, 224, 227, 237, 240, 242], [2, 3, 15, 20, 21, 26, 36, 37, 38, 52, 58, 59, 61, 68, 69, 71, 72, 74, 75, 76, 77, 82, 99, 100, 117, 121, 147, 148, 152, 153, 154, 171, 172, 173, 179, 192, 207, 218, 238, 248, 249]]
+semantic nodes: [207, 77, 67, 60, 49]
+nodes prior to bespoke: [2, 15, 147, 24, 26, 33, 36, 37, 38, 43, 173, 49, 50, 51, 52, 58, 59, 60, 61, 192, 67, 68, 69, 72, 76, 77, 207, 212, 213, 216, 217, 90, 218, 92, 93, 248, 231, 232, 237, 242, 116, 117, 119, 120]
+node[59] accepted
+nodes after bespoke: [59]
+#chunks: 269
+Row 50:
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?
+Human Answer: It's like someone handed you a Macintosh without Mac OS for it. What you said was, well, I'm going to start building Slack or I'm going to start building Chrome or Photoshop. Then somebody proposes to you, whoa, instead of just building Photoshop, build Mac OS.
+Generated Answer: The analogy is that Bitcoin is like a simple calculator (a basic set of instructions), and building a general-purpose computer would be like taking it to the next level by creating an even more abstract and versatile foundation.
+Cosine Similarity: 0.4661167860031128
+
+2024-11-30 09:07:22.655662
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?, nq: ['connection', 'vitalik', 'year', '1994', 'parents', 'condition', 'russia', 'time']
+q=[[74, 75, 202], [13, 14, 15, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 30, 34, 35, 36, 37, 38, 41, 42, 43, 45, 46, 47, 48, 49, 50, 56, 57, 61, 63, 64, 65, 66, 69, 75, 76, 77, 78, 82, 83, 84, 87, 88, 91, 93, 96, 97, 103, 107, 108, 109, 119, 137, 138, 140, 145, 146, 147, 148, 151, 152, 156, 157, 158, 159, 199, 200, 220, 221, 226, 227, 249, 250, 251, 252], [3, 4, 19, 20, 30, 31, 38, 39, 45, 46, 47, 75, 82, 86, 87, 114, 115, 121, 122, 124, 171, 176, 177, 218, 245, 250, 251, 253, 260], [15, 16, 17], [16, 17, 18, 19, 20, 21, 22, 23, 24], [15, 16, 17, 18, 21], [2, 3, 9, 11, 14, 17, 18, 19, 20, 21, 25, 28, 33, 34, 36, 37, 38, 39, 44, 45, 46, 48, 74, 81, 84, 85, 93, 94, 95, 96, 109, 110, 113, 123, 124, 125, 126, 129, 130, 132, 133, 134, 135, 153, 160, 161, 167, 176, 177, 178, 179, 197, 199, 201, 207, 208, 221, 226, 227, 233, 239, 240, 245, 246, 249, 250, 253, 254, 255, 256, 257, 258, 261, 264, 265]]
+semantic nodes: [17, 18, 21, 15, 45]
+nodes prior to bespoke: [3, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 28, 30, 34, 36, 37, 38, 39, 45, 46, 47, 48, 176, 177, 199, 74, 75, 202, 82, 84, 87, 93, 221, 96, 226, 227, 109, 245, 249, 250, 251, 124, 253]
+node[17] accepted
+nodes after bespoke: [17]
+#chunks: 269
+Row 51:
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?       
+Human Answer: Vitalik was born in 1994. His parents were young and very unprepared. Russia at the time was in total shambles. The Soviet Union had collapsed a couple years before, there's hyperinflation like double digits per month inflation. People are losing everything. There's a depression, people are starving.
+Generated Answer: Vitalik, whose full name is Vitaly Vadimovich Buterin, was born in 1994. His parents were young and unprepared at the time of his birth, and they got divorced shortly after. In 1994, Russia was experiencing hyperinflation (double-digit monthly inflation), a depression, and widespread poverty due to the collapse of the Soviet Union.
+Cosine Similarity: 0.7812778949737549
+
+2024-11-30 09:21:21.349567
+Question: What was argument before Vtalik's presentation in Miami?, nq: ['argument', 'vtaliks', 'presentation', 'miami']
+q=[[3, 90, 91, 98, 101, 102, 228, 229], [90, 91], [86, 87, 93, 94]]
+semantic nodes: [91, 88, 63, 106, 87]
+nodes prior to bespoke: [98, 3, 228, 101, 102, 229, 106, 86, 87, 88, 90, 91, 93, 94, 63]
+nodes after bespoke: [91, 88, 63, 106, 87, 90, 91, 3, 86]
+#chunks: 269
+Row 52:
+Question: What was argument before Vtalik's presentation in Miami?
+Human Answer: Argument between Gavin and Anthony, to include Gavin as co-founder
+Generated Answer: Gavin and Anthony had a big argument at the house before Vitalik's presentation in Miami.
+Cosine Similarity: 0.5602044463157654
+
+2024-11-30 09:27:55.134109
+reading nvidia_part_ii_the_machine_learning_company_20062022
+Chunk total: 198
+word count exceeded: 10
+len(BOW) = 2784
+Question: what was the worst stock price percentage down in a day for NVIDIA ?, nq: ['worst', 'stock', 'price', 'percentage', 'day', 'nvidia']
+q=[[8, 9, 15, 31, 32, 33, 58, 59, 77, 78, 80, 89, 90, 118, 119, 186], [91, 118, 119, 122, 123, 124, 179, 180], [62, 63, 64, 65], [8, 9, 13, 14, 32, 36, 50, 51, 68, 69, 90, 118, 119, 120, 124, 125, 138, 139], [0, 1, 2, 8, 9, 12, 13, 14, 16, 17, 20, 22, 23, 24, 25, 26, 29, 30, 31, 33, 36, 41, 42, 44, 45, 46, 47, 48, 50, 51, 56, 57, 58, 64, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 88, 89, 92, 95, 96, 98, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115, 116, 118, 119, 121, 122, 126, 127, 128, 129, 130, 131, 132, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 164, 165, 166, 167, 168, 171, 172, 173, 174, 180, 181, 182, 183, 187]]
+semantic nodes: [32, 92, 57, 33, 77]
+nodes prior to bespoke: [0, 1, 2, 8, 9, 12, 13, 14, 15, 16, 17, 20, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 36, 41, 42, 44, 45, 46, 47, 48, 50, 51, 56, 57, 58, 59, 62, 63, 64, 65, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 95, 96, 98, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 164, 165, 166, 167, 168, 171, 172, 173, 174, 179, 180, 181, 182, 183, 186, 187]
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+2024-11-30 09:27:55.134109
+reading nvidia_part_ii_the_machine_learning_company_20062022
+Chunk total: 198
+word count exceeded: 10
+len(BOW) = 2784
+Question: what was the worst stock price percentage down in a day for NVIDIA ?, nq: ['worst', 'stock', 'price', 'percentage', 'day', 'nvidia']
+q=[[8, 9, 15, 31, 32, 33, 58, 59, 77, 78, 80, 89, 90, 118, 119, 186], [91, 118, 119, 122, 123, 124, 179, 180], [62, 63, 64, 65], [8, 9, 13, 14, 32, 36, 50, 51, 68, 69, 90, 118, 119, 120, 124, 125, 138, 139], [0, 1, 2, 8, 9, 12, 13, 14, 16, 17, 20, 22, 23, 24, 25, 26, 29, 30, 31, 33, 36, 41, 42, 44, 45, 46, 47, 48, 50, 51, 56, 57, 58, 64, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 88, 89, 92, 95, 96, 98, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115, 116, 118, 119, 121, 122, 126, 127, 128, 129, 130, 131, 132, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 164, 165, 166, 167, 168, 171, 172, 173, 174, 180, 181, 182, 183, 187]]
+semantic nodes: [32, 92, 57, 33, 77]
+nodes prior to bespoke: [0, 1, 2, 8, 9, 12, 13, 14, 15, 16, 17, 20, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 36, 41, 42, 44, 45, 46, 47, 48, 50, 51, 56, 57, 58, 59, 62, 63, 64, 65, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 95, 96, 98, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 164, 165, 166, 167, 168, 171, 172, 173, 174, 179, 180, 181, 182, 183, 186, 187]
+nodes after bespoke: [32, 92, 57, 33, 77, 118, 119, 8, 9]
+#chunks: 198
+Row 53:
+Question: what was the worst stock price percentage down in a day for NVIDIA ?
+Human Answer: 80% in a day for Nvidia
+Generated Answer: The worst stock price percentage drop in a day for NVIDIA was 80%.
+Cosine Similarity: 0.6665990948677063
+
+2024-11-30 10:07:25.646028
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?, nq: ['2012', 'competition', 'imagenet', 'database', 'error', 'rate', 'compared', 'others', 'competition']
+q=[[46, 64, 65, 69, 77, 78, 79, 166], [62, 64, 65, 70, 180, 181], [60, 61, 62, 63], [61, 62, 63, 64, 65], [62, 63, 65], [10, 62, 63, 65, 130, 133, 134, 135], [58], [62, 64, 65, 70, 180, 181]]
+semantic nodes: [65, 63, 61, 4, 70]
+nodes prior to bespoke: [64, 65, 4, 70, 180, 181, 58, 61, 62, 63]
+nodes after bespoke: [65, 63, 61, 4, 70, 62, 65, 63, 64]
+#chunks: 198
+Row 54:
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?
+Human Answer: Algorithm Competition, 15% error rate compared to others,  university of Toronto won the competition
+Generated Answer: The ImageNet database competition in 2012 involved a team from the University of Toronto submitting an algorithm that won the competition. The winning team achieved an error rate of over 10% (specifically, around 15%) on the entire image database, which is significantly lower than previous competitors who had error rates ranging from 25-30%.
+Cosine Similarity: 0.615277886390686
+
+2024-11-30 10:13:07.151924
+Question: What is NVIDIA free cash flow in billions  every year? , nq: ['nvidia', 'free', 'cash', 'flow', 'billions', 'every', 'year']
+q=[[0, 1, 2, 8, 9, 12, 13, 14, 16, 17, 20, 22, 23, 24, 25, 26, 29, 30, 31, 33, 36, 41, 42, 44, 45, 46, 47, 48, 50, 51, 56, 57, 58, 64, 68, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 88, 89, 92, 95, 96, 98, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115, 116, 118, 119, 121, 122, 126, 127, 128, 129, 130, 131, 132, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 164, 165, 166, 167, 168, 171, 172, 173, 174, 180, 181, 182, 183, 187], [41, 122, 123, 127], [73, 122, 123, 174], [122, 123], [73], [0, 4, 11, 18, 51, 68, 69, 76, 84, 85, 90, 93, 117, 122, 123, 142, 156, 157, 158, 166, 174, 176, 177], [63, 77, 97, 98, 113, 114, 117, 121, 122, 123, 124, 125, 129, 156, 157, 171, 172, 180]]
+semantic nodes: [174, 160, 122, 129, 92]
+nodes prior to bespoke: [0, 129, 142, 156, 157, 158, 160, 166, 41, 171, 172, 174, 51, 180, 68, 69, 73, 76, 77, 84, 85, 92, 98, 113, 114, 117, 121, 122, 123, 127]
+node[122] accepted
+node[123] accepted
+nodes after bespoke: [122, 123]
+#chunks: 198
+Row 55:
+Question: What is NVIDIA free cash flow in billions  every year?
+Human Answer: NVIDIA generate $8 billion of free cash flow every year
+Generated Answer: NVIDIA generates $8 billion of free cash flow every year.
+Cosine Similarity: 0.9677974581718445
+
+2024-11-30 10:23:23.811463
+reading nvidia_part_iii_the_dawn_of_the_ai_era_20222023
+Chunk total: 238
+word count exceeded: 19
+len(BOW) = 3365
+Question: What is the difference between recurrent neural networks and convolutional neural networks?, nq: ['difference', 'recurrent', 'neural', 'networks', 'convolutional', 'neural', 'networks']
+q=[[34, 43, 50, 51], [13, 14, 33, 34, 43, 50, 51], [13, 33, 34, 43, 50, 51], [13, 14, 34], [13, 14, 33, 34, 43, 50, 51], [13, 33, 34, 43, 50, 51]]
+semantic nodes: [34, 51, 44, 14, 43]
+nodes prior to bespoke: [33, 34, 43, 44, 13, 14, 50, 51]
+node[34] accepted
+nodes after bespoke: [34]
+#chunks: 238
+Row 56:
+Question: What is the difference between recurrent neural networks and convolutional neural networks?
+Human Answer: The state of the art had evolved and RNN is sequential and has very short context window.
+Generated Answer: Recurrent neural networks (RNNs) are designed to handle sequential data, such as text or speech, by maintaining a hidden state that captures information over time. Convolutional neural networks (CNNs), on the other hand, are typically used for image processing tasks and work by scanning an input image with small filters to detect local patterns.
+Cosine Similarity: 0.44482219219207764
+
+2024-11-30 10:28:34.643647
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?, nq: ['jensen', 'huang', 'say', 'stratechery', 'interview', 'march', '2023', 'year', '2022']
+q=[[0, 4, 8, 14, 15, 36, 37, 66, 67, 77, 80, 81, 82, 94, 99, 100, 106, 112, 118, 119, 121, 126, 132, 133, 136, 137, 148, 149, 150, 151, 152, 153, 157, 158, 180, 181, 183, 184, 185, 191, 212, 213, 215, 221], [152], [36, 37, 42, 49, 52, 59, 60, 68, 84, 89, 92, 93, 101, 105, 120, 130, 131, 134, 135, 141, 142, 157, 170, 172, 181, 184, 187, 188, 195, 196, 197, 198, 209, 210, 211, 218, 219, 222, 223], [112, 183], [5, 6, 30, 31, 63, 64, 112, 136, 137, 150, 183], [58, 59, 112, 134], [61, 111, 112, 129, 166, 167], [20, 36, 45, 61, 111, 112, 113, 114, 117, 118, 119, 120, 129, 136, 140, 141, 162, 163, 165, 178, 193, 199, 215, 216, 217, 218, 219, 224], [2, 3, 4, 7, 8, 61, 81, 82, 84, 85, 95, 112, 129, 141]]
+semantic nodes: [112, 8, 2, 151, 7]
+nodes prior to bespoke: [129, 2, 4, 134, 7, 8, 136, 137, 141, 150, 151, 152, 157, 36, 37, 181, 183, 184, 59, 61, 81, 82, 84, 215, 218, 219, 111, 112, 118, 119, 120]
+node[112] accepted
+nodes after bespoke: [112]
+#chunks: 238
+Row 57:
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?
+Human Answer: Jensen said that 2022 was a disappointing year, when Chat GPT was released.
+Generated Answer: Jensen Huang stated that 2022 was "unquestionably a disappointing year" in his Stratechery interview in March 2023.
+Cosine Similarity: 0.6592205762863159
+
+2024-11-30 10:39:45.681422
+Question: What is CUDA's most unique feature?, nq: ['cudas', 'unique', 'feature']
+q=[[14, 98, 99, 147, 148, 202], [63, 64]]
+semantic nodes: [127, 126, 128, 163, 174]
+nodes after bespoke: [127, 126, 128, 163, 174, 14, 63, 64, 98]
+#chunks: 238
+Row 58:
+Question: What is CUDA's most unique feature?
+Human Answer: CUDA has a unified interface which is incredibly flexible and well-supported by a huge community.
+Generated Answer: CUDA's most unique feature is its ability to provide a unified interface for developers to work with Nvidia hardware. It allows developers to write code in C++ and have it run well on Nvidia hardware without needing to reinvent the wheel, thanks to many layers of abstractions and existing libraries that are optimized.
+Cosine Similarity: 0.712058961391449
+
+2024-11-30 10:46:04.619850
+reading bitcoin
+Chunk total: 275
+word count exceeded: 14
+len(BOW) = 3599
+Question: Where did the issuance of the first banknotes originate?, nq: ['issuance', 'first', 'banknotes', 'originate']
+q=[[0, 1, 28, 35, 36, 52, 54, 55, 56, 57, 60, 61, 63, 66, 69, 70, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 86, 87, 88, 92, 119, 122, 123, 144, 145, 146, 149, 170, 181, 224, 225, 229, 231, 232, 235, 236, 249, 262, 274], [23, 24, 27]]
+semantic nodes: [23, 22, 24, 61, 74]
+nodes prior to bespoke: [0, 1, 262, 144, 145, 146, 274, 149, 22, 23, 24, 27, 28, 35, 36, 170, 52, 181, 54, 55, 56, 57, 60, 61, 63, 66, 69, 70, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 86, 87, 88, 92, 224, 225, 229, 231, 232, 235, 236, 119, 249, 122, 123]
+node[23] accepted
+nodes after bespoke: [23]
+#chunks: 275
+Row 59:
+Question: Where did the issuance of the first banknotes originate?
+Human Answer: England
+Generated Answer: The issuance of the first banknotes originated in England in the late 1600s.
+Cosine Similarity: 0.23672418296337128
+
+2024-11-30 11:03:16.685381
+Question: what happen on 2013 in relation to bitcoin , nq: ['happen', '2013', 'relation', 'bitcoin']
+q=[[11, 17, 22, 29, 54, 55, 57, 58, 70, 71, 82, 83, 103, 104, 117, 118, 126, 133, 134, 217, 225, 228, 232, 264, 265, 270], [96, 108, 122, 123, 124, 142, 217], [1, 2, 3, 4, 8, 9, 19, 38, 42, 43, 44, 47, 48, 50, 51, 52, 53, 54, 55, 58, 59, 61, 62, 63, 67, 68, 74, 75, 76, 77, 78, 80, 84, 85, 86, 87, 88, 89, 92, 94, 95, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 115, 116, 117, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 135, 136, 139, 140, 141, 142, 144, 145, 146, 147, 149, 152, 153, 154, 155, 158, 159, 160, 161, 162, 166, 167, 168, 169, 170, 171, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 192, 193, 199, 200, 201, 203, 206, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 235, 236, 239, 240, 241, 242, 245, 247, 249, 250, 253, 254, 255, 260, 262, 263, 265, 266, 267, 268]]
+semantic nodes: [217, 43, 142, 154, 86]
+nodes prior to bespoke: [1, 2, 3, 4, 8, 9, 11, 17, 19, 22, 29, 38, 42, 43, 44, 47, 48, 50, 51, 52, 53, 54, 55, 57, 58, 59, 61, 62, 63, 67, 68, 70, 71, 74, 75, 76, 77, 78, 80, 82, 83, 84, 85, 86, 87, 88, 89, 92, 94, 95, 96, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 115, 116, 117, 118, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 133, 134, 135, 136, 139, 140, 141, 142, 144, 145, 146, 147, 149, 152, 153, 154, 155, 158, 159, 160, 161, 162, 166, 167, 168, 169, 170, 171, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 192, 193, 199, 200, 201, 203, 206, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 232, 235, 236, 239, 240, 241, 242, 245, 247, 249, 250, 253, 254, 255, 260, 262, 263, 264, 265, 266, 267, 268, 270]
+node[102] accepted
+node[122] accepted
+node[123] accepted
+node[124] accepted
+node[126] accepted
+node[142] accepted
+node[217] accepted
+node[265] accepted
+nodes after bespoke: [102, 122, 123, 124, 126, 142, 217, 265]
+#chunks: 275
+Row 60:
+Question: what happen on 2013 in relation to bitcoin
+Human Answer: Ross Ulbricht was Arrested
+Generated Answer: In 2013, several significant events occurred related to Bitcoin:
+
+1. Mt. Gox, a major Bitcoin exchange, started its death spiral due to overwhelming volume and technical issues.
+2. The price of Bitcoin crashed by 50% in April 2013.
+3. Mt. Gox suspended withdrawals in US dollars in June 2013.
+4. In February 2014, Mt. Gox filed for bankruptcy and permanently lost around 750,000 client Bitcoins.
+
+Despite these challenges, the year also saw significant growth in Bitcoin's price, with the exchange rate increasing from $13 at the start of 2013 to
+Cosine Similarity: 0.10469622910022736
+
+2024-11-30 11:51:44.231754
+Question: does bitcoin have a higher appreciation per year as compared to gold?, nq: ['bitcoin', 'higher', 'appreciation', 'per', 'year', 'compared', 'gold']
+q=[[1, 2, 3, 4, 8, 9, 19, 38, 42, 43, 44, 47, 48, 50, 51, 52, 53, 54, 55, 58, 59, 61, 62, 63, 67, 68, 74, 75, 76, 77, 78, 80, 84, 85, 86, 87, 88, 89, 92, 94, 95, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 115, 116, 117, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 135, 136, 139, 140, 141, 142, 144, 145, 146, 147, 149, 152, 153, 154, 155, 158, 159, 160, 161, 162, 166, 167, 168, 169, 170, 171, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 192, 193, 199, 200, 201, 203, 206, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 235, 236, 239, 240, 241, 242, 245, 247, 249, 250, 253, 254, 255, 260, 262, 263, 265, 266, 267, 268], [30, 31, 141, 142, 164, 178, 179, 254, 258], [142, 143], [1, 78, 84, 85, 86, 141, 142, 144, 154, 155, 159, 160, 161, 181, 191, 192, 220, 221, 241, 242], [5, 40, 57, 76, 86, 87, 120, 121, 122, 142, 143, 152, 220, 221, 236, 237, 241, 242, 261], [185, 202, 239, 240, 259, 260], [23, 24, 36, 47, 48, 185, 186, 187, 209, 210, 211, 218, 219, 220, 221, 258, 259, 262, 263, 264, 269, 270, 271]]
+semantic nodes: [221, 219, 259, 210, 264]
+nodes prior to bespoke: [1, 258, 259, 260, 262, 263, 264, 141, 142, 143, 144, 152, 154, 155, 159, 160, 161, 47, 48, 178, 179, 181, 185, 186, 192, 76, 78, 209, 210, 211, 84, 85, 86, 87, 218, 219, 220, 221, 236, 239, 240, 241, 242, 120, 121, 122, 254]
+nodes after bespoke: [221, 219, 259, 210, 264, 142, 220, 221, 86]
+#chunks: 275
+Row 61:
+Question: does bitcoin have a higher appreciation per year as compared to gold?
+Human Answer: yes
+Generated Answer: According to the conversation, Bitcoin's money supply increase is around 1%, whereas gold's is around 1.5%. This suggests that Bitcoin has a lower appreciation rate per year compared to gold.
+Cosine Similarity: -0.07747787237167358
+
+2024-11-30 12:06:18.191352
+Question: how did Winklevoss brother changed the bitcoin market , nq: ['winklevoss', 'brother', 'changed', 'bitcoin', 'market']
+q=[[134, 135, 187, 262], [134, 135], [1, 2, 3, 4, 8, 9, 19, 38, 42, 43, 44, 47, 48, 50, 51, 52, 53, 54, 55, 58, 59, 61, 62, 63, 67, 68, 74, 75, 76, 77, 78, 80, 84, 85, 86, 87, 88, 89, 92, 94, 95, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 115, 116, 117, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 135, 136, 139, 140, 141, 142, 144, 145, 146, 147, 149, 152, 153, 154, 155, 158, 159, 160, 161, 162, 166, 167, 168, 169, 170, 171, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 192, 193, 199, 200, 201, 203, 206, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 235, 236, 239, 240, 241, 242, 245, 247, 249, 250, 253, 254, 255, 260, 262, 263, 265, 266, 267, 268], [85, 86, 87, 88, 123, 139, 140, 145, 146, 172, 183, 184, 208, 262, 263, 264]]
+semantic nodes: [135, 134, 262, 86, 203]
+nodes prior to bespoke: [1, 2, 3, 4, 8, 9, 19, 38, 42, 43, 44, 47, 48, 50, 51, 52, 53, 54, 55, 58, 59, 61, 62, 63, 67, 68, 74, 75, 76, 77, 78, 80, 84, 85, 86, 87, 88, 89, 92, 94, 95, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 115, 116, 117, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 134, 135, 136, 139, 140, 141, 142, 144, 145, 146, 147, 149, 152, 153, 154, 155, 158, 159, 160, 161, 162, 166, 167, 168, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 192, 193, 199, 200, 201, 203, 206, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 235, 236, 239, 240, 241, 242, 245, 247, 249, 250, 253, 254, 255, 260, 262, 263, 264, 265, 266, 267, 268]
+node[140] accepted
+nodes after bespoke: [140]
+#chunks: 275
+Row 62:
+Question: how did Winklevoss brother changed the bitcoin market
+Human Answer: They Investemented hiked up the bitcoin value and attracted traditional financial markets, increasing its legitimacy and accessibility
+Generated Answer: The Winklevoss brothers started buying Bitcoin in 2012 at around $10 per coin. They accumulated over 100,000 Bitcoins for under $10 million (1% of all outstanding Bitcoins at the time). This early investment and their subsequent efforts to build a regulated exchange, Gemini, helped pave the way for institutional involvement in the market.
+Cosine Similarity: 0.45942920446395874
+
+2024-11-30 12:51:32.490946
+reading berkshire_hathaway_part_i
+Chunk total: 280
+word count exceeded: 8
+len(BOW) = 3600
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?, nq: ['february', '1967', 'warren', 'buffet', 'decide', 'transform', 'berkshire', 'insurance', 'company', 'much', 'time', 'take', 'warrne', 'buffet', 'work', 'deal']
+q=[[213], [192, 193, 194, 213, 222, 223, 226], [2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 25, 26, 32, 33, 35, 37, 38, 40, 41, 42, 50, 53, 55, 56, 58, 60, 61, 62, 63, 64, 66, 67, 69, 71, 72, 74, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 93, 98, 105, 108, 111, 112, 113, 114, 115, 119, 120, 121, 122, 124, 125, 126, 127, 128, 130, 134, 142, 144, 145, 146, 147, 148, 150, 151, 153, 156, 170, 178, 179, 180, 181, 182, 183, 184, 189, 190, 193, 196, 197, 198, 199, 201, 202, 203, 204, 211, 213, 214, 215, 216, 217, 220, 221, 223, 224, 228, 229, 230, 232, 233, 237, 240, 241, 242, 245, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 269, 270, 276, 277], [62, 178, 179, 181, 199, 268], [47, 48, 104, 105, 234, 235], [205, 214], [1, 2, 3, 4, 5, 12, 13, 14, 15, 17, 18, 21, 97, 152, 170, 171, 174, 182, 183, 186, 187, 188, 189, 199, 200, 201, 204, 205, 211, 214, 215, 216, 217, 218, 219, 228, 234, 235, 236, 237, 240, 247, 253, 256, 260, 261, 262, 269, 271, 272, 275, 276, 278], [14, 15, 20, 21, 22, 30, 85, 86, 88, 89, 91, 92, 93, 95, 96, 97, 98, 116, 157, 188, 201, 202, 205, 206, 207, 208, 209, 210, 214, 215, 216, 217, 221, 222, 225, 256], [1, 2, 3, 12, 17, 18, 25, 54, 55, 79, 85, 86, 87, 89, 90, 96, 101, 102, 116, 148, 149, 159, 160, 161, 166, 167, 170, 171, 173, 178, 179, 182, 183, 184, 186, 188, 193, 197, 198, 203, 205, 206, 208, 209, 213, 214, 216, 218, 219, 221, 222, 234, 242, 243, 244, 245, 256, 266, 271], [2, 3, 4, 12, 27, 28, 30, 31, 39, 42, 43, 44, 45, 46, 50, 51, 61, 64, 65, 66, 67, 75, 95, 96, 97, 106, 123, 124, 125, 126, 131, 137, 138, 161, 178, 192, 193, 206, 215, 216, 226, 227, 228, 230, 231, 235, 237, 238, 240, 242, 243, 246, 250, 253, 259, 262, 266, 272, 273, 278, 279], [13, 14, 15, 16, 17, 19, 20, 37, 38, 40, 41, 46, 50, 51, 60, 66, 67, 74, 75, 76, 80, 81, 83, 84, 85, 86, 87, 88, 94, 95, 107, 108, 109, 112, 127, 128, 137, 143, 156, 157, 166, 167, 169, 170, 176, 177, 181, 190, 194, 212, 215, 216, 222, 224, 225, 226, 232, 233, 245, 246, 247, 248, 251, 252, 265, 266, 267, 268, 269, 270, 272, 279], [57, 58, 63, 71, 72, 80, 92, 93, 94, 95, 109, 110, 144, 145, 146, 151, 159, 160, 161, 174, 189, 190, 191, 217, 228, 237, 239, 240, 262, 269], [62, 178, 179, 181, 199, 268], [44, 45, 54, 60, 61, 68, 70, 74, 75, 89, 91, 92, 108, 109, 113, 115, 117, 122, 127, 128, 129, 137, 183, 208, 211, 213, 214, 241, 242, 245, 252, 257, 258], [68, 89, 90, 100, 179, 181, 182, 186, 197, 198, 206, 207, 213, 214]]
+semantic nodes: [189, 190, 15, 120, 224]
+nodes prior to bespoke: [2, 3, 4, 12, 14, 15, 17, 50, 60, 61, 62, 66, 67, 74, 75, 80, 85, 86, 87, 88, 89, 90, 91, 92, 93, 95, 96, 97, 108, 109, 120, 127, 128, 137, 161, 170, 178, 179, 181, 182, 183, 186, 188, 189, 190, 193, 197, 198, 199, 201, 205, 206, 208, 211, 213, 214, 215, 216, 217, 221, 222, 224, 226, 228, 234, 235, 237, 240, 242, 245, 246, 247, 252, 253, 256, 262, 266, 268, 269, 272]
+
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+2024-11-30 12:51:32.490946
+reading berkshire_hathaway_part_i
+Chunk total: 280
+word count exceeded: 8
+len(BOW) = 3600
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?, nq: ['february', '1967', 'warren', 'buffet', 'decide', 'transform', 'berkshire', 'insurance', 'company', 'much', 'time', 'take', 'warrne', 'buffet', 'work', 'deal']
+q=[[213], [192, 193, 194, 213, 222, 223, 226], [2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 25, 26, 32, 33, 35, 37, 38, 40, 41, 42, 50, 53, 55, 56, 58, 60, 61, 62, 63, 64, 66, 67, 69, 71, 72, 74, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 93, 98, 105, 108, 111, 112, 113, 114, 115, 119, 120, 121, 122, 124, 125, 126, 127, 128, 130, 134, 142, 144, 145, 146, 147, 148, 150, 151, 153, 156, 170, 178, 179, 180, 181, 182, 183, 184, 189, 190, 193, 196, 197, 198, 199, 201, 202, 203, 204, 211, 213, 214, 215, 216, 217, 220, 221, 223, 224, 228, 229, 230, 232, 233, 237, 240, 241, 242, 245, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 269, 270, 276, 277], [62, 178, 179, 181, 199, 268], [47, 48, 104, 105, 234, 235], [205, 214], [1, 2, 3, 4, 5, 12, 13, 14, 15, 17, 18, 21, 97, 152, 170, 171, 174, 182, 183, 186, 187, 188, 189, 199, 200, 201, 204, 205, 211, 214, 215, 216, 217, 218, 219, 228, 234, 235, 236, 237, 240, 247, 253, 256, 260, 261, 262, 269, 271, 272, 275, 276, 278], [14, 15, 20, 21, 22, 30, 85, 86, 88, 89, 91, 92, 93, 95, 96, 97, 98, 116, 157, 188, 201, 202, 205, 206, 207, 208, 209, 210, 214, 215, 216, 217, 221, 222, 225, 256], [1, 2, 3, 12, 17, 18, 25, 54, 55, 79, 85, 86, 87, 89, 90, 96, 101, 102, 116, 148, 149, 159, 160, 161, 166, 167, 170, 171, 173, 178, 179, 182, 183, 184, 186, 188, 193, 197, 198, 203, 205, 206, 208, 209, 213, 214, 216, 218, 219, 221, 222, 234, 242, 243, 244, 245, 256, 266, 271], [2, 3, 4, 12, 27, 28, 30, 31, 39, 42, 43, 44, 45, 46, 50, 51, 61, 64, 65, 66, 67, 75, 95, 96, 97, 106, 123, 124, 125, 126, 131, 137, 138, 161, 178, 192, 193, 206, 215, 216, 226, 227, 228, 230, 231, 235, 237, 238, 240, 242, 243, 246, 250, 253, 259, 262, 266, 272, 273, 278, 279], [13, 14, 15, 16, 17, 19, 20, 37, 38, 40, 41, 46, 50, 51, 60, 66, 67, 74, 75, 76, 80, 81, 83, 84, 85, 86, 87, 88, 94, 95, 107, 108, 109, 112, 127, 128, 137, 143, 156, 157, 166, 167, 169, 170, 176, 177, 181, 190, 194, 212, 215, 216, 222, 224, 225, 226, 232, 233, 245, 246, 247, 248, 251, 252, 265, 266, 267, 268, 269, 270, 272, 279], [57, 58, 63, 71, 72, 80, 92, 93, 94, 95, 109, 110, 144, 145, 146, 151, 159, 160, 161, 174, 189, 190, 191, 217, 228, 237, 239, 240, 262, 269], [62, 178, 179, 181, 199, 268], [44, 45, 54, 60, 61, 68, 70, 74, 75, 89, 91, 92, 108, 109, 113, 115, 117, 122, 127, 128, 129, 137, 183, 208, 211, 213, 214, 241, 242, 245, 252, 257, 258], [68, 89, 90, 100, 179, 181, 182, 186, 197, 198, 206, 207, 213, 214]]
+semantic nodes: [189, 190, 15, 120, 224]
+nodes prior to bespoke: [2, 3, 4, 12, 14, 15, 17, 50, 60, 61, 62, 66, 67, 74, 75, 80, 85, 86, 87, 88, 89, 90, 91, 92, 93, 95, 96, 97, 108, 109, 120, 127, 128, 137, 161, 170, 178, 179, 181, 182, 183, 186, 188, 189, 190, 193, 197, 198, 199, 201, 205, 206, 208, 211, 213, 214, 215, 216, 217, 221, 222, 224, 226, 228, 234, 235, 237, 240, 242, 245, 246, 247, 252, 253, 256, 262, 266, 268, 269, 272]
+nodes after bespoke: [189, 190, 15, 120, 224, 214, 213, 216, 178]
+#chunks: 280
+Row 63:
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?
+Human Answer: 15 minutes
+Generated Answer: It took Warren Buffett 15 minutes or less to work out a deal with Ringwalt in February 1967.
+Cosine Similarity: 0.35162901878356934
+
+2024-11-30 13:18:29.638988
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?, nq: ['warren', 'buffet', 'net', 'worth', 'working', 'grahamnewman', 'two', 'years']
+q=[[2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 25, 26, 32, 33, 35, 37, 38, 40, 41, 42, 50, 53, 55, 56, 58, 60, 61, 62, 63, 64, 66, 67, 69, 71, 72, 74, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 93, 98, 105, 108, 111, 112, 113, 114, 115, 119, 120, 121, 122, 124, 125, 126, 127, 128, 130, 134, 142, 144, 145, 146, 147, 148, 150, 151, 153, 156, 170, 178, 179, 180, 181, 182, 183, 184, 189, 190, 193, 196, 197, 198, 199, 201, 202, 203, 204, 211, 213, 214, 215, 216, 217, 220, 221, 223, 224, 228, 229, 230, 232, 233, 237, 240, 241, 242, 245, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 269, 270, 276, 277], [62, 178, 179, 181, 199, 268], [45, 46, 82, 83, 128, 129, 146, 155, 156, 188, 189], [45, 46, 73, 82, 83, 84, 106, 107, 108, 110, 111, 128, 129, 146, 149, 155, 156, 162, 163, 188, 189, 229, 230, 239, 240, 250, 253], [16, 19, 25, 26, 32, 33, 62, 68, 113, 114, 115, 119, 120, 123, 128, 129, 150, 153, 154, 251], [80, 85, 86, 100, 112, 113, 114, 121, 122, 123, 125, 126, 127, 128, 129, 137, 147, 151, 153, 154], [17, 18, 21, 22, 26, 27, 33, 35, 50, 57, 61, 62, 64, 65, 71, 89, 90, 93, 101, 103, 104, 105, 106, 117, 118, 119, 120, 121, 125, 128, 129, 148, 149, 227, 234, 235, 236, 244, 250, 253, 254, 260, 262, 275, 276], [2, 3, 6, 7, 21, 22, 26, 27, 28, 29, 31, 32, 35, 37, 40, 41, 48, 49, 51, 52, 54, 57, 62, 67, 68, 71, 72, 82, 83, 84, 89, 90, 92, 107, 110, 113, 114, 121, 125, 128, 129, 143, 144, 149, 150, 152, 153, 154, 155, 156, 159, 173, 188, 189, 193, 194, 198, 199, 206, 223, 224, 225, 226, 233, 238, 239, 240, 247, 248, 250, 251, 264, 266, 267]]
+semantic nodes: [189, 129, 120, 147, 230]
+nodes prior to bespoke: [2, 3, 6, 7, 21, 22, 25, 26, 27, 32, 33, 35, 37, 40, 41, 45, 46, 50, 57, 61, 62, 64, 67, 68, 71, 72, 80, 82, 83, 84, 85, 86, 89, 90, 93, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 144, 146, 147, 148, 149, 150, 151, 153, 154, 155, 156, 178, 179, 181, 188, 189, 193, 198, 199, 223, 224, 229, 230, 233, 239, 240, 247, 248, 250, 251, 253, 254, 260, 262, 276]
+node[128] accepted
+node[129] accepted
+nodes after bespoke: [128, 129]
+#chunks: 280
+Row 64:
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?
+Human Answer: $175,000
+Generated Answer: Warren Buffett's net worth was about $175,000 after working at Graham-Newman for two years.
+Cosine Similarity: 0.4172095060348511
+
+2024-11-30 13:45:22.047251
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?, nq: ['day', 'week', 'warren', 'buffet', 'talked', 'lorimer', 'long']
+q=[[4, 24, 42, 45, 50, 61, 62, 83, 92, 96, 99, 100, 101, 103, 104, 105, 144, 145, 148, 149, 153, 189, 190, 207, 218, 230, 231, 252, 253], [273, 274], [2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 25, 26, 32, 33, 35, 37, 38, 40, 41, 42, 50, 53, 55, 56, 58, 60, 61, 62, 63, 64, 66, 67, 69, 71, 72, 74, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 93, 98, 105, 108, 111, 112, 113, 114, 115, 119, 120, 121, 122, 124, 125, 126, 127, 128, 130, 134, 142, 144, 145, 146, 147, 148, 150, 151, 153, 156, 170, 178, 179, 180, 181, 182, 183, 184, 189, 190, 193, 196, 197, 198, 199, 201, 202, 203, 204, 211, 213, 214, 215, 216, 217, 220, 221, 223, 224, 228, 229, 230, 232, 233, 237, 240, 241, 242, 245, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 269, 270, 276, 277], [62, 178, 179, 181, 199, 268], [14, 15, 27, 91, 109, 110, 113, 180, 194, 252], [88, 90, 91, 93, 100], [11, 12, 16, 17, 18, 19, 108, 111, 166, 176, 201, 210, 211, 212, 217, 218, 235, 247, 258]]
+semantic nodes: [15, 181, 120, 88, 230]
+nodes prior to bespoke: [258, 4, 11, 12, 14, 15, 144, 145, 273, 274, 148, 153, 42, 50, 178, 179, 181, 180, 61, 62, 189, 190, 199, 201, 83, 211, 88, 217, 90, 91, 218, 93, 100, 230, 105, 108, 111, 113, 247, 120, 252, 253]
+nodes after bespoke: [15, 181, 120, 88, 230, 62, 91, 252, 4]
+#chunks: 280
+Row 65:
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?
+Human Answer: On Saturday for 4 hours
+Generated Answer: Warren Buffett talked to Lorimer Davidson on a Saturday morning. The exact duration of their conversation was 4 hours.
+Cosine Similarity: 0.30103474855422974
+
+2024-11-30 13:59:44.629782
+reading whatsapp
+Chunk total: 155
+word count exceeded: 6
+len(BOW) = 2522
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?, nq: ['company', 'addition', 'facebook', 'google', 'showed', 'interest', 'whatsapp']
+q=[[0, 5, 6, 13, 14, 16, 18, 19, 20, 22, 23, 24, 35, 36, 37, 43, 55, 70, 71, 72, 73, 75, 76, 77, 86, 87, 91, 92, 96, 97, 100, 101, 107, 108, 121, 134, 137, 138, 140, 141], [1, 2, 18, 19, 20, 21, 22, 23, 42, 71, 73, 74, 80, 82, 83, 84, 85, 86, 91, 92, 93, 94, 95, 96, 97, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 112, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 131, 133, 134, 135, 136, 138, 139, 140, 141, 142], [17, 18, 22, 82, 84, 85, 86, 87, 120, 121, 123, 126, 127, 135, 136], [114], [1, 2, 3, 7, 20, 23, 24, 29, 33, 37, 38, 45, 51, 52, 59, 67, 68, 69, 71, 74, 75, 78, 79, 80, 81, 82, 83, 84, 85, 87, 91, 94, 98, 99, 101, 102, 103, 104, 106, 107, 108, 109, 111, 112, 113, 114, 115, 116, 118, 120, 121, 122, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, 137, 138, 142]]
+semantic nodes: [81, 85, 92, 93, 82]
+nodes prior to bespoke: [0, 1, 2, 3, 5, 6, 7, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 29, 33, 35, 36, 37, 38, 42, 43, 45, 51, 52, 55, 59, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142]
+node[84] accepted
+node[85] accepted
+node[120] accepted
+nodes after bespoke: [84, 85, 120]
+#chunks: 155
+Row 66:
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?
+Human Answer: Tencent
+Generated Answer: Tencent.
+Cosine Similarity: 0.9656577706336975
+
+2024-11-30 14:31:01.784685
+Question: During high school year, which online security community Jan Koum was part of? , nq: ['high', 'school', 'year', 'online', 'security', 'community', 'jan', 'koum', 'part']
+q=[[2, 75, 76, 81, 126, 127], [4, 5, 8, 24], [0, 6, 7, 12, 13, 64, 65, 66, 74, 75, 77, 80, 81, 98, 99, 100, 103, 112, 114, 122, 129, 134, 135], [8, 9], [9, 10, 89], [4, 9, 110, 111], [4, 5, 6, 7, 9, 10, 11, 15, 20, 21, 24, 25, 26, 28, 29, 31, 34, 35, 37, 39, 40, 41, 42, 44, 45, 47, 53, 54, 55, 56, 59, 69, 70, 71, 72, 73, 74, 77, 78, 79, 80, 81, 82, 84, 85, 87, 88, 89, 90, 91, 101, 102, 107, 108, 109, 128, 129, 130], [4, 5], [66, 73, 92, 101]]
+semantic nodes: [10, 5, 9, 71, 21]
+nodes prior to bespoke: [129, 4, 5, 6, 7, 8, 9, 10, 21, 24, 66, 71, 73, 74, 75, 77, 80, 81, 89, 101]
+node[9] accepted
+nodes after bespoke: [9]
+#chunks: 155
+Row 67:
+Question: During high school year, which online security community Jan Koum was part of?
+Human Answer: w00w00
+Generated Answer: Jan Koum joined the online hacker group w00w00 during his high school years.
+Cosine Similarity: 0.32460981607437134
+
+2024-11-30 14:39:13.601453
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?, nq: ['business', 'strategies', 'jan', 'used', 'increase', 'popularity', 'whatsapp', 'product']
+q=[[1, 3, 11, 12, 17, 18, 36, 63, 64, 66, 67, 68, 73, 87, 100, 101, 111, 112, 113, 116, 119, 121, 122, 129, 134], [4, 5, 6, 7, 9, 10, 11, 15, 20, 21, 24, 25, 26, 28, 29, 31, 34, 35, 37, 39, 40, 41, 42, 44, 45, 47, 53, 54, 55, 56, 59, 69, 70, 71, 72, 73, 74, 77, 78, 79, 80, 81, 82, 84, 85, 87, 88, 89, 90, 91, 101, 102, 107, 108, 109, 128, 129, 130], [8, 43, 44, 48, 53, 58, 72, 127, 139], [1, 2, 3, 7, 20, 23, 24, 29, 33, 37, 38, 45, 51, 52, 59, 67, 68, 69, 71, 74, 75, 78, 79, 80, 81, 82, 83, 84, 85, 87, 91, 94, 98, 99, 101, 102, 103, 104, 106, 107, 108, 109, 111, 112, 113, 114, 115, 116, 118, 120, 121, 122, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, 134, 137, 138, 142], [17, 18, 42, 78, 82, 83, 85, 86, 104, 114, 119, 126, 127, 128, 147, 148, 151, 152]]
+semantic nodes: [78, 82, 101, 85, 81]
+nodes prior to bespoke: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 17, 18, 20, 21, 23, 24, 25, 26, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 51, 52, 53, 54, 55, 56, 58, 59, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 94, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 137, 138, 139, 142, 147, 148, 151, 152]
+nodes after bespoke: [78, 82, 101, 85, 81, 78, 82, 85, 87]
+#chunks: 155
+Row 68:
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?
+Human Answer: Changing the app's name was a growth hack to attract new users on a weekly basis, thereby ensuring the app would display as a new app.
+Generated Answer: Unfortunately, Chunk 0 does not provide information on the specific business strategies used by Jan to increase the popularity of WhatsApp. It only mentions that WhatsApp was focused on product and growth, with most usage being international, but it doesn't elaborate on any specific strategies used to boost its popularity.
+Cosine Similarity: 0.17647460103034973
+
+2024-11-30 15:16:02.889081
+reading disney_plus
+Chunk total: 180
+word count exceeded: 15
+len(BOW) = 2767
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming servicQuestion: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?, nq: ['company', 'disney', 'invest', 'eventually', 'purchase', 'technology', 'enable', 'streaming', 'services', 'platform']
+q=[[0, 5, 6, 14, 15, 18, 19, 23, 24, 30, 31, 32, 33, 37, 38, 39, 40, 43, 44, 49, 50, 52, 54, 55, 59, 60, 61, 62, 64, 65, 66, 67, 71, 84, 93, 94, 99, 100, 101, 102, 106, 108, 111, 112, 113, 116, 118, 123, 124, 130, 131, 133, 136, 143, 144, 147, 148, 178, 179], [0, 1, 2, 7, 8, 9, 10, 11, 12, 14, 15, 28, 29, 30, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 81, 82, 83, 84, 89, 90, 92, 93, 96, 97, 98, 99, 100, 101, 102, 104, 105, 106, 107, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 130, 133, 134, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177], [80, 118, 119], [44, 68, 69, 80, 82, 83], [97, 98, 107, 113, 114, 128, 129], [1, 27, 28, 29, 30, 62, 68, 75, 78, 79, 80, 81, 83, 93, 102, 103, 104, 105, 106, 107, 109, 110, 111, 112, 113, 131, 132, 133, 138, 139, 140, 143, 144, 168, 170], [76, 78, 81], [7, 110, 111, 112, 113, 114, 115, 118, 119, 124, 127, 140, 148, 149, 151, 154, 155, 165, 166], [110, 111, 112, 113, 127, 140, 141, 151, 165, 166, 167, 168], [148, 149]]
+semantic nodes: [118, 11, 12, 155, 151]
+nodes prior to bespoke: [0, 1, 7, 11, 12, 14, 15, 28, 29, 30, 37, 38, 39, 40, 43, 44, 49, 50, 52, 54, 55, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 71, 75, 76, 78, 79, 80, 81, 82, 83, 84, 93, 97, 98, 99, 100, 101, 102, 104, 105, 106, 107, 110, 111, 112, 113, 114, 115, 116, 118, 119, 123, 124, 127, 128, 130, 131, 133, 138, 139, 140, 141, 143, 144, 147, 148, 149, 151, 154, 155, 165, 166, 167, 168, 170]
+node[112] accepted
+node[113] accepted
+node[114] accepted
+node[143] accepted
+node[144] accepted
+nodes after bespoke: [112, 113, 114, 143, 144]
+#chunks: 180
+Row 69:
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?
+Human Answer: BAMTech
+Generated Answer: Disney invested in BAMTech, a technology provider specializing in delivering streaming content, and eventually purchased it in 2017 (75% stake) with the remaining 25% held by employee equity and Major League Baseball.   
+Cosine Similarity: 0.6029254198074341
+
+2024-11-30 15:46:51.657556
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?, nq: ['result', 'shareholder', 'confidence', 'bid', 'bob', 'eisner', 'failed', 'disney', 'takeover', 'bid', 'comcast']
+q=[[27, 175], [64, 65, 69, 70], [65, 69, 70], [66, 67, 68, 69, 70, 89, 90, 125, 126], [1, 2, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 23, 24, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 43, 44, 45, 47, 48, 50, 51, 52, 53, 54, 68, 69, 71, 74, 78, 79, 81, 82, 83, 84, 87, 88, 89, 90, 91, 92, 93, 94, 96, 97, 98, 100, 101, 104, 106, 107, 108, 109, 110, 111, 112, 113, 116, 119, 126, 127, 128, 129, 130, 131, 133, 134, 136, 169], [37, 38, 39, 40, 42, 43, 44, 45, 47, 48, 49, 50, 53, 55, 61, 64, 65, 69, 70, 71, 72, 91, 92, 119, 120, 160, 161], [1, 2, 89, 90, 142, 143], [0, 1, 2, 7, 8, 9, 10, 11, 12, 14, 15, 28, 29, 30, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 81, 82, 83, 84, 89, 90, 92, 93, 96, 97, 98, 99, 100, 101, 102, 104, 105, 106, 107, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 130, 133, 134, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177], [40, 41, 66, 67, 68, 69], [66, 67, 68, 69, 70, 89, 90, 125, 126], [1, 2, 11, 12, 65, 66, 67, 68, 69, 89, 90, 108, 125, 128, 129, 147]]
+semantic nodes: [70, 67, 68, 65, 69]
+nodes prior to bespoke: [128, 1, 2, 12, 27, 37, 38, 39, 40, 43, 44, 45, 47, 48, 175, 50, 64, 65, 66, 67, 68, 69, 70, 71, 89, 90, 92, 119, 125, 126]
+nodes after bespoke: [70, 67, 68, 65, 69, 69, 68, 70, 89]
+#chunks: 180
+Row 70:
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?
+Human Answer: 43% No Confidence
+Generated Answer: The result of the shareholder no-confidence bid against Bob Eisner was that 43% of Disney shareholders voted "no confidence" in him at the March 2004 shareholder meeting. This led to the stripping of his chairman title, and he was effectively removed from his position as CEO.
+Cosine Similarity: 0.329490602016449
+
+2024-11-30 15:59:06.552479
+Question: What position did Bob Eisner have and in what company when Disney acquired it?, nq: ['position', 'bob', 'eisner', 'company', 'disney', 'acquired']
+q=[[92], [1, 2, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 23, 24, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 43, 44, 45, 47, 48, 50, 51, 52, 53, 54, 68, 69, 71, 74, 78, 79, 81, 82, 83, 84, 87, 88, 89, 90, 91, 92, 93, 94, 96, 97, 98, 100, 101, 104, 106, 107, 108, 109, 110, 111, 112, 113, 116, 119, 126, 127, 128, 129, 130, 131, 133, 134, 136, 169], [37, 38, 39, 40, 42, 43, 44, 45, 47, 48, 49, 50, 53, 55, 61, 64, 65, 69, 70, 71, 72, 91, 92, 119, 120, 160, 161], [0, 5, 6, 14, 15, 18, 19, 23, 24, 30, 31, 32, 33, 37, 38, 39, 40, 43, 44, 49, 50, 52, 54, 55, 59, 60, 61, 62, 64, 65, 66, 67, 71, 84, 93, 94, 99, 100, 101, 102, 106, 108, 111, 112, 113, 116, 118, 123, 124, 130, 131, 133, 136, 143, 144, 147, 148, 178, 179], [0, 1, 2, 7, 8, 9, 10, 11, 12, 14, 15, 28, 29, 30, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 78, 79, 81, 82, 83, 84, 89, 90, 92, 93, 96, 97, 98, 99, 100, 101, 102, 104, 105, 106, 107, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 130, 133, 134, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177], [1, 6, 8, 9, 10, 11, 26, 27, 29, 30, 45, 55, 67, 129, 130, 161, 177, 178, 179]]
+semantic nodes: [48, 38, 71, 70, 44]
+nodes prior to bespoke: [0, 1, 2, 6, 8, 9, 10, 11, 12, 14, 15, 18, 23, 24, 28, 29, 30, 31, 32, 33, 36, 37, 38, 39, 40, 42, 43, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 78, 79, 81, 82, 83, 84, 89, 90, 91, 92, 93, 94, 96, 97, 98, 99, 100, 101, 102, 104, 106, 107, 108, 111, 112, 113, 116, 118, 119, 120, 123, 124, 126, 127, 128, 129, 130, 131, 133, 134, 136, 143, 144, 147, 148, 160, 161, 169, 177, 178, 179]
+nodes after bespoke: [48, 38, 71, 70, 44, 30, 37, 38, 39]
+#chunks: 180
+Row 71:
+Question: What position did Bob Eisner have and in what company when Disney acquired it?
+Human Answer: COO at Capital Cities
+Generated Answer: Bob Iger had no relation to Michael Eisner. The correct answer is that Bob Iger was the COO of Capital Cities when Disney acquired it, which included ABC and ESPN.
+Cosine Similarity: 0.16761107742786407
+
+2024-11-30 16:34:12.172436
+reading enron
+Chunk total: 333
+word count exceeded: 11
+len(BOW) = 4022
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?, nq: ['jeffrey', 'skilling', 'say', 'dean', 'harvard', 'business', 'school', 'entrance', 'interview']
+q=[[39, 40, 119, 120], [39, 40, 41, 44, 45, 60, 61, 63, 64, 68, 69, 70, 71, 74, 75, 76, 81, 82, 83, 89, 90, 91, 97, 98, 105, 106, 114, 120, 121, 122, 124, 125, 126, 127, 133, 134, 147, 148, 158, 159, 161, 162, 164, 165, 166, 170, 171, 176, 178, 180, 183, 185, 186, 191, 192, 193, 194, 195, 226, 230, 231, 235, 236, 244, 245, 246, 247, 253, 254, 255, 256, 270, 271, 275, 276, 294, 295, 296, 297, 298, 299], [0, 5, 6, 7, 20, 33, 34, 35, 37, 40, 41, 58, 59, 60, 63, 74, 75, 77, 84, 87, 88, 89, 95, 107, 108, 111, 112, 120, 122, 123, 142, 143, 166, 175, 177, 183, 184, 188, 189, 196, 199, 200, 208, 219, 221, 226, 227, 237, 254, 293, 295, 296, 309, 310, 323, 324], [39, 40, 231], [39, 40, 230, 231], [3, 5, 6, 34, 35, 39, 40, 41, 42, 71, 72, 73, 106, 138, 139, 147, 148, 156, 157, 165, 166, 167, 173, 174, 175, 176, 177, 192, 193, 194, 205, 206, 218, 226, 227, 230, 231, 266, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 284, 285, 290, 291, 292, 293, 305, 306, 307, 310, 311], [21, 22, 34, 39, 40, 230, 231, 264, 265, 266], [295]]
+semantic nodes: [40, 71, 69, 178, 254]
+nodes prior to bespoke: [5, 6, 266, 271, 147, 148, 275, 276, 34, 35, 165, 166, 39, 40, 41, 293, 295, 296, 175, 176, 177, 178, 310, 183, 60, 63, 192, 193, 194, 69, 71, 74, 75, 89, 226, 227, 230, 231, 106, 120, 122, 254]
+node[40] accepted
+nodes after bespoke: [40]
+#chunks: 333
+Row 72:
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?
+Human Answer: "I'm fucking smart."
+Generated Answer: Jeffrey Skilling replied to the dean, "I'm effing smart."
+Cosine Similarity: 0.6152377128601074
+
+2024-11-30 16:49:25.173582
+Question: What was the singular condition that Jeffrey Skilling requested before joining Enron?, nq: ['singular', 'condition', 'jeffrey', 'skilling', 'requested', 'joining', 'enron']
+q=[[70, 71], [39, 40, 119, 120], [39, 40, 41, 44, 45, 60, 61, 63, 64, 68, 69, 70, 71, 74, 75, 76, 81, 82, 83, 89, 90, 91, 97, 98, 105, 106, 114, 120, 121, 122, 124, 125, 126, 127, 133, 134, 147, 148, 158, 159, 161, 162, 164, 165, 166, 170, 171, 176, 178, 180, 183, 185, 186, 191, 192, 193, 194, 195, 226, 230, 231, 235, 236, 244, 245, 246, 247, 253, 254, 255, 256, 270, 271, 275, 276, 294, 295, 296, 297, 298, 299], [33, 71, 72], [2, 3, 4, 5, 10, 11, 12, 13, 14, 26, 27, 39, 40, 47, 48, 49, 51, 52, 54, 58, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 95, 97, 98, 105, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 137, 138, 140, 141, 142, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 157, 160, 161, 163, 165, 166, 168, 169, 172, 173, 174, 175, 176, 177, 180, 181, 186, 187, 188, 189, 190, 191, 193, 194, 196, 199, 200, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 213, 214, 215, 217, 218, 220, 221, 222, 223, 225, 226, 230, 231, 232, 234, 235, 236, 237, 238, 239, 240, 252, 253, 257, 258, 259, 260, 261, 263, 267, 268, 269, 270, 271, 272, 275, 276, 277, 280, 282, 294, 295, 296, 299, 300, 301, 302, 303, 308, 309, 312, 313, 314, 315]]
+semantic nodes: [105, 69, 71, 82, 61]
+nodes prior to bespoke: [2, 3, 4, 5, 10, 11, 12, 13, 14, 26, 27, 33, 39, 40, 41, 44, 45, 47, 48, 49, 51, 52, 54, 58, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 74, 75, 76, 77, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 97, 98, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 133, 134, 137, 138, 140, 141, 142, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 180, 181, 183, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 199, 200, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 213, 214, 215, 217, 218, 220, 221, 222, 223, 225, 226, 230, 231, 232, 234, 235, 236, 237, 238, 239, 240, 244, 245, 246, 247, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 263, 267, 268, 269, 270, 271, 272, 275, 276, 277, 280, 282, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 308, 309, 312, 313, 314, 315]
+node[70] accepted
+node[71] accepted
+

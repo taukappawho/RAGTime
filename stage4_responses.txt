@@ -1,0 +1,946 @@
+2024-11-22 15:04:21.815389
+Skipping row 0 due to API error.
+2024-11-22 15:04:57.957159
+2024-11-22 15:36:20.131953
+Row 0:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: Airbnb went public on December 10, 2020, raising over $3.5 billion and initially valued at over $47 billion.
+Cosine Similarity: 0.30967992544174194
+
+2024-11-22 15:41:16.815580
+Row 1:
+Question: Why did Wimdu unlike Airbnb not take off?
+Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
+Generated Answer: Wimdu likely didn't take off because they couldn't replicate the same success as Airbnb. According to Chunk 1, Airbnb has a killer part of their business model and operations that sets them apart from others in the industry. Specifically, their cash flow cycle allows them to hold bookings for up to six months in advance, generating revenue while also providing a safety net during slow periods. This unique approach helped Airbnb gain traction and eventually become a unicorn IPO.
+Cosine Similarity: 0.7140427827835083
+
+2024-11-22 15:46:41.574212
+Row 2:
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb
+Human Answer: Even though both the airline industry and airbnb have a global geographical presence the airline operators working on a global scale have different requirements so do local and regional operators leading to different required infrastructure hence market fragmentation becomes important
+Generated Answer: Market fragmentation works for the airline industry because it creates cornered resources, making it difficult for consumers to switch between airlines. This leads to high switching costs and resource lock-in, which allows airlines to maintain a strong market position despite increased competition. In contrast, Airbnb's business model relies on network effects, but its dual-sided platform makes it easier for users to switch between hosts and guests, reducing the effectiveness of cornered resources as a competitive advantage.
+Cosine Similarity: 0.8287009000778198
+
+2024-11-22 15:51:49.131549
+Row 3:
+Question: How many hot dogs does Costco currently sell per year?
+Human Answer: 130 million
+Generated Answer: Costco sells approximately 130 million hot dogs per year.
+Cosine Similarity: 0.4740339517593384
+
+2024-11-22 15:55:47.236937
+Row 4:
+Question: What store was created as "the price club of hardware stores"?
+Human Answer: Home Depot
+Generated Answer: Home Depot was created as "the Price Club of hardware stores".
+Cosine Similarity: 0.693318247795105
+
+2024-11-22 16:00:27.170631
+stage4/llama3.2:3b/bespoke
+2024-11-22 18:08:45.186246
+Question: When did Airbnb go public, what was the price per share, nq: ['airbnb', 'go', 'public', 'price', 'per', 'share']
+nodes prior to bespoke: [1, 130, 3, 135, 201, 114, 25, 221, 126]
+nodes after bespoke: [1, 130, 3, 135, 201, 114, 25, 221, 126]
+#chunks: 252
+Row 0:
+Question: When did Airbnb go public, what was the price per share
+Human Answer: December 9,2020 at $68 per share
+Generated Answer: Airbnb went public on December 10, 2020, raising over $3.5 billion and initially valued at over $47 billion.
+Cosine Similarity: 0.30967992544174194
+
+2024-11-22 18:13:29.293897
+Question: Why did Wimdu unlike Airbnb not take off?, nq: ['wimdu', 'unlike', 'airbnb', 'take']
+nodes prior to bespoke: [97, 98, 2, 3, 135, 201, 44, 117, 93]
+nodes after bespoke: [97, 98, 2, 3, 135, 201, 44, 117, 93]
+#chunks: 252
+Row 1:
+Question: Why did Wimdu unlike Airbnb not take off?
+Human Answer: Wimdu gragmented the marketed focusing mostly on Europe unlike Airbnb whose market focus was both global and local 
+Generated Answer: Wimdu likely didn't take off because they couldn't replicate the same success as Airbnb. According to Chunk 1, Airbnb has a killer part of their business model and operations that sets them apart from others in the industry. Specifically, their cash flow cycle allows them to hold bookings for up to six months in advance, generating revenue while also providing a safety net during slow periods. This unique approach helped Airbnb gain traction and eventually become a unicorn IPO.
+Cosine Similarity: 0.7140427827835083
+
+2024-11-22 18:18:56.497175
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb, nq: ['market', 'fragmentation', 'work', 'airline', 'industry', 'couldt', 'work', 'airbnb']
+nodes prior to bespoke: [3, 196, 4, 201, 140, 239, 210, 119, 185, 94]
+nodes after bespoke: [3, 196, 4, 201, 140, 239, 210, 119, 185, 94]
+#chunks: 252
+Row 2:
+Question: Why does market fragmentation work for airline industry but could't work for Airbnb
+Human Answer: Even though both the airline industry and airbnb have a global geographical presence the airline operators working on a global scale have different requirements so do local and regional operators leading to different required infrastructure hence market fragmentation becomes important
+Generated Answer: Market fragmentation works for the airline industry because it creates cornered resources, making it difficult for consumers to switch between airlines. This leads to high switching costs and resource lock-in, which allows airlines to maintain a strong market position despite increased competition. In contrast, Airbnb's business model relies on network effects, but its dual-sided platform makes it easier for users to switch between hosts and guests, reducing the effectiveness of cornered resources as a competitive advantage.
+Cosine Similarity: 0.8287009000778198
+
+2024-11-22 18:24:26.703425
+Question: How many hot dogs does Costco currently sell per year?, nq: ['many', 'hot', 'dogs', 'costco', 'currently', 'sell', 'per', 'year']
+nodes prior to bespoke: [4, 5, 6, 81, 82, 83, 213, 89]
+nodes after bespoke: [82]
+#chunks: 296
+Row 3:
+Question: How many hot dogs does Costco currently sell per year?
+Human Answer: 130 million
+Generated Answer: Costco sells approximately 130 million hot dogs per year.
+Cosine Similarity: 0.4740339517593384
+
+2024-11-22 18:28:15.091723
+Question: What store was created as "the price club of hardware stores"?, nq: ['store', 'created', 'price', 'club', 'hardware', 'stores']
+nodes prior to bespoke: [99, 3, 4, 5, 105, 74, 106, 114, 85, 60]
+nodes after bespoke: [99, 3, 4, 5, 105, 74, 106, 114, 85, 60]
+#chunks: 296
+Row 4:
+Question: What store was created as "the price club of hardware stores"?
+Human Answer: Home Depot
+Generated Answer: Home Depot was created as "the Price Club of hardware stores".
+Cosine Similarity: 0.693318247795105
+
+2024-11-22 18:34:19.620500
+Question: How long did it take for Costco to generate 1 billion dollars in revenue?, nq: ['long', 'take', 'costco', 'generate', '1', 'billion', 'dollars', 'revenue']
+nodes prior to bespoke: [193, 195, 4, 5, 242, 218, 190]
+nodes after bespoke: [193, 195, 4, 5, 242, 218, 190]
+#chunks: 296
+Row 5:
+Question: How long did it take for Costco to generate 1 billion dollars in revenue?
+Human Answer: Within 3 years
+Generated Answer: The information provided does not mention how long it took for Costco to generate $1 billion in revenue. It only discusses the company's revenue, sales per store, and other metrics, but does not provide a specific timeline or milestone of reaching $1 billion in revenue.
+Cosine Similarity: 0.16890600323677063
+
+2024-11-22 18:38:01.560501
+Question: What is the New Look?, nq: ['new', 'look']
+nodes prior to bespoke: [1, 2, 15, 17, 18, 22, 25]
+nodes after bespoke: [15, 17, 18]
+#chunks: 318
+Row 6:
+Question: What is the New Look?
+Human Answer: Look that celebrates life again after the WW2 created by Christian Dior house.
+Generated Answer: The New Look was a revolutionary fashion collection introduced by Christian Dior in 1947, characterized by feminine, soft silhouettes with exaggerated features and luxurious fabrics, despite post-war fabric rationing.
+Cosine Similarity: 0.46756458282470703
+
+2024-11-22 18:42:12.286091
+Question: How much money did the Arnaut family offer to buy out the Boussac group?, nq: ['much', 'money', 'arnaut', 'family', 'offer', 'buy', 'boussac', 'group']
+nodes prior to bespoke: [4, 106, 54, 59, 60, 63]
+nodes after bespoke: [54]
+#chunks: 318
+Row 7:
+Question: How much money did the Arnaut family offer to buy out the Boussac group?
+Human Answer: 15 million dollars bid
+Generated Answer: The Arnault family offered $15 million to buy out the Boussac group.
+Cosine Similarity: 0.49025291204452515
+
+2024-11-22 18:46:11.108557
+Question: What is American Crown Jewel?, nq: ['american', 'crown', 'jewel']
+nodes prior to bespoke: [32, 128, 2, 3, 146, 218, 219, 223]
+nodes after bespoke: [32, 128, 2, 3, 146, 218, 219, 223]
+#chunks: 318
+Row 8:
+Question: What is American Crown Jewel?
+Human Answer: Tiffany and Co. brand
+Generated Answer: American Crown Jewel refers to Tiffany & Co., an iconic American luxury company that has been acquired by LVMH, a French conglomerate led by Bernard Arnault.
+Cosine Similarity: 0.6011849641799927
+
+2024-11-22 18:50:30.399969
+Question: According to Information Theory, what is the importance of knowing what message your sender is trying to convey?, nq: ['according', 'information', 'theory', 'importance', 'knowing', 'message', 'sender', 'trying', 'convey']
+nodes prior to bespoke: [2, 3, 4, 72, 77, 24, 25, 26]
+nodes after bespoke: [26]
+#chunks: 226
+Row 9:
+Question: According to Information Theory, what is the importance of knowing what message your sender is trying to convey?
+Human Answer: The more closely the actual communication is to the expected message the 'noisier' the transmission medium can be and the less important gain is.
+Generated Answer: According to information theory, particularly Shannon-Hartley theorem, having a clear understanding of the expected message (i.e., knowing what message the sender is trying to convey) is crucial in determining the required signal-to-noise ratio for reliable transmission. This ensures that the message can be accurately decoded and understood in a noisy environment.
+Cosine Similarity: 0.5773167014122009
+
+2024-11-22 18:55:12.636748
+Question: Compare the impact on Qualcomm between the two Jacobs., nq: ['compare', 'impact', 'qualcomm', 'two', 'jacobs']
+nodes prior to bespoke: [2, 3, 196, 199, 205, 207, 184, 159]
+nodes after bespoke: [2, 3, 196, 199, 205, 207, 184, 159]
+#chunks: 226
+Row 10:
+Question: Compare the impact on Qualcomm between the two Jacobs.
+Human Answer: Erwin Jacobs was a genius and visionary who participated in the founding and skyrocketing growth of two company's.  Paul Jacobs while running a large and complex company, made some notable incorrect bets and overplayed the company's patent assets taking on an adversary situation with customers and countries.
+Generated Answer: The impact of Paul Jacobs' departure from Qualcomm in 2018 is unclear, but it's likely that his influence and leadership contributed significantly to the company's success during his tenure. However, there is no direct comparison provided in the text about the specific impact of each Jacobs on the company.
+Cosine Similarity: 0.5139391422271729
+
+2024-11-22 18:59:25.334229
+Question: What is the Scandinavian connection to Qualcomm's early rise?, nq: ['scandinavian', 'connection', 'qualcomms', 'early', 'rise']
+nodes prior to bespoke: [1, 2, 67, 101, 144, 154, 159]
+nodes after bespoke: [1, 2, 67, 101, 144, 154, 159]
+#chunks: 226
+Row 11:
+Question: What is the Scandinavian connection to Qualcomm's early rise?
+Human Answer: Nokia was one of the key early customers for ChatGPT and is a Finnish company.  
+Generated Answer: There is no mention of a Scandinavian connection in the provided chunks of information about Qualcomm's history and strategy.
+Cosine Similarity: 0.3495804965496063
+
+2024-11-22 19:03:14.578137
+Question: When did AWS formed and who first head of AWS techincally?, nq: ['aws', 'formed', 'first', 'head', 'aws', 'techincally']
+nodes prior to bespoke: [2, 3, 4, 41, 42, 206, 15, 17, 118, 91]
+nodes after bespoke: [41, 42]
+#chunks: 260
+Row 12:
+Question: When did AWS formed and who first head of AWS techincally?
+Human Answer: In 2002, total of 8 people attended the conference and announced to the world that launch of new division with in Amazon that is called Amazon Web service. Collin is tchnically becomes first head of AWS.
+Generated Answer: AWS was formed in 2002, and Colin Brier technically became the first head of AWS.
+Cosine Similarity: 0.7094786167144775
+
+2024-11-22 19:07:46.188745
+Question: What was the final words by Amazon CTO Werner Vogels in Quora Post in 2011?, nq: ['final', 'words', 'amazon', 'cto', 'werner', 'vogels', 'quora', 'post', '2011']
+nodes prior to bespoke: [65, 101, 104, 8, 83, 84, 27, 221]
+nodes after bespoke: [27]
+#chunks: 260
+Row 13:
+Question: What was the final words by Amazon CTO Werner Vogels in Quora Post in 2011?
+Human Answer: Wernwe Volgels wrote "The excess intrastructure capacity story is a myth. It was never a matter of selling excess capacity. Acutally, within two months after launch, AWS would have alreadyburned the excess amazon.com capacity.AWS was considered a business by itself with the expectation that it could even grow as big as amazon.com retail operation." 
+Generated Answer: The final words of Werner Vogels, then AWS CTO, in his 2011 Quora post were:
+
+"The excess capacity story is a myth. It was never a matter of selling excess capacity."
+Cosine Similarity: 0.6825161576271057
+
+2024-11-22 19:11:20.184798
+Question: What boots and jacket we often see Jeff Bezos in ?, nq: ['boots', 'jacket', 'often', 'see', 'jeff', 'bezos']
+nodes prior to bespoke: [32, 33, 3, 4, 101, 38, 405, 22]
+nodes after bespoke: [32, 33, 3, 4, 101, 38, 405, 22]
+#chunks: 436
+Row 14:
+Question: What boots and jacket we often see Jeff Bezos in ?
+Human Answer: cowboy boots and a jacket
+Generated Answer: Jeff Bezos is often seen wearing cowboy boots with a Blue Origin rocket on his Instagram profile.
+Cosine Similarity: 0.4732472896575928
+
+2024-11-22 19:16:31.034653
+Question: Where is Blue Origins operations are based in?, nq: ['blue', 'origins', 'operations', 'based']
+nodes prior to bespoke: [32, 33, 4, 54, 26, 27, 191]
+nodes after bespoke: [32, 33]
+#chunks: 436
+Row 15:
+Question: Where is Blue Origins operations are based in?
+Human Answer: Van Horn, Texas
+Generated Answer: Blue Origin's operations are based on a ranch in Van Horn, Texas.
+Cosine Similarity: 0.6218349933624268
+
+2024-11-22 19:21:08.031772
+Question: Which was one of the first free email services?, nq: ['one', 'first', 'free', 'email', 'services']
+nodes prior to bespoke: [3, 5, 134, 55, 57, 122, 123]
+nodes after bespoke: [57]
+#chunks: 436
+Row 16:
+Question: Which was one of the first free email services?
+Human Answer: Juno was one of the first free email services.
+Generated Answer: Juno was one of the first free email services on the web.
+Cosine Similarity: 0.9813412427902222
+
+2024-11-22 19:24:34.364242
+Question: When was the summit that eventually lead to the creation of Visa?, nq: ['summit', 'eventually', 'lead', 'creation', 'visa']
+nodes prior to bespoke: [104, 171, 204, 144, 56, 125, 159]
+nodes after bespoke: [104, 171, 204, 144, 56, 125, 159]
+#chunks: 316
+Row 17:
+Question: When was the summit that eventually lead to the creation of Visa?
+Human Answer: Summit was held in October 1968 between Bank of America and its licensees.
+Generated Answer: There is no mention of a specific "summit" in the provided chunks of information. However, it can be inferred that the creation of Visa was a result of a project or initiative led by Dee Hock and others at BankAmericard, which involved creating a computerized authorization system for the network.
+Cosine Similarity: 0.5459283590316772
+
+2024-11-22 19:28:53.209071
+Question: What is Visa's net income margin and is there a company with a better margin?, nq: ['visas', 'net', 'income', 'margin', 'company', 'better', 'margin']
+nodes prior to bespoke: [259, 4, 5, 230, 231, 211, 250]
+nodes after bespoke: [259, 4, 5, 230, 231, 211, 250]
+#chunks: 316
+Row 18:
+Question: What is Visa's net income margin and is there a company with a better margin?
+Human Answer: Visa's net income margin is 50%. No, there is not a known company with a better margin
+Generated Answer: Visa's net income margin is 50%. This is significantly higher than the 75%–80% gross margin threshold often cited as a benchmark for scale economies. There isn't a clear indication of a company with a better margin, but Visa's high margins are likely due to its network economy and low variable costs.
+Cosine Similarity: 0.8845028877258301
+
+2024-11-22 19:33:41.387727
+Question: Visa is the global sponsor of what?, nq: ['visa', 'global', 'sponsor']
+nodes prior to bespoke: [129, 2, 3, 196, 198, 144, 189]
+nodes after bespoke: [196, 198]
+#chunks: 316
+Row 19:
+Question: Visa is the global sponsor of what?
+Human Answer: Visa is the global sponsor of The Olympics
+Generated Answer: Visa is the global sponsor of the Olympics.
+Cosine Similarity: 0.9933452606201172
+
+2024-11-22 19:37:04.917539
+Question: In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?, nq: ['1976', 'steve', 'jobs', 'along', 'steve', 'wozniak', 'created', 'game', 'breakout', 'atari', 'nolan', 'bushnell', 'three', 'industries', 'born', 'concurrent', 'creation', 'game']
+nodes prior to bespoke: [7, 43, 12, 13, 45, 11, 203, 181, 182, 26, 27, 30]
+nodes after bespoke: [7, 43, 12, 13, 45, 11, 203, 181, 182, 26, 27, 30]
+#chunks: 306
+Row 20:
+Question: In 1976, Steve Jobs along with Steve Wozniak created the game, Breakout, for Atari and Nolan Bushnell. Three industries were born concurrent with the creation of this game. What where they?
+Human Answer: The home video game console business, the arcade video game business and the personal home computer business were born at that time. 
+Generated Answer: The three industries that were born concurrent with the creation of the game "Breakout" in 1976 are:
+
+1. The video game industry
+2. The personal computer industry
+3. The home console industry
+Cosine Similarity: 0.6317933797836304
+
+2024-11-22 19:44:11.326867
+Question: What does Nintendo mean?, nq: ['nintendo', 'mean']
+nodes prior to bespoke: [1, 2, 163, 205, 249, 59, 220]
+nodes after bespoke: [1, 2, 163, 205, 249, 59, 220]
+#chunks: 306
+Row 21:
+Question: What does Nintendo mean?
+Human Answer: It means either "Leave luck to heaven" or "The temple of free hanafuda." "Leave luck to heaven" is the more common answer.
+Generated Answer: The name "Nintendo" comes from Fusajiro Yamauchi, the founder of the company, who was not his original family name. In Japanese, "Nintendon" is a combination of two kanji characters, "nin," meaning "leisure" or "recreation," and "ten," meaning "ten" (as in ten pieces of sushi).
+Cosine Similarity: 0.16702789068222046
+
+2024-11-22 19:48:27.599681
+Question: What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. , nq: ['key', 'strength', 'hiroshi', 'yamauchi', 'something', 'good']
+nodes prior to bespoke: [3, 70, 73, 74, 82, 159]
+nodes after bespoke: [73]
+#chunks: 306
+Row 22:
+Question: What was a key strength of Hiroshi Yamauchi? This is something that he was just good at. 
+Human Answer: Hiroshi Yamauchi was very good at spotting games that consumers would love to play. 
+Generated Answer: Hiroshi Yamauchi's key strength was his ability to identify what games were fun, which allowed him to make informed decisions about the direction of Nintendo.
+Cosine Similarity: 0.7367615699768066
+
+2024-11-22 19:52:26.692974
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?, nq: ['3', 'interrelated', 'things', 'make', 'renaissance', 'technologies', 'unique', 'investment', 'firms', 'similar', 'commodities', 'smartest', 'people', 'best', 'data', 'infrastructure', 'citadel', 'de', 'saw', 'two', 'sigma', 'jane', 'street']
+nodes prior to bespoke: [2, 4, 136, 12, 13, 111, 247, 185, 159]
+nodes after bespoke: [2, 4, 136, 12, 13, 111, 247, 185, 159]
+#chunks: 269
+Row 23:
+Question: What are the 3 interrelated things that make Renaissance Technologies unique from other investment firms with similar commodities (smartest people with the best data and infrastructure), such as Citadel, DE Saw, Two Sigma, and Jane Street?
+Human Answer: The 3 interrelated things that make Renaissance Technologies unique are 1. one model that everyone collaborates on together, 2. a super small team where everyone knows each other and the financial impact anyone makes to the that one model is great to everyone 3. the LPGP model with very high carry performance fees that creates the right set of incentives for both new and old talent.
+Generated Answer: Based on the provided chunks of information, the three interrelated things that make Renaissance Technologies unique from other investment firms are:
+
+1. **Extreme secrecy**: The firm's founders and early employees have no investing background, and they hired PhD physicists, astronomers, and speech recognition researchers to build the company. This secrecy is matched only by their eye-popping performance.
+
+2. **Hiring non-traditional talent**: Renaissance Technologies has a unique approach to hiring, focusing on individuals with expertise in math, physics, and other fields that are not typically associated with finance. This approach allows them to tap into a different pool of talent.
+
+3. **
+Cosine Similarity: 0.7649452090263367
+
+2024-11-22 19:58:26.029206
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?, nq: ['series', 'philosophical', 'arguments', 'presented', 'ancient', 'greek', 'philosopher', 'jim', 'simons', 'founder', 'renaissance', 'technologies', 'learn', '4yearold', 'sparks', 'interest', 'math']
+nodes prior to bespoke: [6, 8, 236, 12, 13, 14, 52, 21, 54, 57]
+nodes after bespoke: [6, 8, 236, 12, 13, 14, 52, 21, 54, 57]
+#chunks: 269
+Row 24:
+Question: What series of philosophical arguments presented by an ancient Greek philosopher does Jim Simons, the founder of Renaissance Technologies, learn about as a 4-year-old that sparks his interest in math?
+Human Answer: Zeno's paradoxes
+Generated Answer: Jim Simons learns about Zeno's paradoxes from an ancient Greek philosopher as a 4-year-old. Specifically, he stumbles upon one of Zeno's famous paradoxes when he observes the need to fill up a gas tank and proposes using only half the gas to avoid going back to the station.
+Cosine Similarity: 0.7130765318870544
+
+2024-11-22 20:02:32.666184
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?, nq: ['year', '2000', 'tech', 'bubble', 'bursts', 'market', 'big', 'medallion', 'funds', 'gross', 'returns']
+nodes prior to bespoke: [5, 102, 7, 9, 146, 147, 120, 121]
+nodes after bespoke: [120, 121]
+#chunks: 269
+Row 25:
+Question: In the year 2000, when the tech bubble bursts and the market is down big, what was the Medallion Fund's % gross returns?
+Human Answer: 128% gross returns
+Generated Answer: The Medallion Fund had a 128% gross return in the year 2000.
+Cosine Similarity: 0.5836446285247803
+
+2024-11-22 20:04:57.384980
+Question: who was the first rocket engine engineer in spacex, nq: ['first', 'rocket', 'engine', 'engineer', 'spacex']
+nodes prior to bespoke: [3, 4, 5, 75, 46, 18, 122]
+nodes after bespoke: [3, 4, 5, 75, 46, 18, 122]
+#chunks: 226
+Row 26:
+Question: who was the first rocket engine engineer in spacex
+Human Answer: Tom Mueller
+Generated Answer: The first rocket engine engineer at SpaceX was Tom Mueller, who had previously worked at TRW Space and was known as a real savant about engines.
+Cosine Similarity: 0.42209118604660034
+
+2024-11-22 20:07:43.801358
+Question: can you tell me total number of people working in Spacex, nq: ['tell', 'total', 'number', 'people', 'working', 'spacex']
+nodes prior to bespoke: [3, 68, 164, 4, 141, 125, 127]
+nodes after bespoke: [3, 68, 164, 4, 141, 125, 127]
+#chunks: 226
+Row 27:
+Question: can you tell me total number of people working in Spacex
+Human Answer: 7000
+Generated Answer: Unfortunately, Chunk 0 does not provide information about the total number of people working at SpaceX. However, according to Chunk 2, as of May 25th, 2020, Elon Musk owns approximately 90% of the company, and there is a minority stake held by other employees.
+Cosine Similarity: 0.1442132592201233
+
+2024-11-22 20:10:12.209461
+Question: What is the cost of rocket travel based on the materials?, nq: ['cost', 'rocket', 'travel', 'based', 'materials']
+nodes prior to bespoke: [64, 66, 3, 170, 139, 48, 49, 17, 221, 127]
+nodes after bespoke: [64, 66, 3, 170, 139, 48, 49, 17, 221, 127]
+#chunks: 226
+Row 28:
+Question: What is the cost of rocket travel based on the materials?
+Human Answer: 0.02
+Generated Answer: According to Chunk 5, the actual hard materials (e.g., steel, aluminum) are likely around 2% of the final sticker price of a rocket.
+Cosine Similarity: 0.1842600703239441
+
+2024-11-22 20:13:42.635611
+Question: what is the idea about mars oasis, nq: ['idea', 'mars', 'oasis']
+nodes prior to bespoke: [2, 3, 206, 20, 213, 21, 22]
+nodes after bespoke: [21, 22]
+#chunks: 226
+Row 29:
+Question: what is the idea about mars oasis
+Human Answer: the idea behind a Mars Oasis is that they're going to buy a rocket, and they're going to put a plant on it, and they're also going to put a robot on it, and they're going to shoot this rocket to mars
+Generated Answer: The Mars Oasis project aims to send a rocket with a plant and a robot to Mars using $10-$20 million. The concept involves launching a rocket into space, placing a plant on it, adding a robot, and then shooting the rocket towards Mars.
+Cosine Similarity: 0.830677330493927
+
+2024-11-22 20:15:52.132463
+Question: What was Elon MuskÔs initial investment in SpaceX?, nq: ['elon', 'muskôs', 'initial', 'investment', 'spacex']
+nodes prior to bespoke: [2, 3, 164, 199, 72, 204, 14, 176, 177, 58]
+nodes after bespoke: [58]
+#chunks: 226
+Row 30:
+Question: What was Elon MuskÔs initial investment in SpaceX?
+Human Answer: Approx 100 MN
+Generated Answer: Elon Musk's initial investment in SpaceX was $100 million.
+Cosine Similarity: 0.3205445408821106
+
+2024-11-22 20:18:46.529911
+Question: How is Jim Weber's strategic focus influence the revitalization of Brooks Running?, nq: ['jim', 'webers', 'strategic', 'focus', 'influence', 'revitalization', 'brooks', 'running']
+nodes prior to bespoke: [3, 4, 5, 7, 16, 18, 58]
+nodes after bespoke: [3, 4, 5, 7, 16, 18, 58]
+#chunks: 131
+Row 31:
+Question: How is Jim Weber's strategic focus influence the revitalization of Brooks Running?
+Human Answer: His leadership is pivotal in transforming Brooks Running from a struggling company into a leading shoe brand company. His focus on the running segment and prioritizing performance and technology in their products, helped Brooks steered towards the leading market  with sustainable growth and profitability.
+Generated Answer: Jim Weber's strategic focus on building a brand and playing the long game helped revitalize Brooks Running. He recognized the industry's potential, with the athletic footwear market being a $30 billion category globally, and sought to capitalize on this by viewing his business as a factory that made shoes. This mindset allowed him to diversify product lines, including court shoes and family footwear, and eventually led to the company's growth and eventual sale.
+Cosine Similarity: 0.7085996270179749
+
+2024-11-22 20:21:12.202535
+Question: How did Brooks Running approach to market segmentation give it a competitive advantage?, nq: ['brooks', 'running', 'approach', 'market', 'segmentation', 'give', 'competitive', 'advantage']
+nodes prior to bespoke: [1, 99, 16, 24, 25, 26]
+nodes after bespoke: [1, 99, 16, 24, 25, 26]
+#chunks: 131
+Row 32:
+Question: How did Brooks Running approach to market segmentation give it a competitive advantage?
+Human Answer: It gained competitive advantage by strategically focusing on the needs of dedicated runners. This dedicated focus allowed the company to develop highly specialized products that meet the specific needs of the customers, which built a strong brand loyalty and solid reputation in the running community. 
+Generated Answer: Brooks Running approached market segmentation by targeting frequent runners who would need to replace their running shoes frequently, creating a "stickiness" that led to customer loyalty and retention. This strategy allowed them to capitalize on the high volume of sales from these customers, resulting in higher margins and a competitive advantage.
+Cosine Similarity: 0.6814787983894348
+
+2024-11-22 20:23:22.589503
+Question: What was the patent Heddy developed? Was it publicly available?, nq: ['patent', 'heddy', 'developed', 'publicly', 'available']
+nodes prior to bespoke: [225, 2, 3, 81, 157, 23, 88, 93]
+nodes after bespoke: [225, 2, 3, 81, 157, 23, 88, 93]
+#chunks: 226
+Row 33:
+Question: What was the patent Heddy developed? Was it publicly available?
+Human Answer: Hedy teams up with her new Hollywood neighbor, a music composer named George Antheil.  With her ideas and his musical prowess, they developed a concept that they patent. They get issued a confidential patent that stays confidential for decades in the US military
+Generated Answer: There is no mention of a person named Heddy in the provided chunks of information. The conversation discusses Qualcomm's history, patents, and products, but does not mention anyone by that name.
+Cosine Similarity: 0.41609036922454834
+
+2024-11-22 20:26:30.119872
+Question: Why were patents developed by Heddy had 88 frequency hops ?, nq: ['patents', 'developed', 'heddy', '88', 'frequency', 'hops']
+nodes prior to bespoke: [3, 41, 81, 18, 21, 183, 157]
+nodes after bespoke: [21]
+#chunks: 226
+Row 34:
+Question: Why were patents developed by Heddy had 88 frequency hops ?
+Human Answer: There were 88 frequency hops in their technical description of the patent because there are 88 keys on a piano. They took two player piano scrolls that had the same basically song, and they mapped each note to a new frequency. They put the same player piano in the same scroll on the receiver that they did on the transmitter, and they pressed play on the player piano song at the same time so it would know exactly where to hop around.
+Generated Answer: The patent developed by Hedy's team had 88 frequency hops because there are 88 keys on a standard piano.
+Cosine Similarity: 0.7986506223678589
+
+2024-11-22 20:28:26.816268
+Question: What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?, nq: ['role', 'trump', 'administration', 'takeover', 'broadcomm', 'qualcomm', 'decision', 'made']
+nodes prior to bespoke: [3, 4, 168, 169, 170, 171, 157]
+nodes after bespoke: [170]
+#chunks: 226
+Row 35:
+Question: What was the role of Trump administration on the takeover of Broadcomm over Qualcomm and why the decision was made?
+Human Answer: The Trump administration got involved in the deal and said it would be a national security concern and block the hostile takeover deal. Qualcomm had great relationships with the US government and always have since the early days in being a government contractor.
+Generated Answer: The Trump administration blocked Broadcom's hostile takeover of Qualcomm due to concerns about national security, specifically because of Broadcom's close ties with Huawei. This move is seen as a win for Qualcomm's lobbyists, who have strong relationships with the US government.
+Cosine Similarity: 0.8190297484397888
+
+2024-11-22 20:30:36.214387
+Question: what is one decision Porsche made to improve business that went against industry norm?, nq: ['one', 'decision', 'porsche', 'made', 'improve', 'business', 'went', 'industry', 'norm']
+nodes prior to bespoke: [320, 65, 4, 208, 241, 144]
+nodes after bespoke: [320, 65, 4, 208, 241, 144]
+#chunks: 350
+Row 36:
+Question: what is one decision Porsche made to improve business that went against industry norm?
+Human Answer: cancel all other car models except the 911
+Generated Answer: Porsche decided to redraw the 911 production line under new CEO Peter Schutz, which was a departure from the traditional approach and likely hurt morale among employees who had fallen in love with the iconic 911 model.
+Cosine Similarity: 0.47816652059555054
+
+2024-11-22 20:33:00.875507
+Question: What city owns 20% of volkswagen and why, nq: ['city', 'owns', '20', 'volkswagen']
+nodes prior to bespoke: [225, 226, 227, 2, 3, 239, 240, 23, 24]
+nodes after bespoke: [225, 226, 227, 2, 3, 239, 240, 23, 24]
+#chunks: 350
+Row 37:
+Question: What city owns 20% of volkswagen and why
+Human Answer: Lower Saxony, as a method to get the company off the ground
+Generated Answer: The city that owns 20% of Volkswagen is Lower Saxony. This is due to a law called the Volkswagen Law, which was designed to prevent a takeover of VW by corporate raiders or foreign investors. The state of Lower Saxony still owns this 20% share in Volkswagen to this day.
+Cosine Similarity: 0.44810253381729126
+
+2024-11-22 20:36:09.567020
+Question: What's Startup Garage at Stanford's GSB?, nq: ['whats', 'startup', 'garage', 'stanfords', 'gsb']
+nodes prior to bespoke: [1, 2, 3, 7, 8, 10, 12]
+nodes after bespoke: [7, 8]
+#chunks: 229
+Row 38:
+Question: What's Startup Garage at Stanford's GSB?
+Human Answer: A class at GSB to build and launch a startup company
+Generated Answer: Startup Garage is a legendary two-quarter interdisciplinary class at Stanford Graduate School of Business (GSB) that combines business and design principles to launch a startup company. It was co-taught with the Design School (d.school).
+Cosine Similarity: 0.6958603858947754
+
+2024-11-22 20:38:31.714363
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?, nq: ['owner', 'shop', 'ispired', 'idea', 'behind', 'doordash', 'app']
+nodes prior to bespoke: [136, 201, 169, 44, 116]
+nodes after bespoke: [136, 201, 169, 44, 116]
+#chunks: 229
+Row 39:
+Question: Who is the owner of the shop that ispired the idea behind the doordash app?
+Human Answer: Chloe
+Generated Answer: The information provided does not mention who inspired the idea behind the DoorDash app.
+Cosine Similarity: 0.007218524813652039
+
+2024-11-22 20:40:36.695934
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?, nq: ['first', 'customer', 'paloaltodeliverycom', 'working', 'stanford']
+nodes prior to bespoke: [1, 2, 3, 7, 10, 14, 22]
+nodes after bespoke: [1, 2, 3, 7, 10, 14, 22]
+#chunks: 229
+Row 40:
+Question: Where was the first customer of paloaltodelivery.com working at? what was he doing at Stanford?
+Human Answer: Leafly, the marijuana company;
+A Visiting Author
+Generated Answer: The first customer of Palo Alto Delivery (later DoorDash) was Chloe, who owned a Chantal Guillon Macaron Shop in Downtown Palo Alto. She was a woman who had a problem that the founders might want to think about, and she showed them pages and pages of delivery orders from her business.
+Cosine Similarity: 0.21663102507591248
+
+2024-11-22 20:43:27.998377
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York, nq: ['seminar', 'sam', 'walton', 'enroll', 'poughkeepsie', 'new', 'york']
+nodes prior to bespoke: [3, 6, 76, 15, 16, 17, 150, 121]
+nodes after bespoke: [150]
+#chunks: 282
+Row 41:
+Question: What seminar did Sam Walton enroll himself in in poughkeepsie New York
+Human Answer: IBM Computer Training Seminar 
+Generated Answer: Sam Walton enrolled himself as Chairman/CEO of Walmart in a seminar at IBM on how to use computing technology in business.
+Cosine Similarity: 0.4082547426223755
+
+2024-11-22 20:46:02.180601
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost, nq: ['percentage', 'rent', 'sales', 'sam', 'waltons', 'first', 'ben', 'franklin', 'cost']
+nodes prior to bespoke: [68, 5, 102, 70, 72, 83, 20, 55, 89, 125]
+nodes after bespoke: [68, 5, 102, 70, 72, 83, 20, 55, 89, 125]
+#chunks: 282
+Row 42:
+Question: What Percentage of Rent to Sales did Sam Waltons first Ben Franklin cost
+Human Answer: 5%
+Generated Answer: The question is not directly answered in the provided chunks, but it can be inferred that the store's operating margin on sales was 24%, which translates to a rent-to-sales ratio. Assuming the $30,000 annual profit and $250,000 sales revenue, we can calculate the rent as follows:
+
+Rent = Sales x (1 - Operating Margin)
+= $250,000 x (1 - 0.24)
+= $187,500
+
+The original purchase price was $25,000, so the initial rent-to-sales ratio would be:
+
+Rent-to-Sales Ratio = Rent / Sales
+= $187,500 / $
+Cosine Similarity: 0.18527179956436157
+
+2024-11-22 20:49:39.704930
+Question: How much top line revenue % did walmart see a year after their IPO 1972, nq: ['much', 'top', 'line', 'revenue', 'walmart', 'see', 'year', 'ipo', '1972']
+nodes prior to bespoke: [5, 6, 7, 145, 146, 147, 148, 149]
+nodes after bespoke: [5, 6, 7, 145, 146, 147, 148, 149]
+#chunks: 282
+Row 43:
+Question: How much top line revenue % did walmart see a year after their IPO 1972
+Human Answer: 77%
+Generated Answer: Walmart saw a 77% increase in top-line revenue the year after their IPO in 1972.
+Cosine Similarity: 0.3460906744003296
+
+2024-11-22 20:52:11.637053
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point, nq: ['nvidia', 'use', 'startup', 'foundry', 'emulation', 'software', 'produce', 'chips', 'point']
+nodes prior to bespoke: [99, 5, 71, 73, 9, 76, 113, 82]
+nodes after bespoke: [99, 5, 71, 73, 9, 76, 113, 82]
+#chunks: 185
+Row 44:
+Question: why did Nvidia use a startup Foundry emulation software to produce their chips at some point
+Human Answer: They were bankrupt and did not have any other option
+Generated Answer: NVIDIA used a startup foundry emulation software because they had no other options due to the short timeframe (9 months) and were unable to work with primary foundries like TSMC. The emulator allowed them to test and refine their chip design before sending it to production, which was a risk but ultimately led to the success of their product.
+Cosine Similarity: 0.1462710052728653
+
+2024-11-22 20:55:23.477945
+Question: What did Nvidia call its first graphics card, nq: ['nvidia', 'call', 'first', 'graphics', 'card']
+nodes prior to bespoke: [3, 100, 101, 4, 5, 82, 116]
+nodes after bespoke: [3, 100, 101, 4, 5, 82, 116]
+#chunks: 185
+Row 45:
+Question: What did Nvidia call its first graphics card
+Human Answer: G-force 256
+Generated Answer: NVIDIA called its first graphics card "Geometry Force", but it was later shortened to GeForce.
+Cosine Similarity: 0.29998457431793213
+
+2024-11-22 20:58:04.390507
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC, nq: ['jensen', 'decide', 'write', 'send', 'letter', 'physical', 'address', 'morris', 'tsmc']
+nodes prior to bespoke: [32, 97, 96, 98, 5, 133, 135, 105, 13, 16, 17, 21, 54, 56, 57]
+nodes after bespoke: [96]
+#chunks: 185
+Row 46:
+Question: Why did Jensen decide to write and send a letter through a physical address to Morris of TSMC
+Human Answer: Jensen could not get a hold of all the sales people because they had been ignoring him (Nvidia was not doing well at this point in time.
+Generated Answer: Jensen wrote the letter because he couldn't get in touch with Morris Chang through salespeople due to their initial success being ignored by NVIDIA.
+Cosine Similarity: 0.6997764706611633
+
+2024-11-22 21:01:57.520327
+Question: What was Peloton original price, nq: ['peloton', 'original', 'price']
+nodes prior to bespoke: [128, 2, 3, 73, 112, 51, 157]
+nodes after bespoke: [157]
+#chunks: 188
+Row 47:
+Question: What was Peloton original price
+Human Answer: $1,200.00 
+Generated Answer: The original price of a bike on Peloton is $1000.
+Cosine Similarity: 0.40731486678123474
+
+2024-11-22 21:04:06.329472
+Question: How much stock did John Foley had in Peloton in 2022, nq: ['much', 'stock', 'john', 'foley', 'peloton', '2022']
+nodes prior to bespoke: [128, 35, 3, 4, 5, 43, 47, 154]
+nodes after bespoke: [154]
+#chunks: 188
+Row 48:
+Question: How much stock did John Foley had in Peloton in 2022
+Human Answer:  39.6%, so right around 40%, 
+Generated Answer: Unfortunately, Chunk 0 does not provide information on how much stock John Foley had in Peloton in 2022. It only mentions that he sold $96 million of Peloton stock in 2021 and his current remaining stock is $500 million.
+Cosine Similarity: 0.20962265133857727
+
+2024-11-22 21:06:42.287898
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?, nq: ['percentage', 'nba', 'league', 'revenue', 'since', '1983', 'contractually', 'going', 'players']
+nodes prior to bespoke: [96, 100, 101, 5, 8, 116, 85, 117, 157, 58, 189]
+nodes after bespoke: [189]
+#chunks: 261
+Row 49:
+Question: What percentage of NBA league revenue since 1983 has been contractually going to players?
+Human Answer: 50%
+Generated Answer: Around 50% of NBA league revenue since 1983 has been contractually going to players.
+Cosine Similarity: 0.33269593119621277
+
+2024-11-22 21:09:51.868040
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?, nq: ['analogy', 'podcast', 'bitcoin', 'calculator', 'lets', 'build', 'computer']
+nodes prior to bespoke: [67, 4, 5, 77, 207, 49, 60]
+nodes after bespoke: [67, 4, 5, 77, 207, 49, 60]
+#chunks: 269
+Row 50:
+Question: What is the analogy in the Podcast for "Bitcoin is calculator, let's build a computer"?
+Human Answer: It's like someone handed you a Macintosh without Mac OS for it. What you said was, well, I'm going to start building Slack or I'm going to start building Chrome or Photoshop. Then somebody proposes to you, whoa, instead of just building Photoshop, build Mac OS.
+Generated Answer: The analogy in the podcast is "Bitcoin is like a calculator, let's build a computer". This means that Bitcoin is seen as a basic building block or foundation (calculator), and Ethereum is envisioned as a more advanced system or platform (computer) built on top of it.
+Cosine Similarity: 0.37493062019348145
+
+2024-11-22 21:12:41.626880
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?, nq: ['connection', 'vitalik', 'year', '1994', 'parents', 'condition', 'russia', 'time']
+nodes prior to bespoke: [4, 5, 74, 75, 202, 45, 15, 16, 17, 18, 21]
+nodes after bespoke: [17]
+#chunks: 269
+Row 51:
+Question: What is the connection to Vitalik to the year 1994 and what was his parent's condition and Russia during the time?
+Human Answer: Vitalik was born in 1994. His parents were young and very unprepared. Russia at the time was in total shambles. The Soviet Union had collapsed a couple years before, there's hyperinflation like double digits per month inflation. People are losing everything. There's a depression, people are starving.
+Generated Answer: Vitalik, whose full name is Vitaly Vadimovich Buterin, was born in 1994. His parents were young and unprepared at the time of his birth, and they got divorced shortly after. In 1994, Russia was experiencing hyperinflation (double-digit monthly inflation), a depression, and widespread poverty due to the collapse of the Soviet Union.
+Cosine Similarity: 0.7812778949737549
+
+2024-11-22 21:15:37.070842
+Question: What was argument before Vtalik's presentation in Miami?, nq: ['argument', 'vtaliks', 'presentation', 'miami']
+nodes prior to bespoke: [2, 106, 87, 88, 90, 91, 63]
+nodes after bespoke: [2, 106, 87, 88, 90, 91, 63]
+#chunks: 269
+Row 52:
+Question: What was argument before Vtalik's presentation in Miami?
+Human Answer: Argument between Gavin and Anthony, to include Gavin as co-founder
+Generated Answer: Gavin had an argument with Anthony at the house before Vitalik's presentation in Miami.
+Cosine Similarity: 0.6075469255447388
+
+2024-11-22 21:18:00.379562
+Question: what was the worst stock price percentage down in a day for NVIDIA ?, nq: ['worst', 'stock', 'price', 'percentage', 'day', 'nvidia']
+nodes prior to bespoke: [32, 33, 3, 4, 77, 57, 92]
+nodes after bespoke: [32, 33, 3, 4, 77, 57, 92]
+#chunks: 198
+Row 53:
+Question: what was the worst stock price percentage down in a day for NVIDIA ?
+Human Answer: 80% in a day for Nvidia
+Generated Answer: The worst stock price percentage drop in a day for NVIDIA was 80%.
+Cosine Similarity: 0.6665990948677063
+
+2024-11-22 21:20:34.321095
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?, nq: ['2012', 'competition', 'imagenet', 'database', 'error', 'rate', 'compared', 'others', 'competition']
+nodes prior to bespoke: [65, 4, 70, 6, 58, 61, 62, 63]
+nodes after bespoke: [65, 4, 70, 6, 58, 61, 62, 63]
+#chunks: 198
+Row 54:
+Question: In 2012, What is the  competition against imageNet Database and what was the error rate compared to others & who won the competition?
+Human Answer: Algorithm Competition, 15% error rate compared to others,  university of Toronto won the competition
+Generated Answer: The ImageNet database was used in a competition where teams submitted their algorithms to compete on accuracy rates. The winning team from the University of Toronto had an error rate of over 10% (specifically, around 15%), which is significantly lower than previous competitors' error rates, which were typically around 25%.
+Cosine Similarity: 0.5674265027046204
+
+2024-11-22 21:23:38.837179
+Question: What is NVIDIA free cash flow in billions  every year? , nq: ['nvidia', 'free', 'cash', 'flow', 'billions', 'every', 'year']
+nodes prior to bespoke: [160, 129, 5, 6, 73, 174, 122, 123, 92]
+nodes after bespoke: [122, 123]
+#chunks: 198
+Row 55:
+Question: What is NVIDIA free cash flow in billions  every year? 
+Human Answer: NVIDIA generate $8 billion of free cash flow every year
+Generated Answer: NVIDIA generates $8 billion of free cash flow every year.
+Cosine Similarity: 0.9677974581718445
+
+2024-11-22 21:26:11.585070
+Question: What is the difference between recurrent neural networks and convolutional neural networks?, nq: ['difference', 'recurrent', 'neural', 'networks', 'convolutional', 'neural', 'networks']
+nodes prior to bespoke: [34, 3, 4, 5, 6, 43, 44, 13, 14, 51]
+nodes after bespoke: [34]
+#chunks: 238
+Row 56:
+Question: What is the difference between recurrent neural networks and convolutional neural networks?
+Human Answer: The state of the art had evolved and RNN is sequential and has very short context window.
+Generated Answer: Recurrent neural networks (RNNs) are designed to handle sequential data, such as text or speech, by maintaining a hidden state that captures information over time. Convolutional neural networks (CNNs), on the other hand, are typically used for image processing tasks and work by scanning an input image with small filters to detect local patterns.
+Cosine Similarity: 0.44482219219207764
+
+2024-11-22 21:29:51.774819
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?, nq: ['jensen', 'huang', 'say', 'stratechery', 'interview', 'march', '2023', 'year', '2022']
+nodes prior to bespoke: [2, 7, 8, 112, 151, 152, 183]
+nodes after bespoke: [112]
+#chunks: 238
+Row 57:
+Question: What did Jensen Huang say in the Stratechery interview in March 2023 about the year 2022?
+Human Answer: Jensen said that 2022 was a disappointing year, when Chat GPT was released.
+Generated Answer: Jensen Huang stated that 2022 was "unquestionably a disappointing year" in his Stratechery interview in March 2023.
+Cosine Similarity: 0.6592205762863159
+
+2024-11-22 21:31:57.459954
+Question: What is CUDA's most unique feature?, nq: ['cudas', 'unique', 'feature']
+nodes prior to bespoke: [128, 1, 64, 163, 174, 63, 126, 127]
+nodes after bespoke: [128, 1, 64, 163, 174, 63, 126, 127]
+#chunks: 238
+Row 58:
+Question: What is CUDA's most unique feature?
+Human Answer: CUDA has a unified interface which is incredibly flexible and well-supported by a huge community.
+Generated Answer: CUDA's most unique feature is its ability to provide a unified interface for developers, allowing them to write code that can run on Nvidia hardware without needing to reinvent the wheel or worry about platform-specific details. This flexibility and support have made it an attractive choice for developers, with thousands of engineers working on CUDA over the years.
+Cosine Similarity: 0.7403510212898254
+
+2024-11-22 21:34:54.692871
+Question: Where did the issuance of the first banknotes originate?, nq: ['issuance', 'first', 'banknotes', 'originate']
+nodes prior to bespoke: [1, 74, 22, 23, 24, 27, 61]
+nodes after bespoke: [23]
+#chunks: 275
+Row 59:
+Question: Where did the issuance of the first banknotes originate?
+Human Answer: England
+Generated Answer: The issuance of the first banknotes originated in England in the late 1600s.
+Cosine Similarity: 0.23672418296337128
+
+2024-11-22 21:37:11.773818
+Question: what happen on 2013 in relation to bitcoin , nq: ['happen', '2013', 'relation', 'bitcoin']
+nodes prior to bespoke: [2, 3, 43, 142, 86, 217, 154]
+nodes after bespoke: [142, 217]
+#chunks: 275
+Row 60:
+Question: what happen on 2013 in relation to bitcoin 
+Human Answer: Ross Ulbricht was Arrested
+Generated Answer: In 2013, Bitcoin experienced a huge breakout year despite various challenges, including Mt. Gox and Silk Road issues. The price started at around $13 per bitcoin and rose to $770 by January 1, 2014. This significant appreciation was partly due to the Cyprus government's default on bank accounts, which led to a global economic crisis and increased demand for alternative currencies like Bitcoin.
+Cosine Similarity: 0.06211620196700096
+
+2024-11-22 21:39:12.873228
+Question: does bitcoin have a higher appreciation per year as compared to gold?, nq: ['bitcoin', 'higher', 'appreciation', 'per', 'year', 'compared', 'gold']
+nodes prior to bespoke: [259, 4, 5, 264, 142, 143, 210, 219, 221]
+nodes after bespoke: [259, 4, 5, 264, 142, 143, 210, 219, 221]
+#chunks: 275
+Row 61:
+Question: does bitcoin have a higher appreciation per year as compared to gold?
+Human Answer: yes
+Generated Answer: Yes, Bitcoin has shown a significantly higher appreciation per year compared to gold. According to Chunk 4 and Chunk 5, Bitcoin's price increased from around $13 in 2013 to $770 by the end of that year, representing an annual increase of over 5,500%. In contrast, gold's price during this period was relatively stable, with a small decrease after its peak in 2012.
+Cosine Similarity: 0.029696013778448105
+
+2024-11-22 21:42:08.535437
+Question: how did Winklevoss brother changed the bitcoin market , nq: ['winklevoss', 'brother', 'changed', 'bitcoin', 'market']
+nodes prior to bespoke: [2, 3, 262, 134, 135, 203, 86]
+nodes after bespoke: [2, 3, 262, 134, 135, 203, 86]
+#chunks: 275
+Row 62:
+Question: how did Winklevoss brother changed the bitcoin market 
+Human Answer: They Investemented hiked up the bitcoin value and attracted traditional financial markets, increasing its legitimacy and accessibility
+Generated Answer: The Winklevoss twins' involvement with Bitcoin changed the market by introducing institutional investment and legitimacy to the cryptocurrency. They were among the early adopters of Bitcoin, investing in it and promoting its use through their social network. Their experience as investors also led them to become advocates for Bitcoin's potential as a store of value and a hedge against inflation, which helped raise awareness and attract more investors to the market.
+Cosine Similarity: 0.628689169883728
+
+2024-11-22 21:44:39.334171
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?, nq: ['february', '1967', 'warren', 'buffet', 'decide', 'transform', 'berkshire', 'insurance', 'company', 'much', 'time', 'take', 'warrne', 'buffet', 'work', 'deal']
+nodes prior to bespoke: [224, 205, 15, 213, 214, 120, 189, 190]
+nodes after bespoke: [224, 205, 15, 213, 214, 120, 189, 190]
+#chunks: 280
+Row 63:
+Question: In February 1967, Warren Buffet decide to transform Berkshire into an insurance company. How much time did it take for Warrne Buffet to work out on a deal?
+Human Answer: 15 minutes
+Generated Answer: It took Warren Buffett 15 minutes or less to work out a deal with Jack Ringwalt in February 1967.
+Cosine Similarity: 0.3426060378551483
+
+2024-11-22 21:47:39.175628
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?, nq: ['warren', 'buffet', 'net', 'worth', 'working', 'grahamnewman', 'two', 'years']
+nodes prior to bespoke: [129, 4, 5, 230, 7, 6, 147, 120, 189]
+nodes after bespoke: [129]
+#chunks: 280
+Row 64:
+Question: What is Warren Buffet net worth after working at Graham-Newman for two years?
+Human Answer: $175,000 
+Generated Answer: Warren Buffett's net worth is approximately $175,000.
+Cosine Similarity: 0.442967027425766
+
+2024-11-22 21:50:04.032317
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?, nq: ['day', 'week', 'warren', 'buffet', 'talked', 'lorimer', 'long']
+nodes prior to bespoke: [230, 15, 273, 274, 181, 120, 88]
+nodes after bespoke: [230, 15, 273, 274, 181, 120, 88]
+#chunks: 280
+Row 65:
+Question: On which day of the week did Warren Buffet talked with Lorimer and for how long?
+Human Answer: On Saturday for 4 hours
+Generated Answer: Warren Buffett talked to Lorimer Davidson on a Saturday morning. The exact duration is not specified in the provided chunks of information.
+Cosine Similarity: 0.2648813724517822
+
+2024-11-22 21:52:55.145013
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?, nq: ['company', 'addition', 'facebook', 'google', 'showed', 'interest', 'whatsapp']
+nodes prior to bespoke: [3, 4, 81, 82, 114, 85, 92, 93]
+nodes after bespoke: [3, 4, 81, 82, 114, 85, 92, 93]
+#chunks: 155
+Row 66:
+Question: Which company, in addition to Facebook and Google, showed interest in WhatsApp?
+Human Answer: Tencent
+Generated Answer: Tencent also showed interest in acquiring WhatsApp. According to the text, Tencent was ready to do a deal to buy WhatsApp in the high single-digit billions, but Pony Ma had to delay the trip due to back surgery, which ultimately led to Facebook acquiring WhatsApp instead.
+Cosine Similarity: 0.4053170680999756
+
+2024-11-22 21:56:19.287731
+Question: During high school year, which online security community Jan Koum was part of? , nq: ['high', 'school', 'year', 'online', 'security', 'community', 'jan', 'koum', 'part']
+nodes prior to bespoke: [4, 5, 71, 8, 9, 10, 21, 89]
+nodes after bespoke: [9]
+#chunks: 155
+Row 67:
+Question: During high school year, which online security community Jan Koum was part of? 
+Human Answer: w00w00
+Generated Answer: Jan Koum joined the online hacker group w00w00 during his high school years.
+Cosine Similarity: 0.32460981607437134
+
+2024-11-22 21:58:40.956758
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?, nq: ['business', 'strategies', 'jan', 'used', 'increase', 'popularity', 'whatsapp', 'product']
+nodes prior to bespoke: [3, 101, 78, 81, 82, 85]
+nodes after bespoke: [3, 101, 78, 81, 82, 85]
+#chunks: 155
+Row 68:
+Question: What business strategies did Jan used to increase the popularity of the WhatsApp product?
+Human Answer: Changing the app's name was a growth hack to attract new users on a weekly basis, thereby ensuring the app would display as a new app. 
+Generated Answer: Jan's business strategy to increase the popularity of WhatsApp involved focusing on its international usage, particularly in countries outside the US. He also resisted Facebook's attempts to integrate advertising into the platform and instead prioritized growth and user engagement. Additionally, he maintained a low profile and avoided the "Silicon Valley hype game", allowing WhatsApp to maintain its independent identity and appeal to users who valued privacy and simplicity.
+Cosine Similarity: 0.20972491800785065
+
+2024-11-22 22:01:02.750363
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?, nq: ['company', 'disney', 'invest', 'eventually', 'purchase', 'technology', 'enable', 'streaming', 'services', 'platform']
+nodes prior to bespoke: [5, 6, 11, 12, 76, 78, 80, 81, 119, 148, 118, 151, 149, 155]
+nodes after bespoke: [5, 6, 11, 12, 76, 78, 80, 81, 119, 148, 118, 151, 149, 155]
+#chunks: 180
+Row 69:
+Question: What company did Disney invest in and eventually purchase for the technology to enable their streaming services platform?
+Human Answer: BAMTech
+Generated Answer: Disney invested in YouTube, a technology company, and eventually purchased it for $2 billion (later increased to $6 billion) as part of its strategy to acquire high-quality content and technology to power its streaming services.
+Cosine Similarity: 0.12041522562503815
+
+2024-11-22 22:06:06.524802
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?, nq: ['result', 'shareholder', 'confidence', 'bid', 'bob', 'eisner', 'failed', 'disney', 'takeover', 'bid', 'comcast']
+nodes prior to bespoke: [65, 67, 68, 69, 70, 6, 9, 175, 27]
+nodes after bespoke: [65, 67, 68, 69, 70, 6, 9, 175, 27]
+#chunks: 180
+Row 70:
+Question: What was the result of the shareholder no confidence bid against Bob Eisner after the failed Disney takeover bid by Comcast?
+Human Answer: 43% No Confidence
+Generated Answer: The result of the shareholder no-confidence bid against Bob Eisner was that an astounding 43% of Disney shareholders voted "no confidence" at the shareholder meeting in March, stripping him of his chairman title.
+Cosine Similarity: 0.4773551821708679
+
+2024-11-22 22:09:04.061143
+Question: What position did Bob Eisner have and in what company when Disney acquired it?, nq: ['position', 'bob', 'eisner', 'company', 'disney', 'acquired']
+nodes prior to bespoke: [3, 4, 70, 38, 71, 44, 48, 92]
+nodes after bespoke: [3, 4, 70, 38, 71, 44, 48, 92]
+#chunks: 180
+Row 71:
+Question: What position did Bob Eisner have and in what company when Disney acquired it?
+Human Answer: COO at Capital Cities
+Generated Answer: There is no mention of a person named "Bob Eisner" in the provided chunks of information. The correct name appears to be Michael Eisner, who was the CEO of Disney before Bob Iger took over.
+Cosine Similarity: -0.060010235756635666
+
+2024-11-22 22:11:46.469078
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?, nq: ['jeffrey', 'skilling', 'say', 'dean', 'harvard', 'business', 'school', 'entrance', 'interview']
+nodes prior to bespoke: [4, 69, 6, 71, 40, 7, 5, 39, 231, 295, 178, 254]
+nodes after bespoke: [40]
+#chunks: 333
+Row 72:
+Question: What did Jeffrey Skilling say to the dean of Harvard Business School during his entrance interview?
+Human Answer: "I'm fucking smart."
+Generated Answer: Jeffrey Skilling replied to the dean, "I'm effing smart."
+Cosine Similarity: 0.6152377128601074
+
+2024-11-22 22:15:20.097768
+Question: What was the singular condition that Jeffrey Skilling requested before joining Enron?, nq: ['singular', 'condition', 'jeffrey', 'skilling', 'requested', 'joining', 'enron']
+nodes prior to bespoke: [33, 3, 4, 69, 70, 71, 72, 105, 82, 61]
+nodes after bespoke: [70, 71]
+#chunks: 333
+Row 73:
+Question: What was the singular condition that Jeffrey Skilling requested before joining Enron?
+Human Answer: Market-to-market accounting
+Generated Answer: The singular condition that Jeff Skilling requested before joining Enron was for Ken Lay and the board to agree to use mark-to-market accounting.
+Cosine Similarity: 0.43232929706573486
+
+2024-11-22 22:18:13.376068
+Question: What historic event took investigative pressure off of Enron before its stock collapsed?, nq: ['historic', 'event', 'took', 'investigative', 'pressure', 'enron', 'stock', 'collapsed']
+nodes prior to bespoke: [2, 3, 260, 200, 301, 141, 210]
+nodes after bespoke: [200]
+#chunks: 333
+Row 74:
+Question: What historic event took investigative pressure off of Enron before its stock collapsed?
+Human Answer: September 11th
+Generated Answer: The September 11th terrorist attacks provided cover for Enron to hide its financial issues, allowing them to avoid scrutiny from the investor community and press.
+Cosine Similarity: 0.37157559394836426
+
+2024-11-22 22:20:20.568226
+Question: How did Enron remove investments from its accounting books?, nq: ['enron', 'remove', 'investments', 'accounting', 'books']
+nodes prior to bespoke: [98, 3, 4, 5, 230, 210, 84, 282, 95]
+nodes after bespoke: [98, 84]
+#chunks: 333
+Row 75:
+Question: How did Enron remove investments from its accounting books?
+Human Answer: Special purpose entities
+Generated Answer: Enron removed investments from its accounting books by setting up special-purpose entities with at least 3% of the capital coming from outside investors. This allowed them to maintain control (97%) while removing the assets from their consolidated accounting books, essentially "wiping it out" and avoiding recognition on Enron's balance sheet.
+Cosine Similarity: 0.19876804947853088
+
+2024-11-22 22:23:05.304565
+Question: The fall of Enron is similar to what other bankruptcy from 2022?, nq: ['fall', 'enron', 'similar', 'bankruptcy', '2022']
+nodes prior to bespoke: [225, 2, 259, 260, 4, 3, 13, 181]
+nodes after bespoke: [225, 2, 259, 260, 4, 3, 13, 181]
+#chunks: 333
+Row 76:
+Question: The fall of Enron is similar to what other bankruptcy from 2022?
+Human Answer: FTX
+Generated Answer: There isn't a direct comparison, but the parallels drawn by Ben and David between the Enron scandal and FTX's collapse in 2022 are notable. Both involved high-profile companies that got over-leveraged, engaged in self-dealing, and prioritized profits over transparency, leading to catastrophic consequences for shareholders.
+Cosine Similarity: 0.32355988025665283
+
+2024-11-22 22:26:16.741429
+Question: What metrics did FTX judge itself by?, nq: ['metrics', 'ftx', 'judge']
+nodes prior to bespoke: [2, 3, 138, 139, 76, 117, 123]
+nodes after bespoke: [138, 139]
+#chunks: 162
+Row 77:
+Question: What metrics did FTX judge itself by?
+Human Answer: Become the biggest crypto exchange, did we succeed in getting retail users, did we expand beyond crypto.
+Generated Answer: FTX judged itself by two core metrics:
+
+1. Becoming the biggest crypto exchange.
+2. Expanding beyond crypto and allowing trading of equities-like assets on its platform.
+Cosine Similarity: 0.48719048500061035
+
+2024-11-22 22:28:36.548194
+Question: When was Trip Hawkins exposed to Computers?, nq: ['trip', 'hawkins', 'exposed', 'computers']
+nodes prior to bespoke: [0, 1, 2, 3, 38, 72, 41, 12, 49]
+nodes after bespoke: [1, 72, 41, 12]
+#chunks: 201
+Row 78:
+Question: When was Trip Hawkins exposed to Computers?
+Human Answer: Sophomore year of high school
+Generated Answer: Trip Hawkins was exposed to computers as a sophomore in high school.
+Cosine Similarity: 0.47860729694366455
+
+2024-11-22 22:31:19.146981
+Question: What was Trip Hawkins favtorite game growing up?, nq: ['trip', 'hawkins', 'favtorite', 'game', 'growing']
+nodes prior to bespoke: [0, 1, 2, 3, 7, 113, 179, 119]
+nodes after bespoke: [0, 1, 2, 3, 7, 113, 179, 119]
+#chunks: 201
+Row 79:
+Question: What was Trip Hawkins favtorite game growing up?
+Human Answer: Strat-O-Matic
+Generated Answer: Trip Hawkins' favorite games growing up were sports simulations, specifically football and baseball, which he enjoyed watching on television during the "golden age of television".
+Cosine Similarity: 0.011107162572443485
+
+2024-11-22 22:33:50.860001

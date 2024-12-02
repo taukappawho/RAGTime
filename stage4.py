@@ -36,14 +36,14 @@ def load_file_content(file_name):
         return file.read()
 
 # Step 3: Send context and question to Ollama
-def query_ollama(question):
+def query_ollama(question, model):
     ollama_api_url = "http://localhost:11434/api/generate"
     headers = {'Content-Type': 'application/json'}
     
     payload = {
         "prompt": f"{question}",
         # "model": "rag3.2:3b",  # Adjust based on Ollama model
-        "model": "llama3.1:8brag ",  # Adjust based on Ollama model
+        "model": f"{model}",  # Adjust based on Ollama model
         "stream": False
     }
 
@@ -164,17 +164,22 @@ def add_useful(list, percent, big_list):
     for l1 in list:
         for l2 in l1:
             arr[l2]  = arr[l2] + 1
+    print(f"arr={arr}")
+    index = 0
     for idx in arr:
+        print(f"\tidx={idx}, bar={bar}")
         if idx >= bar:
-            ret_value.append(idx)
+            ret_value.append(index)
+        index = index + 1
+    print(f"ret_val={ret_value}")
     for l1 in list:
         if len(l1) < 4:
             ret_value.extend(l1)
     return ret_value
     
-def main(csv_file,file):
-    # model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")  # Lightweight SBERT model
+def main(csv_file,file, p):
     
+    # model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")  # Lightweight SBERT model
     # Load data from csv
     data = load_data_from_csv(csv_file)
     last_file_name = ""
@@ -221,12 +226,12 @@ def main(csv_file,file):
         query_embedding = np.array([query_embedding])  # Convert to 2D array with shape (1, embedding_dimension)
         q = []
         nq = preprocess_text(question)
-        print(f"Question: {question}, nq: {nq}")
+        out(f"Question: {question}, nq: {nq}", file)
         for word in nq:
             if word in words:
                 print(f"word: {word}")
                 q.append(words[word])
-        print(q)  
+        out(f"q={q}", file)  
 
         # Perform the search
         k = 5  # Number of nearest neighbors to retrieve
@@ -236,17 +241,29 @@ def main(csv_file,file):
         # ans = []
         nodes = indices[0].tolist() #the semantic matches
         
-        
-#addusefule params, 1: query, 2: percentage of query BOW in chunk to be included; 3: list of all chunks
-        nodes.extend(add_useful(q, .5, chunk_list))
+
+            
+#add useful params, 1: query, 2: percentage of query BOW in chunk to be included; 3: list of all chunks
+        nodes.extend(add_useful(q, p, chunk_list))
         nodes = list(set(nodes))
-        
+        out(f"nodes prior to bespoke: {nodes}", file)
         #eval each node for final acceptance
+        #stage4 changes
+        nodes_accepted = []
+        for node in nodes:
+            document = f"document: {chunk_list[node]}"
+            claim = f"claim: {question}"
+            prompt = f"{document}\n{claim}"
+            answer = query_ollama(prompt, "bespoke-minicheck")
+            print(f"bespoke answer: {answer}")
+            if answer == "Yes":
+                nodes_accepted.append(node)
+                print(f"node[{node}] accepted")
         
-        
-        
-        print(f"nodes: {nodes}")
-        print(f"#chunks: {len(chunk_list)}")
+        if len(nodes_accepted) != 0:
+            nodes = nodes_accepted
+        out(f"nodes after bespoke: {nodes}", file)
+        out(f"#chunks: {len(chunk_list)}", file)
         i = 0
         prompt = f"Here are {len(nodes)} chunks of information relevant to the following question. Please read each chunk carefully and provide a concise answer based on the information."
         for idx in nodes[:7]:
@@ -255,7 +272,11 @@ def main(csv_file,file):
         prompt = prompt + "\n\n" + f"Question: [{question}]"
         # print(f"promtp: {prompt}")
         
-        generated_answer = query_ollama(prompt)
+        #models
+        #"llama3.1:8brag"
+        #"rag3.2:3b"
+        #"bespoke-minicheck"
+        generated_answer = query_ollama(prompt, "rag3.2:3b")
         # for idx in nodes:
         #     print(f"{idx}:\t{chunk_list[idx]}")
         # generated_answer = None
@@ -274,8 +295,12 @@ def main(csv_file,file):
         out(f"Cosine Similarity: {similarity_score}\n", file)
         
 if __name__ == "__main__":
-    with open("stage3_responses.txt","a+", encoding="utf-8") as file:
-        csv_file = '.\\archive\\stage_0_qa.csv' 
-        main(csv_file,file)
-        file.write(str(datetime.now()))
-    file.close()
+    percent = [1,.9,.8,.7,.6,.5,.4,.3,.2,.1,0]
+    for p in percent:
+        p1 = p*10
+        with open(f"stage4_{p1}_responses.txt","a+", encoding="utf-8") as file:
+            out(f"stage4/llama3.2:3b/bespoke/p={p}", file)
+            csv_file = '.\\archive\\stage_0_qa.csv' 
+            main(csv_file,file, p)
+            file.write(str(datetime.now()))
+        file.close()

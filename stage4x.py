@@ -316,7 +316,7 @@ def main(csv_file,file, p):
         out(f"Cosine Similarity: {similarity_score}\n", file)
         
 if __name__ == "__main__":
-    percent = [1]
+    percent = [0,.2,.4,.6,.8,1]
     for p in percent:
         p1 = p*10
         with open(f"stage4_{p1}_responses.txt","a+", encoding="utf-8") as file:

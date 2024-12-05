@@ -116,36 +116,36 @@ def preprocess_text(text):
     return words
    
 # Initialize Neo4j driver 
-uri = "bolt://localhost:7687"
-username = "neo4j"
-password = "password"
-driver = GraphDatabase.driver(uri, auth=(username, password))
+# uri = "bolt://localhost:7687"
+# username = "neo4j"
+# password = "password"
+# driver = GraphDatabase.driver(uri, auth=(username, password))
 
 # Function to create nodes and relationships in Neo4j
-def create_chunks_in_neo4j(chunk_list, words):
-    with driver.session() as session:
-        # Step 1: Create nodes for each chunk
-        for idx, chunk in enumerate(chunk_list):
-            session.run(
-                """
-                MERGE (c:Chunk {id: $id, text: $text})
-                """,
-                id=idx, text=chunk
-            )
+# def create_chunks_in_neo4j(chunk_list, words):
+#     with driver.session() as session:
+#         # Step 1: Create nodes for each chunk
+#         for idx, chunk in enumerate(chunk_list):
+#             session.run(
+#                 """
+#                 MERGE (c:Chunk {id: $id, text: $text})
+#                 """,
+#                 id=idx, text=chunk
+#             )
         
-        # Step 2: Create relationships based on shared words
-        for word, indices in words.items():
-            if indices:  # Skip if `indices` is empty
-                # For each pair of indices, create a relationship between chunks
-                for i in range(len(indices) - 1):
-                    for j in range(i + 1, len(indices)):
-                        session.run(
-                            """
-                            MATCH (c1:Chunk {id: $id1}), (c2:Chunk {id: $id2})
-                            MERGE (c1)-[:SHARES_WORD {word: $word}]->(c2)
-                            """,
-                            id1=indices[i], id2=indices[j], word=word
-                        )
+#         # Step 2: Create relationships based on shared words
+#         for word, indices in words.items():
+#             if indices:  # Skip if `indices` is empty
+#                 # For each pair of indices, create a relationship between chunks
+#                 for i in range(len(indices) - 1):
+#                     for j in range(i + 1, len(indices)):
+#                         session.run(
+#                             """
+#                             MATCH (c1:Chunk {id: $id1}), (c2:Chunk {id: $id2})
+#                             MERGE (c1)-[:SHARES_WORD {word: $word}]->(c2)
+#                             """,
+#                             id1=indices[i], id2=indices[j], word=word
+#                         )
 
 def distinct(list):
     last = list[0]
